@@ -1,0 +1,33 @@
+{
+  "source_sets": [
+    {
+      "key": "root_snapshot",
+      "label": "Root Snapshot",
+      "path": "data/raw/root_snapshot",
+      "priority": 100,
+      "notes": "Original top-level working export."
+    },
+    {
+      "key": "copy_master_ultimate",
+      "label": "Copy Master Swipe Ultimate",
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file",
+      "priority": 90,
+      "notes": "Most complete legacy project build."
+    },
+    {
+      "key": "copy_master_base",
+      "label": "Copy Master Swipe Base",
+      "path": "data/raw/legacy_collections/copy_master_swipe/swipe-file",
+      "priority": 70,
+      "notes": "Earlier nested project copy."
+    },
+    {
+      "key": "copy_master_real_snapshot",
+      "label": "Copy Master Swipe Real Snapshot",
+      "path": "data/raw/legacy_collections/copy_master_swipe/swipe-file/real_swipe_file",
+      "priority": 60,
+      "notes": "Nested snapshot of the original real swipe file."
+    }
+  ]
+}
+

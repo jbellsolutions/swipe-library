@@ -1,0 +1,63 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Swipe Library Entry",
+  "type": "object",
+  "required": [
+    "entry_id",
+    "fingerprint",
+    "source_collection",
+    "source_path",
+    "source_type",
+    "source_format",
+    "title",
+    "tags",
+    "intent_profiles",
+    "priority",
+    "quality"
+  ],
+  "properties": {
+    "entry_id": { "type": "string" },
+    "fingerprint": { "type": "string" },
+    "author_key": { "type": ["string", "null"] },
+    "author_name": { "type": ["string", "null"] },
+    "source_collection": { "type": "string" },
+    "source_path": { "type": "string" },
+    "source_type": { "type": "string" },
+    "source_format": { "type": "string" },
+    "title": { "type": "string" },
+    "date": { "type": ["string", "null"] },
+    "content": { "type": ["string", "null"] },
+    "excerpt": { "type": ["string", "null"] },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "intent_profiles": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "style_traits": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "priority": { "type": "integer" },
+    "quality": {
+      "type": "object",
+      "required": ["completeness", "char_count", "word_count", "duplicate_count"],
+      "properties": {
+        "completeness": { "type": "string" },
+        "char_count": { "type": "integer" },
+        "word_count": { "type": "integer" },
+        "duplicate_count": { "type": "integer" }
+      }
+    },
+    "relationships": {
+      "type": "object",
+      "properties": {
+        "canonical_entry_id": { "type": ["string", "null"] },
+        "duplicate_group": { "type": "string" }
+      }
+    }
+  }
+}
+

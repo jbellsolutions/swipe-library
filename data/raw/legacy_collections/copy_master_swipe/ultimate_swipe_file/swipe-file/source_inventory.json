@@ -1,0 +1,223 @@
+{
+  "generated_on": "2026-03-24",
+  "project_goal": "Build a complete swipe file per copywriter across email, landing pages, training, and resources.",
+  "copywriters": [
+    {
+      "sender_key": "alex_hormozi",
+      "display_name": "Alex Hormozi",
+      "email_from": [
+        "value@acquisition.com"
+      ],
+      "official_domains": [
+        "acquisition.com"
+      ],
+      "verified_sources": [
+        {
+          "type": "homepage",
+          "url": "https://www.acquisition.com/",
+          "notes": "Primary brand site."
+        },
+        {
+          "type": "books",
+          "url": "https://www.acquisition.com/books",
+          "notes": "Book landing pages and supporting copy."
+        },
+        {
+          "type": "resource_pdf",
+          "url": "https://www.acquisition.com/hubfs/%24100M%20Journal.pdf?_hsmi=270942046",
+          "notes": "Downloadable resource discovered via search."
+        }
+      ]
+    },
+    {
+      "sender_key": "bill_mueller",
+      "display_name": "Bill Mueller",
+      "email_from": [
+        "bill@storysalesmachine.com"
+      ],
+      "official_domains": [
+        "storysalesmachine.com"
+      ],
+      "verified_sources": [
+        {
+          "type": "homepage",
+          "url": "https://www.storysalesmachine.com/",
+          "notes": "Primary brand site for Story Sales Machine."
+        },
+        {
+          "type": "policy",
+          "url": "https://www.storysalesmachine.com/privacy-policy",
+          "notes": "Confirms site ownership and support email."
+        }
+      ]
+    },
+    {
+      "sender_key": "brian_kurtz",
+      "display_name": "Brian Kurtz",
+      "email_from": [
+        "brian@briankurtz.net"
+      ],
+      "official_domains": [
+        "briankurtz.net"
+      ],
+      "verified_sources": [
+        {
+          "type": "homepage",
+          "url": "https://www.briankurtz.net/",
+          "notes": "Primary brand site."
+        },
+        {
+          "type": "free_tools",
+          "url": "https://www.briankurtz.net/free-tools/",
+          "notes": "Direct Marketer's Toolkit lead magnet page."
+        }
+      ]
+    },
+    {
+      "sender_key": "jay_abraham",
+      "display_name": "Jay Abraham",
+      "email_from": [
+        "jay@abraham.com",
+        "jaipremium@substack.com"
+      ],
+      "official_domains": [
+        "abraham.com"
+      ],
+      "verified_sources": [
+        {
+          "type": "homepage",
+          "url": "https://www.abraham.com/",
+          "notes": "Primary consulting and offer site."
+        },
+        {
+          "type": "resources",
+          "url": "https://www.abraham.com/profitresources/",
+          "notes": "Resource hub with presentations, transcripts, and strategic content."
+        },
+        {
+          "type": "resource_pdf",
+          "url": "https://www.abraham.com/wp-content/uploads/2024/03/On_Thinking_Differently_219pgs.pdf",
+          "notes": "Long-form downloadable resource."
+        }
+      ]
+    },
+    {
+      "sender_key": "jon_buchan",
+      "display_name": "Jon Buchan",
+      "email_from": [
+        "jon@charm-offensive.co.uk"
+      ],
+      "official_domains": [
+        "charm-offensive.co.uk"
+      ],
+      "verified_sources": [
+        {
+          "type": "homepage",
+          "url": "https://www.charm-offensive.co.uk/",
+          "notes": "Primary site."
+        },
+        {
+          "type": "swipe_files",
+          "url": "https://www.charm-offensive.co.uk/product-category/swipe-files/",
+          "notes": "Archive of swipe-file products."
+        }
+      ]
+    },
+    {
+      "sender_key": "lead_gen_jay",
+      "display_name": "Lead Gen Jay",
+      "email_from": [
+        "jay@leadgenjay.com"
+      ],
+      "official_domains": [
+        "leadgenjay.com",
+        "web.leadgenjay.com"
+      ],
+      "verified_sources": [
+        {
+          "type": "homepage",
+          "url": "https://leadgenjay.com/",
+          "notes": "Primary brand site."
+        },
+        {
+          "type": "course",
+          "url": "https://leadgenjay.com/cold-email--lead-gen-course",
+          "notes": "Cold email course and community page."
+        },
+        {
+          "type": "tool",
+          "url": "https://web.leadgenjay.com/tools/cold-email-ai",
+          "notes": "Cold Email AI tool page."
+        }
+      ]
+    },
+    {
+      "sender_key": "liam_ottley",
+      "display_name": "Liam Ottley",
+      "email_from": [
+        "admin@liamottley.com"
+      ],
+      "official_domains": [
+        "liamottley.com"
+      ],
+      "verified_sources": [
+        {
+          "type": "homepage",
+          "url": "https://www.liamottley.com/",
+          "notes": "Primary personal site linking to community, Morningside AI, and AAA Accelerator."
+        }
+      ]
+    },
+    {
+      "sender_key": "todd_brown",
+      "display_name": "Todd Brown",
+      "email_from": [
+        "support@marketingfunnelautomation.com"
+      ],
+      "official_domains": [
+        "toddbrown.me",
+        "marketingfunnelautomation.com"
+      ],
+      "verified_sources": [
+        {
+          "type": "proof",
+          "url": "https://toddbrown.me/proof/",
+          "notes": "E5 Method proof page."
+        },
+        {
+          "type": "blog",
+          "url": "https://toddbrown.me/how-to-turn-a-mediocre-marketing-funnel-into-a-powerhouse-producer-for-you-part-4-of-5/",
+          "notes": "Representative long-form article on funnel strategy."
+        }
+      ]
+    },
+    {
+      "sender_key": "tom_bilyeu",
+      "display_name": "Tom Bilyeu",
+      "email_from": [
+        "tombilyeu@impacttheory.com"
+      ],
+      "official_domains": [
+        "impacttheory.com",
+        "impacttheoryuniversity.com"
+      ],
+      "verified_sources": [
+        {
+          "type": "homepage",
+          "url": "https://impacttheory.com/",
+          "notes": "Primary brand site with podcasts, newsletter, courses, and reading list."
+        },
+        {
+          "type": "courses",
+          "url": "https://impacttheoryuniversity.com/",
+          "notes": "Course platform referenced from the main site."
+        }
+      ]
+    }
+  ],
+  "email_ingestion_status": {
+    "available_locally": 302,
+    "remaining_to_pull_from_mailbox": 5414,
+    "required_access": "Google OAuth desktop client credentials or an existing token for the target Gmail account."
+  }
+}

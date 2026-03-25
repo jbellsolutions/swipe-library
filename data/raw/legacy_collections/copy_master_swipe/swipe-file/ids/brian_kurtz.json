@@ -1,0 +1,2228 @@
+[
+  {
+    "id": "19c9475d171ea042",
+    "subject": "Your frustration is your fortune",
+    "date": "Wed, 25 Feb 2026 06:01:06 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19c850231297c08b",
+    "subject": "Bottom-up leadership",
+    "date": "Sun, 22 Feb 2026 06:00:27 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19c70693a68572d7",
+    "subject": "A soda can, a shoe\u2026 and 125 years of not going out of business",
+    "date": "Wed, 18 Feb 2026 06:00:52 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19c60f5e3422158f",
+    "subject": "My first blog post ever...12 years in the making",
+    "date": "Sun, 15 Feb 2026 06:00:43 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19c4c5c3c6cb7027",
+    "subject": "They\u2019re renting humans now?",
+    "date": "Wed, 11 Feb 2026 06:00:25 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19c3ce8e6b0ebcc4",
+    "subject": "The loudest confession from inside a Rolls-Royce",
+    "date": "Sun, 8 Feb 2026 06:00:15 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19c2850c2d0c4556",
+    "subject": "Online marketing is dead. Long live online marketing.",
+    "date": "Wed, 4 Feb 2026 06:01:42 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19c1e03232314926",
+    "subject": "Only you have access to you",
+    "date": "Mon, 2 Feb 2026 06:00:28 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19c18dcfb979b607",
+    "subject": "Don't take yourself seriously...until you do",
+    "date": "Sun, 1 Feb 2026 06:00:50 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19c04436448052ae",
+    "subject": "Same AI. Different human.",
+    "date": "Wed, 28 Jan 2026 06:00:40 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19bf9f660def52db",
+    "subject": "The one word that made (and lost) a billion dollars",
+    "date": "Mon, 26 Jan 2026 06:00:26 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19bf4d00dd28d7a9",
+    "subject": "Being a beginner for life",
+    "date": "Sun, 25 Jan 2026 06:00:28 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19bea8390b050a62",
+    "subject": "Contributing to connect",
+    "date": "Fri, 23 Jan 2026 06:00:45 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19be036fc41235c0",
+    "subject": "One word doubled their sales\u2026then it destroyed them",
+    "date": "Wed, 21 Jan 2026 06:00:44 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19bd0c36017b8489",
+    "subject": "The Strategic Schmoozer grows up",
+    "date": "Sun, 18 Jan 2026 06:00:19 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19bbc2c73aa4c973",
+    "subject": "Chess boxing, AI agents, and 20% of your week wasted",
+    "date": "Wed, 14 Jan 2026 06:00:45 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19bacb74aecb2e69",
+    "subject": "Another Black Monday",
+    "date": "Sun, 11 Jan 2026 06:00:40 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19b981dfc6dd546b",
+    "subject": "A Board of Advisors at your fingertips",
+    "date": "Wed, 7 Jan 2026 06:00:50 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19b88aab522c54ee",
+    "subject": "Three Brazilian Blowouts",
+    "date": "Sun, 4 Jan 2026 06:00:38 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19b649de4b94fbe6",
+    "subject": "Protecting (and exploiting) your blindside",
+    "date": "Sun, 28 Dec 2025 06:00:25 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19b409181452776f",
+    "subject": "Christmas envy isn't so bad",
+    "date": "Sun, 21 Dec 2025 06:00:30 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19b3647ca34ed7d4",
+    "subject": "Guilty until proven innocent",
+    "date": "Fri, 19 Dec 2025 06:00:56 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19b2bf8676fc66fe",
+    "subject": "When love never leaves the room\u2026",
+    "date": "Wed, 17 Dec 2025 06:00:56 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19b1c84dc365e318",
+    "subject": "Junk is the eye of the beholder",
+    "date": "Sun, 14 Dec 2025 06:00:26 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19b089015479ae23",
+    "subject": "When 259% growth is a real number",
+    "date": "Wed, 10 Dec 2025 09:00:11 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19af8784b87cf408",
+    "subject": "The dangers of sampling",
+    "date": "Sun, 7 Dec 2025 06:00:11 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19ad46bc07281167",
+    "subject": "Being patient with your patients",
+    "date": "Sun, 30 Nov 2025 06:00:13 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19aca1ef05b85367",
+    "subject": "We will laugh again",
+    "date": "Fri, 28 Nov 2025 06:00:07 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19ab05f0d67312af",
+    "subject": "When getting older doesn't suck",
+    "date": "Sun, 23 Nov 2025 06:00:03 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19a8c52ce23bd967",
+    "subject": "The copywriter who would be king",
+    "date": "Sun, 16 Nov 2025 06:00:22 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19a8206063836414",
+    "subject": "You never know who is watching",
+    "date": "Fri, 14 Nov 2025 06:00:22 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19a68465de5cea03",
+    "subject": "You never know who is watching",
+    "date": "Sun, 9 Nov 2025 06:00:21 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19a44031aba0864e",
+    "subject": "Doublers giving a shi(f)t",
+    "date": "Sun, 2 Nov 2025 05:00:38 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19a39b61dec44cf2",
+    "subject": "\"If you believe that, I  have a bridge in Brooklyn to sell you\"",
+    "date": "Fri, 31 Oct 2025 06:00:25 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19a1ff6bef1a00b4",
+    "subject": "Wear your gullibility as a badge of honor",
+    "date": "Sun, 26 Oct 2025 06:00:47 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "199fbeaeee6b6dca",
+    "subject": "Leather is overrated",
+    "date": "Sun, 19 Oct 2025 06:01:26 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "199f1a1dd99a60ee",
+    "subject": "The birth of \"Positionless Basketball\"",
+    "date": "Fri, 17 Oct 2025 06:00:09 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "199d7dd4c0fae2e3",
+    "subject": "You can't give birth to adults",
+    "date": "Sun, 12 Oct 2025 06:00:25 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "199cd90631944bcc",
+    "subject": "Congruence over Currency",
+    "date": "Fri, 10 Oct 2025 06:00:12 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "199b3d0dabe57866",
+    "subject": "Missionaries...not Mercenaries",
+    "date": "Sun, 5 Oct 2025 06:00:27 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1998fc461c5cabe6",
+    "subject": "\"I play ball...I don't work ball\"",
+    "date": "Sun, 28 Sep 2025 06:00:29 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "199857744c24c8ff",
+    "subject": "Connecting...not creating...the dots",
+    "date": "Fri, 26 Sep 2025 06:00:06 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1996bb7e83b5651b",
+    "subject": "Being Direct...again",
+    "date": "Sun, 21 Sep 2025 06:00:33 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "199616ae69a5a8b4",
+    "subject": "A college education is a terrible thing to waste",
+    "date": "Fri, 19 Sep 2025 06:00:16 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19947b99365be663",
+    "subject": "An entry drug of a different sort...",
+    "date": "Sun, 14 Sep 2025 06:00:31 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1993d5e698cf8116",
+    "subject": "Losing your electricity...but not your power",
+    "date": "Fri, 12 Sep 2025 06:00:20 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "199239eb4831e54e",
+    "subject": "Wi-Fi vs. Water",
+    "date": "Sun, 7 Sep 2025 06:00:20 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "198ff922b85efb16",
+    "subject": "Anything but Mad",
+    "date": "Sun, 31 Aug 2025 06:00:24 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "198f547187314399",
+    "subject": "The Venn Diagram of taking...and giving",
+    "date": "Fri, 29 Aug 2025 06:00:23 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "198db872e878fdd6",
+    "subject": "When a take becomes a give",
+    "date": "Sun, 24 Aug 2025 06:00:35 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "198b77a2147c4952",
+    "subject": "\"I was there\"",
+    "date": "Sun, 17 Aug 2025 06:00:39 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "198936cad9953278",
+    "subject": "Transforming one star into five",
+    "date": "Sun, 10 Aug 2025 06:00:25 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "198891f9ec435708",
+    "subject": "Life is long...regardless of length",
+    "date": "Fri, 8 Aug 2025 06:00:05 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1986f601c76e059a",
+    "subject": "Time to make some new friends?",
+    "date": "Sun, 3 Aug 2025 06:00:23 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19865131b01f74ad",
+    "subject": "Onboarding is not housekeeping 2.0",
+    "date": "Fri, 1 Aug 2025 06:00:05 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1984b53b1755f730",
+    "subject": "Onboarding is not housekeeping 2.0",
+    "date": "Sun, 27 Jul 2025 06:00:29 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19827472ca0ec90e",
+    "subject": "Unconscious competence",
+    "date": "Sun, 20 Jul 2025 06:00:30 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "198033b003af5bc7",
+    "subject": "A face for TV",
+    "date": "Sun, 13 Jul 2025 06:00:47 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "197df2e58a4c11d6",
+    "subject": "The only time your non-negotiables are flexible",
+    "date": "Sun, 6 Jul 2025 06:00:39 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "197bb22cc3c39c1e",
+    "subject": "Asking from somewhere",
+    "date": "Sun, 29 Jun 2025 06:00:16 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1979716ac3a8cc94",
+    "subject": "When \"appropriate\" means \"equal\"",
+    "date": "Sun, 22 Jun 2025 06:00:23 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1977309db6d99c68",
+    "subject": "The one about outrunning (and beating) Covid",
+    "date": "Sun, 15 Jun 2025 06:00:23 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19768bb7d6c185fa",
+    "subject": "Everything I told you is wrong...",
+    "date": "Fri, 13 Jun 2025 06:00:04 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1974efd897ce8397",
+    "subject": "Everything I told you is wrong...",
+    "date": "Sun, 8 Jun 2025 06:00:37 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19744af43879ea57",
+    "subject": "A prompt waiting to happen",
+    "date": "Fri, 6 Jun 2025 06:00:22 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1972aefc7fc9820c",
+    "subject": "Riffing with Socrates...and his BOT",
+    "date": "Sun, 1 Jun 2025 06:00:45 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19720a28c31408d1",
+    "subject": "The most important thing to do in your business",
+    "date": "Fri, 30 May 2025 06:00:06 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19706e453062fcf0",
+    "subject": "Permission to suck...and prosper",
+    "date": "Sun, 25 May 2025 06:00:25 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "196e2d67e0193cab",
+    "subject": "Marketing lessons from my daughter\u2019s wedding",
+    "date": "Sun, 18 May 2025 06:00:23 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "196d88aaf9179e36",
+    "subject": "On the hot seat",
+    "date": "Fri, 16 May 2025 06:00:14 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "196bec9db47797c3",
+    "subject": "\"Phone a friend\"",
+    "date": "Sun, 11 May 2025 06:00:19 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1969abd8e7da8270",
+    "subject": "May The Fourth Be With You",
+    "date": "Sun, 4 May 2025 06:00:26 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19683932b3c6701b",
+    "subject": "Special Offer for Past Bootcampers",
+    "date": "Tue, 29 Apr 2025 18:02:55 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19676b110278e284",
+    "subject": "Two Homeboys and an Egg Timer",
+    "date": "Sun, 27 Apr 2025 06:00:33 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1966d91e123c20bb",
+    "subject": "Accessing the Breakthrough Advertising Training Library",
+    "date": "Fri, 25 Apr 2025 11:29:56 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19652a460a871f55",
+    "subject": "Reignmakers and canaries in coal mines",
+    "date": "Sun, 20 Apr 2025 06:00:24 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1963e0b5b2cc13a0",
+    "subject": "Zig When They Zag\u2026 Zag When They Zig",
+    "date": "Wed, 16 Apr 2025 06:00:46 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19638e57c2bc2e7a",
+    "subject": "The $15,000 Friction-Free Funnel",
+    "date": "Tue, 15 Apr 2025 06:01:23 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1962e98737784f5f",
+    "subject": "Smile because it happened",
+    "date": "Sun, 13 Apr 2025 06:00:58 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19619fe7dce1e12f",
+    "subject": "Going Berserk Over Email",
+    "date": "Wed, 9 Apr 2025 06:00:28 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1960a8b4ce783d16",
+    "subject": "12 Notes",
+    "date": "Sun, 6 Apr 2025 06:00:21 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "195f5f1e9d40f336",
+    "subject": "Don\u2019t Fence Me In",
+    "date": "Wed, 2 Apr 2025 06:00:23 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "195e67ee8cc17a92",
+    "subject": "I've got a bridge to sell you",
+    "date": "Sun, 30 Mar 2025 06:00:30 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "195d1e7f16079833",
+    "subject": "Dying can be hazardous to your marketing...",
+    "date": "Wed, 26 Mar 2025 06:00:17 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "195c272d312596ce",
+    "subject": "\"I'm 70% sure you won't read this\"",
+    "date": "Sun, 23 Mar 2025 06:00:25 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "195add9105b71fb2",
+    "subject": "The Wizard of Connections",
+    "date": "Wed, 19 Mar 2025 06:00:20 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1959e65cf8d1ab96",
+    "subject": "The original Bullet Man",
+    "date": "Sun, 16 Mar 2025 06:00:23 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1958ef2fa672e274",
+    "subject": "The Renaissance Man of marketing",
+    "date": "Thu, 13 Mar 2025 06:00:36 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1958583ea3be74b2",
+    "subject": "Shining a flashlight in the right places",
+    "date": "Tue, 11 Mar 2025 10:00:47 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1957a59bc6deccb2",
+    "subject": "It's not about the price...until it is",
+    "date": "Sun, 9 Mar 2025 06:00:31 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19565f771918cacb",
+    "subject": "Writing Your Masterpiece",
+    "date": "Wed, 5 Mar 2025 06:01:05 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1955683df4f23bbc",
+    "subject": "Better than lifting weights",
+    "date": "Sun, 2 Mar 2025 06:00:35 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19541eaadfd54f4c",
+    "subject": "The Non-Extinct Dinosaur",
+    "date": "Wed, 26 Feb 2025 06:00:50 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1953da0c67f0aa2a",
+    "subject": "Making every word you utter meaningful",
+    "date": "Tue, 25 Feb 2025 10:01:39 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19532779ef506af2",
+    "subject": "Eating with intention",
+    "date": "Sun, 23 Feb 2025 06:00:45 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19523e347700cf26",
+    "subject": "Is AI already running the show?",
+    "date": "Thu, 20 Feb 2025 10:02:16 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1951dde1388ce756",
+    "subject": "A prophet creating windows into your soul",
+    "date": "Wed, 19 Feb 2025 06:00:41 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1950e6abd7f322c6",
+    "subject": "Dance like everyone is watching",
+    "date": "Sun, 16 Feb 2025 06:00:25 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "194f9d178b04585a",
+    "subject": "Getting Out of Jail Free",
+    "date": "Wed, 12 Feb 2025 06:00:35 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "194ea5e151edbd44",
+    "subject": "The dance of death is life",
+    "date": "Sun, 9 Feb 2025 06:00:17 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "194d5c4bed463210",
+    "subject": "Zen and the Art of Spontaneous Copywriting",
+    "date": "Wed, 5 Feb 2025 06:00:25 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "194cb79dc486148e",
+    "subject": "The wall still has a door",
+    "date": "Mon, 3 Feb 2025 06:02:13 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "194b1b8d1b0e40a3",
+    "subject": "Who is your Original Source?",
+    "date": "Wed, 29 Jan 2025 06:00:59 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "194a24522e13858d",
+    "subject": "The clock is always tiking...",
+    "date": "Sun, 26 Jan 2025 06:00:25 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1948dac6ff405759",
+    "subject": "What\u2019s in it for you?",
+    "date": "Wed, 22 Jan 2025 06:01:13 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1947e399d3bc1504",
+    "subject": "Masterminding at the Pentagon...or with Oprah",
+    "date": "Sun, 19 Jan 2025 06:00:33 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19473ebf59862021",
+    "subject": "Your character can speak louder than your struggles",
+    "date": "Fri, 17 Jan 2025 06:00:20 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1946ec5eb1b1ac85",
+    "subject": "Your health is your next marketing breakthrough",
+    "date": "Thu, 16 Jan 2025 06:00:49 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19469a091e7a95b9",
+    "subject": "\u201cThe Human Bot Returns\u201d",
+    "date": "Wed, 15 Jan 2025 06:00:26 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1944fdf4da374bf6",
+    "subject": "The winning formula for a peaceful life",
+    "date": "Fri, 10 Jan 2025 06:00:09 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1944592d351372e6",
+    "subject": "Quizzing the Quizzer",
+    "date": "Wed, 8 Jan 2025 06:00:31 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "194361f7b12893c3",
+    "subject": "Don't make your lawyer rich 2.0",
+    "date": "Sun, 5 Jan 2025 06:00:17 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19421863c99308f1",
+    "subject": "An email a day (or two or three) keeps the trolls away\u2026",
+    "date": "Wed, 1 Jan 2025 06:00:27 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1941213040a89bc6",
+    "subject": "The world didn't end on January 1st, 2000...it was reborn",
+    "date": "Sun, 29 Dec 2024 06:00:21 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "193fd79cca125564",
+    "subject": "Steal this winner\u2026again",
+    "date": "Wed, 25 Dec 2024 06:00:34 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "193ee068c46df64d",
+    "subject": "Whistling (and never arguing) past the graveyard",
+    "date": "Sun, 22 Dec 2024 06:00:25 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "193d96db5b9fac00",
+    "subject": "A Marketing Warrior of epic proportions",
+    "date": "Wed, 18 Dec 2024 06:01:00 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "193c9fa433f76f80",
+    "subject": "Transactions and relationships from the 12th Century to the 21st",
+    "date": "Sun, 15 Dec 2024 06:00:35 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "193b560e936caf30",
+    "subject": "Inventing the Internet",
+    "date": "Wed, 11 Dec 2024 06:00:45 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "193a5edbd29fca59",
+    "subject": "From Killer Whales...to O.O.G.'s",
+    "date": "Sun, 8 Dec 2024 06:00:32 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1939153ec8106710",
+    "subject": "It\u2019s time for your checkup",
+    "date": "Wed, 4 Dec 2024 06:00:12 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19381e0c7d811192",
+    "subject": "The politics of direct marketing revisited...",
+    "date": "Sun, 1 Dec 2024 06:00:10 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1936d478e0fa0082",
+    "subject": "A true N.G\u2026.with a face for TV",
+    "date": "Wed, 27 Nov 2024 06:00:16 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1935dd44ee2fa033",
+    "subject": "We will laugh again...",
+    "date": "Sun, 24 Nov 2024 06:00:09 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "193493c0650461d4",
+    "subject": "Cracking the (celebrity) code",
+    "date": "Wed, 20 Nov 2024 06:00:20 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19339c7bab4ca5c3",
+    "subject": "Explaining anything to anyone",
+    "date": "Sun, 17 Nov 2024 06:00:07 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1932f7caf656ee5f",
+    "subject": "Embrace the best time to be alive",
+    "date": "Fri, 15 Nov 2024 06:00:23 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "193252f43f50102b",
+    "subject": "The wizard behind the curtain",
+    "date": "Wed, 13 Nov 2024 06:00:16 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19315be2e4f77145",
+    "subject": "The mousepad and the egg timer...",
+    "date": "Sun, 10 Nov 2024 06:00:15 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1930122e9758c3e4",
+    "subject": "Bland to Beloved: It's all about the experience",
+    "date": "Wed, 6 Nov 2024 06:00:12 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "192f1b0b62b525f0",
+    "subject": "When 41% is a majority",
+    "date": "Sun, 3 Nov 2024 06:00:09 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "192dcde7fc7299c2",
+    "subject": "Monetization is life",
+    "date": "Wed, 30 Oct 2024 06:00:15 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "192cd6b7794a0c63",
+    "subject": "\u201cReal\u201d stuff ",
+    "date": "Sun, 27 Oct 2024 06:00:23 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "192b8d206150ae37",
+    "subject": "An \u201cN.G\u201d with the mindset of an O.G.",
+    "date": "Wed, 23 Oct 2024 06:00:23 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "192a960d70ac2b0d",
+    "subject": "No one ever steps in the same river twice",
+    "date": "Sun, 20 Oct 2024 06:00:23 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19294c71ede15ccc",
+    "subject": "The Instagram Whisperer",
+    "date": "Wed, 16 Oct 2024 06:00:22 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "192855250f7e6eb6",
+    "subject": "Two ways to get fired",
+    "date": "Sun, 13 Oct 2024 06:00:13 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19270b912e44fe9b",
+    "subject": "10 Years and counting\u2026",
+    "date": "Wed, 9 Oct 2024 06:00:27 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1926147998fc3bee",
+    "subject": "Automating everything is overrated",
+    "date": "Sun, 6 Oct 2024 06:00:25 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "192192ce3cb0103c",
+    "subject": "Sticking to your knitting",
+    "date": "Sun, 22 Sep 2024 06:00:22 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1920495c9a01990d",
+    "subject": "Copythinking",
+    "date": "Wed, 18 Sep 2024 06:00:25 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "191f52157eefc26f",
+    "subject": "Embracing mediocrity",
+    "date": "Sun, 15 Sep 2024 06:00:21 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "191e0874be646392",
+    "subject": "Don\u2019t be an imposter in life\u2026or marketing",
+    "date": "Wed, 11 Sep 2024 06:00:14 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "191d113b2168fe16",
+    "subject": "Soup to nuts marketing...with a toothpick",
+    "date": "Sun, 8 Sep 2024 06:00:13 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "191ad07407ef6b03",
+    "subject": "From the classroom to the couch",
+    "date": "Sun, 1 Sep 2024 06:00:18 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "191986dcfc9d3154",
+    "subject": "When the student becomes the teacher\u2026",
+    "date": "Wed, 28 Aug 2024 06:00:17 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19188fad340b6b2b",
+    "subject": "You are not your career",
+    "date": "Sun, 25 Aug 2024 06:00:22 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19174613f34e8e31",
+    "subject": "The world's most dangerous copywriter",
+    "date": "Wed, 21 Aug 2024 06:00:14 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19164ee418d952db",
+    "subject": "Greed is good...most of the time",
+    "date": "Sun, 18 Aug 2024 06:00:19 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1915054f098d6f18",
+    "subject": "An N.G. with mad skillz",
+    "date": "Wed, 14 Aug 2024 06:00:28 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19140e1bd865c8c6",
+    "subject": "How online marketing was invented",
+    "date": "Sun, 11 Aug 2024 06:00:20 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "191369502a8e7e3c",
+    "subject": "Knowing everything about something",
+    "date": "Fri, 9 Aug 2024 06:00:18 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1912c486327f3f85",
+    "subject": "Perpetual reinvention (and making millions) from a coffee shop\u2026",
+    "date": "Wed, 7 Aug 2024 06:00:26 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1911cd52dbb352d0",
+    "subject": "Don't be afraid of \"The Bogey Man\"",
+    "date": "Sun, 4 Aug 2024 06:00:18 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "191083be680d26b2",
+    "subject": "Who is your Original Source?",
+    "date": "Wed, 31 Jul 2024 06:00:24 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "190f8c8bcddb03d1",
+    "subject": "Fierce generosity",
+    "date": "Sun, 28 Jul 2024 06:00:19 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "190e42f50ae2afc7",
+    "subject": "Peeling back the curtain on a $57 Million Launch",
+    "date": "Wed, 24 Jul 2024 06:00:23 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "190d4bc4bd357fbf",
+    "subject": "Driven to Distraction",
+    "date": "Sun, 21 Jul 2024 06:00:24 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "190c02339a0bab20",
+    "subject": "Steal this winner\u2026",
+    "date": "Wed, 17 Jul 2024 06:00:47 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "190b8a00d4d2eeeb",
+    "subject": "Last Call. Overdeliver Bootcamp",
+    "date": "Mon, 15 Jul 2024 19:00:13 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "190b6eb7225f75b8",
+    "subject": "Final Day - Overdeliver Bootcamp",
+    "date": "Mon, 15 Jul 2024 11:00:28 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "190b0b007f51c27c",
+    "subject": "A funnel for the ages",
+    "date": "Sun, 14 Jul 2024 06:00:42 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "190a708199dc3018",
+    "subject": "The hidden trap of a really good product",
+    "date": "Fri, 12 Jul 2024 09:00:38 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "190a663039c36019",
+    "subject": "A \"should\" among \"there are no shoulds\"...",
+    "date": "Fri, 12 Jul 2024 06:00:23 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "190a1e226eedb905",
+    "subject": "No One Likes to be Funneled",
+    "date": "Thu, 11 Jul 2024 09:00:43 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1909ea98c36960c3",
+    "subject": "Overdeliver Bootcamp is now open",
+    "date": "Wed, 10 Jul 2024 18:00:25 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1909c16a920006eb",
+    "subject": "\u201cWhat\u2019s In It For Them?\u201d ",
+    "date": "Wed, 10 Jul 2024 06:00:45 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1909796092f77f97",
+    "subject": "Hire me for $197?",
+    "date": "Tue, 9 Jul 2024 09:01:34 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "190928a384085ad1",
+    "subject": "Learning the Business Side of Direct Response",
+    "date": "Mon, 8 Jul 2024 09:30:35 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1908ca38a4323f49",
+    "subject": "How to write a bestseller",
+    "date": "Sun, 7 Jul 2024 06:00:45 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1908258c78a52c46",
+    "subject": "Intrapreneurship revisited",
+    "date": "Fri, 5 Jul 2024 06:00:19 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1907809b2800456a",
+    "subject": "Permission to Prosper",
+    "date": "Wed, 3 Jul 2024 06:00:18 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19068977f150645c",
+    "subject": "Ownership is overrated",
+    "date": "Sun, 30 Jun 2024 06:01:15 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "19053fe0da9cbf57",
+    "subject": "The marketing technique for every product or service",
+    "date": "Wed, 26 Jun 2024 06:01:06 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "190448a9533d97de",
+    "subject": "Envy kills",
+    "date": "Sun, 23 Jun 2024 06:00:48 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1903a3db94fe7a57",
+    "subject": "Confident humility",
+    "date": "Fri, 21 Jun 2024 06:00:39 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1902ff12f486531a",
+    "subject": "A punch in the gut",
+    "date": "Wed, 19 Jun 2024 06:00:50 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "190207dbc85361b5",
+    "subject": "Confidence without arrogance",
+    "date": "Sun, 16 Jun 2024 06:00:28 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1901630ef0bfe708",
+    "subject": "We're in touch so you be in touch",
+    "date": "Fri, 14 Jun 2024 06:00:20 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1900be4dc97373b8",
+    "subject": "Quizzing the Quizzer",
+    "date": "Wed, 12 Jun 2024 06:01:02 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18ffc71523a2e46a",
+    "subject": "A face for TV",
+    "date": "Sun, 9 Jun 2024 06:00:31 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18fe7d874dabb437",
+    "subject": "Perpetually pivoting...with a plan",
+    "date": "Wed, 5 Jun 2024 06:01:10 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18fd865285c6db0d",
+    "subject": "Jaggering at 80",
+    "date": "Sun, 2 Jun 2024 06:00:55 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18fc3cc1882af771",
+    "subject": "Secrets from a marketing hermit\u2026",
+    "date": "Wed, 29 May 2024 06:01:19 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18fb458a5a694f68",
+    "subject": "Running forever",
+    "date": "Sun, 26 May 2024 06:00:57 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18faa1e151ce02c9",
+    "subject": "Working at loving your work",
+    "date": "Fri, 24 May 2024 06:01:01 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18f9fbec9b4c66a5",
+    "subject": "No B.S.",
+    "date": "Wed, 22 May 2024 06:00:26 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18f904bb0656f2fa",
+    "subject": "The Sunday Night Dread",
+    "date": "Sun, 19 May 2024 06:00:29 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18f85fedba907b74",
+    "subject": "More time means shorter posts...",
+    "date": "Fri, 17 May 2024 06:00:18 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18f6c3f4527e6291",
+    "subject": "More time means shorter posts...",
+    "date": "Sun, 12 May 2024 06:00:34 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18f61f3179ae1d96",
+    "subject": "Hoarding with purpose",
+    "date": "Fri, 10 May 2024 06:01:06 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18f4833099403b32",
+    "subject": "Meaningful Clutter",
+    "date": "Sun, 5 May 2024 06:00:53 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18f2427235c3e187",
+    "subject": "A man with a plan",
+    "date": "Sun, 28 Apr 2024 06:01:15 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18f0019b2be3049f",
+    "subject": "Tiny Dancer...*NSYNC...and too many words",
+    "date": "Sun, 21 Apr 2024 06:00:33 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18edc0d3d62a5e78",
+    "subject": "The back from the dead tour revisited...",
+    "date": "Sun, 14 Apr 2024 06:00:37 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18ed1c1ae87c79ee",
+    "subject": "Being creative about your creativity",
+    "date": "Fri, 12 Apr 2024 06:01:51 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18eb800e90a449fd",
+    "subject": "A copywriter, a comedian and a rock group walk into a bar...",
+    "date": "Sun, 7 Apr 2024 06:00:40 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18e93f4f2c0db162",
+    "subject": "Being visible by being invisible",
+    "date": "Sun, 31 Mar 2024 06:01:24 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18e6fe7b1ddaafbb",
+    "subject": "The $25 Group",
+    "date": "Sun, 24 Mar 2024 06:00:37 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18e659b8bf579152",
+    "subject": "Easy Rider to Easy Writer",
+    "date": "Fri, 22 Mar 2024 06:01:09 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18e53a1f74225a35",
+    "subject": "Last call for the Breakthrough Advertising Bootcamp",
+    "date": "Mon, 18 Mar 2024 18:15:05 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18e51eae3aea9162",
+    "subject": "Breakthrough Advertising for NON copywriters...",
+    "date": "Mon, 18 Mar 2024 10:15:29 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18e4e8957ddec85e",
+    "subject": "Two days left - Breakthrough Advertising Bootcamp",
+    "date": "Sun, 17 Mar 2024 18:30:05 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18e4bdb643ff82cf",
+    "subject": "When the marketer is ready, the copywriter will appear",
+    "date": "Sun, 17 Mar 2024 06:00:44 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18e42f05cb29a973",
+    "subject": "The biggest myth in all of copywriting...",
+    "date": "Fri, 15 Mar 2024 12:26:53 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18e380f8a34c75c7",
+    "subject": "Private Invitation - Breakthrough Advertising",
+    "date": "Wed, 13 Mar 2024 09:45:04 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18e330485faeca46",
+    "subject": "Finished reading Breakthrough Advertising yet?",
+    "date": "Tue, 12 Mar 2024 10:15:11 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18e2da78334e6e9e",
+    "subject": "Your cure for shiny object syndrome",
+    "date": "Mon, 11 Mar 2024 09:15:16 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18e27cedae304815",
+    "subject": "Do you really need a partner?",
+    "date": "Sun, 10 Mar 2024 06:00:45 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18e03f9963cce522",
+    "subject": "Dinosaurs and Cowboys",
+    "date": "Sun, 3 Mar 2024 06:01:07 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18df9acb6087dfb3",
+    "subject": "Dare to prepare...or \"structured spontaneity\"",
+    "date": "Fri, 1 Mar 2024 06:00:58 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18ddfeca3412051c",
+    "subject": "Useful propaganda",
+    "date": "Sun, 25 Feb 2024 06:00:41 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18dbbe013bec14ac",
+    "subject": "Anything but a heart bypass",
+    "date": "Sun, 18 Feb 2024 06:00:36 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18d97d389deeef23",
+    "subject": "Caution: Build a moat at your own risk",
+    "date": "Sun, 11 Feb 2024 06:00:35 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18d8d877ab125558",
+    "subject": "Remembering where you came from",
+    "date": "Fri, 9 Feb 2024 06:01:15 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18d73c73ca5c5320",
+    "subject": "Earning your Double White Belt",
+    "date": "Sun, 4 Feb 2024 06:00:51 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18d697ab869318e9",
+    "subject": "The return of the copywriter in the coal mine",
+    "date": "Fri, 2 Feb 2024 06:01:04 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18d5ceccd6fadd3d",
+    "subject": "Last call for profit sharing training",
+    "date": "Tue, 30 Jan 2024 19:30:38 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18d5b0c63475ac05",
+    "subject": "Last day to get in on the Profit Partner Workshop",
+    "date": "Tue, 30 Jan 2024 10:45:50 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18d57e1d59f432c5",
+    "subject": "Two days left until the Profit Partner Workshop",
+    "date": "Mon, 29 Jan 2024 20:00:33 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18d51fb523fb4925",
+    "subject": "A logical framework for profit sharing deals",
+    "date": "Sun, 28 Jan 2024 16:30:41 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18d4fbac87d96ddf",
+    "subject": "The copywriter in the coal mine revisited",
+    "date": "Sun, 28 Jan 2024 06:00:56 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18d465756c09ec93",
+    "subject": "How Josh landed two performance based clients",
+    "date": "Fri, 26 Jan 2024 10:15:44 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18d413f03710bd0b",
+    "subject": "The four types of performance based deals",
+    "date": "Thu, 25 Jan 2024 10:31:04 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18d3be26dc994b11",
+    "subject": "How to setup performance based deals with your clients",
+    "date": "Wed, 24 Jan 2024 09:31:38 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18d36e43b5616197",
+    "subject": "Performance Based Pay with Clients in 2024",
+    "date": "Tue, 23 Jan 2024 10:15:42 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18d2bae36577487d",
+    "subject": "Open rates are overrated...until they're not",
+    "date": "Sun, 21 Jan 2024 06:00:50 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18d216237d137b25",
+    "subject": "Phishing or Fishing?",
+    "date": "Fri, 19 Jan 2024 06:01:37 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18d07a1dedd64dcd",
+    "subject": "If you hate your clients, it\u2019s your fault",
+    "date": "Sun, 14 Jan 2024 06:00:59 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18ce395c84d64c2d",
+    "subject": "Bottom up leadership",
+    "date": "Sun, 7 Jan 2024 06:01:27 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18cd9496b1b1367b",
+    "subject": "Paranoia is not a psychosis...it's survival",
+    "date": "Fri, 5 Jan 2024 06:01:48 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18cbf89419720ceb",
+    "subject": "The unbeatable control",
+    "date": "Sun, 31 Dec 2023 06:01:28 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18cb53cdb9c52101",
+    "subject": "\"Too many notes\"",
+    "date": "Fri, 29 Dec 2023 06:01:45 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18c9b7c540591dfb",
+    "subject": "No deep throat in this parking lot",
+    "date": "Sun, 24 Dec 2023 06:01:04 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18c84bd723ece377",
+    "subject": "Can I send you this lumpy mail?",
+    "date": "Tue, 19 Dec 2023 20:00:55 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18c7f972eb36a9b3",
+    "subject": "Get 50% off ALL my physical products\u2026",
+    "date": "Mon, 18 Dec 2023 20:01:02 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18c7770436656c74",
+    "subject": "Two ways to romance a cheap date",
+    "date": "Sun, 17 Dec 2023 06:01:32 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18c6e09a14ee6c31",
+    "subject": "Meet Gabe - TXL Member Since 2019",
+    "date": "Fri, 15 Dec 2023 10:12:52 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18c6d23b79b3cda9",
+    "subject": "Upside, downside, blindside",
+    "date": "Fri, 15 Dec 2023 06:01:37 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18c68f3e7b6f592e",
+    "subject": "Paying copywriters a percentage of profits",
+    "date": "Thu, 14 Dec 2023 10:31:00 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18c60b0d1820f905",
+    "subject": "Private notes from $148k worth of mastermind meetings",
+    "date": "Tue, 12 Dec 2023 20:00:46 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18c59aaaf21429fe",
+    "subject": "If we broke bread together...",
+    "date": "Mon, 11 Dec 2023 11:16:45 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18c5363816fcf713",
+    "subject": "Exploiting your blindside",
+    "date": "Sun, 10 Dec 2023 06:01:11 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18c4a9942aacb752",
+    "subject": "Free ticket to the Breakthrough Advertising Bootcamp",
+    "date": "Fri, 8 Dec 2023 13:03:25 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18c491734f46e9ba",
+    "subject": "From copywriter to copymarketer",
+    "date": "Fri, 8 Dec 2023 06:01:44 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18c45a4137be9917",
+    "subject": "Titans Xcelerator is getting an upgrade...",
+    "date": "Thu, 7 Dec 2023 13:57:01 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18c2f56eb0b261c1",
+    "subject": "Still guilty until proven innocent",
+    "date": "Sun, 3 Dec 2023 06:01:07 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18c0b49c3c69935d",
+    "subject": "The good news about never being young again",
+    "date": "Sun, 26 Nov 2023 06:00:28 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18be73d43554f175",
+    "subject": "\"They'll never move furniture for you\"",
+    "date": "Sun, 19 Nov 2023 06:00:29 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18bdcf0c86ad0e96",
+    "subject": "If...",
+    "date": "Fri, 17 Nov 2023 06:00:41 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18bc330c3ffb4a12",
+    "subject": "Losing everything...the right way",
+    "date": "Sun, 12 Nov 2023 06:00:33 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18b9f245f1d25f72",
+    "subject": "Making Oprah proud",
+    "date": "Sun, 5 Nov 2023 06:00:40 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18b94a0845e945fc",
+    "subject": "Platinum\u00a0Genius",
+    "date": "Fri, 3 Nov 2023 06:00:25 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18b7ae1376c4ea0f",
+    "subject": "Don't respond to your email...and eat steak",
+    "date": "Sun, 29 Oct 2023 06:00:59 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18b70948a920c4fc",
+    "subject": "Get outside...with or without vitamin D",
+    "date": "Fri, 27 Oct 2023 06:01:03 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18b56d5249f2f0f2",
+    "subject": "Friends with benefits",
+    "date": "Sun, 22 Oct 2023 06:01:25 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18b4c87fafe11e06",
+    "subject": "Copy as art",
+    "date": "Fri, 20 Oct 2023 06:00:48 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18b32c846f1b4e17",
+    "subject": "It's still about building larger mice...",
+    "date": "Sun, 15 Oct 2023 06:01:04 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18b287bcf7e533a5",
+    "subject": "How to become a master in as little as 10 years...",
+    "date": "Fri, 13 Oct 2023 06:01:16 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18b0ebbb38bb07a5",
+    "subject": "10,000 hours or 33 minutes?",
+    "date": "Sun, 8 Oct 2023 06:01:00 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18b046f133025df9",
+    "subject": "Recovery or transformation?",
+    "date": "Fri, 6 Oct 2023 06:01:04 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18aedcb7390ded13",
+    "subject": "Last Call for Profit Sharing Training",
+    "date": "Sun, 1 Oct 2023 20:30:45 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18aeaaf90c30b9d1",
+    "subject": "You can recover from anything",
+    "date": "Sun, 1 Oct 2023 06:01:24 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18ae062596eb4f02",
+    "subject": "America's team is America's business",
+    "date": "Fri, 29 Sep 2023 06:00:51 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18ade21953d0abb3",
+    "subject": "The four different profit sharing models...",
+    "date": "Thu, 28 Sep 2023 19:30:54 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18ad6d67e315edab",
+    "subject": "Give yourself a raise anytime you want",
+    "date": "Wed, 27 Sep 2023 09:31:03 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18ad1b605c903873",
+    "subject": "How to do profit sharing deals with your clients...",
+    "date": "Tue, 26 Sep 2023 09:37:59 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18acf00df18db6a3",
+    "subject": "Increasing your value by getting paid differently",
+    "date": "Mon, 25 Sep 2023 21:00:54 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18ac6a2be16c53f5",
+    "subject": "White glove service from the locker room",
+    "date": "Sun, 24 Sep 2023 06:01:07 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18abcba84cf3b58a",
+    "subject": "Two Shamus walk into a bar...",
+    "date": "Fri, 22 Sep 2023 06:01:05 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18aa2965f93b85b5",
+    "subject": "\"O.O.G.'s\"",
+    "date": "Sun, 17 Sep 2023 06:01:16 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18a9848e8bee54d0",
+    "subject": "10 more commandments (now 20 in total)",
+    "date": "Fri, 15 Sep 2023 06:00:27 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18a7e89777d54e18",
+    "subject": "Commandments 11 through 20",
+    "date": "Sun, 10 Sep 2023 06:00:48 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18a5a7d172d391eb",
+    "subject": "Rock and roll...basketball...and being the boss",
+    "date": "Sun, 3 Sep 2023 06:00:56 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18a50301b6b5a1cf",
+    "subject": "Smile because it happened",
+    "date": "Fri, 1 Sep 2023 06:00:43 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18a3670a317393f9",
+    "subject": "The dog days of August",
+    "date": "Sun, 27 Aug 2023 06:01:01 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18a126454e0778d9",
+    "subject": "The Wizards of Romance",
+    "date": "Sun, 20 Aug 2023 06:01:16 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18a08172c429a913",
+    "subject": "Time released (and permanent) prescriptions for freedom",
+    "date": "Fri, 18 Aug 2023 06:00:45 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "189ee578c463a216",
+    "subject": "\"I want it because I want it\"",
+    "date": "Sun, 13 Aug 2023 06:01:00 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "189e40ab0996d337",
+    "subject": "You are not an unlucky introvert",
+    "date": "Fri, 11 Aug 2023 06:00:52 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "189ca4ba63fcab07",
+    "subject": "Luck is a skill",
+    "date": "Sun, 6 Aug 2023 06:01:40 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "189bffe618504c1e",
+    "subject": "All is dust...for somebodies and nobodies",
+    "date": "Fri, 4 Aug 2023 06:01:03 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "189a63e470aea6a3",
+    "subject": "Being somebody to become nobody",
+    "date": "Sun, 30 Jul 2023 06:00:44 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1898231e05a81057",
+    "subject": "Embracing mediocrity",
+    "date": "Sun, 23 Jul 2023 06:00:52 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18977e51a5fc79cf",
+    "subject": "AI fatigue...and two flavors of ROI",
+    "date": "Fri, 21 Jul 2023 06:00:48 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1895e25bb0248a39",
+    "subject": "When ROI is overrated",
+    "date": "Sun, 16 Jul 2023 06:01:16 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1893a194a4057f0f",
+    "subject": "Everyone Belongs",
+    "date": "Sun, 9 Jul 2023 06:01:21 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1892fcbe3c789d9f",
+    "subject": "When I stop talking, you\u2019ll know I\u2019m dead\u2026",
+    "date": "Fri, 7 Jul 2023 06:00:37 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "189160cd37ff4fb4",
+    "subject": "When I stop talking, you\u2019ll know I\u2019m dead\u2026",
+    "date": "Sun, 2 Jul 2023 06:01:22 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1890bbff2c629a0d",
+    "subject": "Being intentional...even when you do nothing",
+    "date": "Fri, 30 Jun 2023 06:01:13 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "188f200c4da27509",
+    "subject": "The Spanish copywriter and the beautiful bride",
+    "date": "Sun, 25 Jun 2023 06:01:51 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "188e7b2f753a923e",
+    "subject": "How not to build your business on sand...or in the air",
+    "date": "Fri, 23 Jun 2023 06:00:42 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "188cdf39a23c9d52",
+    "subject": "Building on bedrock",
+    "date": "Sun, 18 Jun 2023 06:01:10 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "188c3a75e57ddb3e",
+    "subject": "It's not bragging if you did it",
+    "date": "Fri, 16 Jun 2023 06:01:35 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "188a9e7690c6371c",
+    "subject": "Eating food is not exercise\u2026and buying books is not reading",
+    "date": "Sun, 11 Jun 2023 06:01:31 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18885db133aa8df6",
+    "subject": "Being \"authentic\" is a low bar",
+    "date": "Sun, 4 Jun 2023 06:01:43 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1887b8e09d11dba3",
+    "subject": "Three versions of every transaction...and unrealized expectations",
+    "date": "Fri, 2 Jun 2023 06:01:20 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18861ce644dd4a42",
+    "subject": "From negative option to advance consent",
+    "date": "Sun, 28 May 2023 06:01:33 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "188578078bb6f1cf",
+    "subject": "A calendar is a terrible thing to waste",
+    "date": "Fri, 26 May 2023 06:00:11 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1883dc1feae0dea9",
+    "subject": "If you can predict it, you can prevent it",
+    "date": "Sun, 21 May 2023 06:01:39 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1883375068aba317",
+    "subject": "Lose to learn",
+    "date": "Fri, 19 May 2023 06:01:25 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18819b4e14236e9d",
+    "subject": "Lose when you win. Win when you lose",
+    "date": "Sun, 14 May 2023 06:01:02 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1880f6871e116cee",
+    "subject": "Haters are gonna hate...so love them",
+    "date": "Fri, 12 May 2023 06:01:18 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "187f5a8751afbf98",
+    "subject": "Amazon forgives\u2026but never forgets",
+    "date": "Sun, 7 May 2023 06:01:07 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "187eb5bf7175b9c7",
+    "subject": "Meaningful clutter",
+    "date": "Fri, 5 May 2023 06:01:23 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "187cc75d323f1a6d",
+    "subject": "Careers, passions and other strangers",
+    "date": "Sat, 29 Apr 2023 06:01:23 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "187ad8fd1d3d986e",
+    "subject": "Do what you love and the money might follow",
+    "date": "Sun, 23 Apr 2023 06:01:33 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "187898324697f32f",
+    "subject": "Doublers, Triplers, Quadruplers...and non-negotiables",
+    "date": "Sun, 16 Apr 2023 06:01:21 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18765766e5c28580",
+    "subject": "Trolling with purpose",
+    "date": "Sun, 9 Apr 2023 06:01:10 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1874169d3a2ca2db",
+    "subject": "Enjoy the process\u2026because we know where it ends",
+    "date": "Sun, 2 Apr 2023 06:01:06 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1871d5d715532226",
+    "subject": "\u201cWe ARE the bubble\u201d",
+    "date": "Sun, 26 Mar 2023 06:01:10 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "187131064f747a07",
+    "subject": "If a tree falls in a forest...",
+    "date": "Fri, 24 Mar 2023 06:00:48 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "186fa15b67e90696",
+    "subject": "A crime of epic proportions",
+    "date": "Sun, 19 Mar 2023 09:36:08 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "186d54516526db74",
+    "subject": "Just give it away",
+    "date": "Sun, 12 Mar 2023 06:01:52 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "186cb2f49cf2d025",
+    "subject": "Your invisible (and irreplaceable) \"staff\"",
+    "date": "Fri, 10 Mar 2023 06:01:51 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "186b16ef8ef85a6a",
+    "subject": "Nobody comes to the game to watch the umpire",
+    "date": "Sun, 5 Mar 2023 06:01:23 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "186a7220316a165a",
+    "subject": "Grinding with intention",
+    "date": "Fri, 3 Mar 2023 06:01:04 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1868d6267bf331c7",
+    "subject": "There are no unique names, only unique lists",
+    "date": "Sun, 26 Feb 2023 06:01:19 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1866955eefce044f",
+    "subject": "Chatting up a storm",
+    "date": "Sun, 19 Feb 2023 06:01:22 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "186454942edf1178",
+    "subject": "Dance like everyone is watching",
+    "date": "Sun, 12 Feb 2023 06:01:13 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "186213cd28ca9bc2",
+    "subject": "Pick up the check",
+    "date": "Sun, 5 Feb 2023 06:01:18 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "185fd30447c908c9",
+    "subject": "Sharks, aliens, and dinosaurs revisited",
+    "date": "Sun, 29 Jan 2023 06:01:16 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "185f2e3d47298d97",
+    "subject": "What if he was alive today?",
+    "date": "Fri, 27 Jan 2023 06:01:30 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "185d923d5c4f647c",
+    "subject": "Being Direct",
+    "date": "Sun, 22 Jan 2023 06:01:20 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "185ced7c8ac70a4d",
+    "subject": "Who is really the greatest generation?",
+    "date": "Fri, 20 Jan 2023 06:02:03 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "185b517070f3b1f0",
+    "subject": "Learning your A, B, C's...and your X, Y, Z's",
+    "date": "Sun, 15 Jan 2023 06:00:59 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "185aacae4ad597fb",
+    "subject": "A philosopher, a warrior, and a copywriter walk into a bar...",
+    "date": "Fri, 13 Jan 2023 06:01:39 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "185910a8810ef3a7",
+    "subject": "Socrates, Alexander the Great, and Gene Schwartz walk into a bar\u2026",
+    "date": "Sun, 8 Jan 2023 06:01:02 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18586bef8c2eaca5",
+    "subject": "Not locked, not guarded",
+    "date": "Fri, 6 Jan 2023 06:02:17 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1856cfdbbac8c1a5",
+    "subject": "Entry points",
+    "date": "Sun, 1 Jan 2023 06:00:42 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18548f16c80cbc14",
+    "subject": "It\u2019s not about ego\u2026or envy",
+    "date": "Sun, 25 Dec 2022 06:00:58 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1853ea54bc080b96",
+    "subject": "Paying to play",
+    "date": "Fri, 23 Dec 2022 06:01:29 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18524e5004dd24e8",
+    "subject": "The difference between a windfall and a bonus",
+    "date": "Sun, 18 Dec 2022 06:01:04 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1851a98875fe0ca2",
+    "subject": "When being a \"Director of Sales Prevention\" comes in handy",
+    "date": "Fri, 16 Dec 2022 06:01:18 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18500d9095d7b1fc",
+    "subject": "Why you should never join a mastermind",
+    "date": "Sun, 11 Dec 2022 06:01:36 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "184dccb9ad22d37e",
+    "subject": "The middle-class millionaire",
+    "date": "Sun, 4 Dec 2022 06:00:34 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "184d27ed70624bc7",
+    "subject": "Christmas fireworks",
+    "date": "Fri, 2 Dec 2022 06:00:37 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "184b8bf2b8446db7",
+    "subject": "Own your platform",
+    "date": "Sun, 27 Nov 2022 06:00:41 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18494b29b8eaf12b",
+    "subject": "\u201cI want it to matter that we met\u201d",
+    "date": "Sun, 20 Nov 2022 06:00:41 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18470a603f7683b7",
+    "subject": "Lifetime value is a contact (collision?) sport",
+    "date": "Sun, 13 Nov 2022 06:00:31 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18466598dc5f5755",
+    "subject": "Use smaller words",
+    "date": "Fri, 11 Nov 2022 06:00:51 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1844c9971df58557",
+    "subject": "How to explain anything to anybody",
+    "date": "Sun, 6 Nov 2022 06:00:30 -0500 (EST)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "184285652b1f6eac",
+    "subject": "The enemy is a very good teacher",
+    "date": "Sun, 30 Oct 2022 06:00:53 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18422f84d6f15fff",
+    "subject": "Last Chance: Private Breakthrough Advertising Training",
+    "date": "Sat, 29 Oct 2022 05:00:07 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1841dd1e32645404",
+    "subject": "Finished reading Breakthrough Advertising yet?",
+    "date": "Fri, 28 Oct 2022 05:00:04 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18418aba65faa9db",
+    "subject": "Your Cure for Shiny Object Syndrome",
+    "date": "Thu, 27 Oct 2022 05:00:12 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1840449a82cb77b5",
+    "subject": "\u201cHe could have been a physicist\u201d",
+    "date": "Sun, 23 Oct 2022 06:00:44 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "183f9fcd692ce687",
+    "subject": "When the 3-legged stool becomes a 5-legged stool",
+    "date": "Fri, 21 Oct 2022 06:00:39 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "183e03d8513ce600",
+    "subject": "Nobody wants to read your sh*t",
+    "date": "Sun, 16 Oct 2022 06:01:09 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "183bc3118cd2c152",
+    "subject": "Making every event in your life \u201cthe best ever\u201d",
+    "date": "Sun, 9 Oct 2022 06:01:15 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "183b1e3e73001066",
+    "subject": "\"Great Minds Drink Alike\"",
+    "date": "Fri, 7 Oct 2022 06:00:43 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "183982472ad3fe28",
+    "subject": "It\u2019s 5:00 somewhere\u2026",
+    "date": "Sun, 2 Oct 2022 06:01:08 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1838dd7ae8f6068b",
+    "subject": "The clock with no hands",
+    "date": "Fri, 30 Sep 2022 06:00:50 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1837417eb8d94531",
+    "subject": "A funnel in the age of disco",
+    "date": "Sun, 25 Sep 2022 06:01:05 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18369ca592f671e6",
+    "subject": "Confessions of a (very) slow reader",
+    "date": "Fri, 23 Sep 2022 06:00:11 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "183500a7b9848027",
+    "subject": "Slow and picky wins the race",
+    "date": "Sun, 18 Sep 2022 06:00:06 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1833b3a70ab32553",
+    "subject": "See the ads mentioned in Breakthrough Advertising",
+    "date": "Wed, 14 Sep 2022 05:00:27 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "183361405aaef937",
+    "subject": "Pre-order Breakthrough Advertising Mastery",
+    "date": "Tue, 13 Sep 2022 05:00:24 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "1832bfe1c7a913bd",
+    "subject": "Mastery from 6 legends in 10 minutes",
+    "date": "Sun, 11 Sep 2022 06:00:15 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18321b2271e4a640",
+    "subject": "Being ruthless to be kind",
+    "date": "Fri, 9 Sep 2022 06:01:03 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "18307f220291b71d",
+    "subject": "Where's the profit in THAT?",
+    "date": "Sun, 4 Sep 2022 06:00:51 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "182fda55e7cee879",
+    "subject": "You don't have to write barefoot",
+    "date": "Fri, 2 Sep 2022 06:00:46 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "182e3e5ae4cc3e98",
+    "subject": "Everything is a side hustle",
+    "date": "Sun, 28 Aug 2022 06:00:53 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "182d9989958e542d",
+    "subject": "Learning to fish",
+    "date": "Fri, 26 Aug 2022 06:00:31 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "182bfd8ff6310f20",
+    "subject": "The Titans of Kenya",
+    "date": "Sun, 21 Aug 2022 06:00:44 -0400 (EDT)",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "17db470925ceab8a",
+    "subject": "Meet Gabe - Titans Member Since 2019",
+    "date": "Mon, 13 Dec 2021 09:30:57 -0600",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "17dae511b8e4dbb5",
+    "subject": "\u201cMay the Schwartz be with you\u201d",
+    "date": "Sun, 12 Dec 2021 05:00:40 -0600",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "17da4aa86c5744bf",
+    "subject": "Titans Xcelerator Now Open",
+    "date": "Fri, 10 Dec 2021 08:01:11 -0600",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "17da40692e354b22",
+    "subject": "Normal redefined",
+    "date": "Fri, 10 Dec 2021 05:01:59 -0600",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "17d8a4461e254ae2",
+    "subject": "Staying one step ahead of COVID",
+    "date": "Sun, 05 Dec 2021 05:00:27 -0600",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  },
+  {
+    "id": "17d802733d938118",
+    "subject": "Resolutions to declarations...happiness to joy",
+    "date": "Fri, 03 Dec 2021 05:51:20 -0600",
+    "from": "Brian Kurtz <brian@briankurtz.net>"
+  }
+]

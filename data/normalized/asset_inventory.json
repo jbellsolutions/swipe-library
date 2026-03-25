@@ -1,0 +1,766 @@
+{
+  "generated_at": "2026-03-25T19:49:43.630897+00:00",
+  "summary": {
+    "asset_files": 124,
+    "source_collections": {
+      "copy_master_base": 7,
+      "copy_master_real_snapshot": 9,
+      "copy_master_ultimate": 99,
+      "root_snapshot": 9
+    },
+    "formats": {
+      "html": 6,
+      "json": 64,
+      "md": 33,
+      "py": 11,
+      "txt": 9,
+      "unknown": 1
+    }
+  },
+  "assets": [
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/swipe-file/SWIPE_FILE_CONTEXT.md",
+      "source_collection": "copy_master_base",
+      "source_format": "md",
+      "size_bytes": 22395
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/swipe-file/real_swipe_file/content_production_engine.html",
+      "source_collection": "copy_master_real_snapshot",
+      "source_format": "html",
+      "size_bytes": 28416
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/swipe-file/real_swipe_file/dr_copywriting_swipe_file.html",
+      "source_collection": "copy_master_real_snapshot",
+      "source_format": "html",
+      "size_bytes": 1421582
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/swipe-file/real_swipe_file/style_analysis.json",
+      "source_collection": "copy_master_real_snapshot",
+      "source_format": "json",
+      "size_bytes": 8047
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/swipe-file/real_swipe_file/swipe_compact.json",
+      "source_collection": "copy_master_real_snapshot",
+      "source_format": "json",
+      "size_bytes": 289728
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/swipe-file/real_swipe_file/swipe_database.json",
+      "source_collection": "copy_master_real_snapshot",
+      "source_format": "json",
+      "size_bytes": 1667486
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/swipe-file/real_swipe_file/swipe_file_agent_context.json",
+      "source_collection": "copy_master_real_snapshot",
+      "source_format": "json",
+      "size_bytes": 950767
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/swipe-file/real_swipe_file/swipe_file_batch_reader.py",
+      "source_collection": "copy_master_real_snapshot",
+      "source_format": "py",
+      "size_bytes": 3479
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/swipe-file/real_swipe_file/swipe_file_build_database.py",
+      "source_collection": "copy_master_real_snapshot",
+      "source_format": "py",
+      "size_bytes": 4610
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/swipe-file/real_swipe_file/swipe_file_system.html",
+      "source_collection": "copy_master_real_snapshot",
+      "source_format": "html",
+      "size_bytes": 32873
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/swipe-file/scripts/swipe_file_batch_reader.py",
+      "source_collection": "copy_master_base",
+      "source_format": "py",
+      "size_bytes": 3479
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/swipe-file/scripts/swipe_file_build_database.py",
+      "source_collection": "copy_master_base",
+      "source_format": "py",
+      "size_bytes": 4610
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/swipe-file/style_analysis.json",
+      "source_collection": "copy_master_base",
+      "source_format": "json",
+      "size_bytes": 8047
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/swipe-file/swipe_compact.json",
+      "source_collection": "copy_master_base",
+      "source_format": "json",
+      "size_bytes": 289728
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/swipe-file/swipe_database.json",
+      "source_collection": "copy_master_base",
+      "source_format": "json",
+      "size_bytes": 1667486
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/swipe-file/swipe_file_agent_context.json",
+      "source_collection": "copy_master_base",
+      "source_format": "json",
+      "size_bytes": 950767
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/alex_hormozi_books.md",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "md",
+      "size_bytes": 5990
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/alex_hormozi_shop.md",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "md",
+      "size_bytes": 39487
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/bill_mueller_sales.md",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "md",
+      "size_bytes": 38317
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/brian_kurtz_home.md",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "md",
+      "size_bytes": 6264
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/jay_abraham_home.md",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "md",
+      "size_bytes": 30735
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/jay_abraham_swiped.md",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "md",
+      "size_bytes": 4700
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/jon_buchan_course.md",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "md",
+      "size_bytes": 16033
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/jon_buchan_home.md",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "md",
+      "size_bytes": 11087
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/lead_gen_jay_course.md",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "md",
+      "size_bytes": 105383
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/lead_gen_jay_home.md",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "md",
+      "size_bytes": 18501
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/liam_ottley_course.md",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "md",
+      "size_bytes": 16074
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/liam_ottley_home.md",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "md",
+      "size_bytes": 773
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/todd_brown_home.md",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "md",
+      "size_bytes": 12375
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/todd_brown_training.md",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "md",
+      "size_bytes": 4108
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/tom_bilyeu_home.md",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "md",
+      "size_bytes": 121929
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/alex_hormozi_100m_offers.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 289091
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/alex_hormozi_books.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 629087
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/alex_hormozi_main.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 207599
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/bill_mueller_books.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 317758
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/bill_mueller_main.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 117030
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/bill_mueller_training.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 465784
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/brian_kurtz_book.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 567172
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/brian_kurtz_books.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 527946
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/brian_kurtz_main.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 608169
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/jay_abraham_books.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 1152672
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/jay_abraham_getting_everything.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 1341537
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/jay_abraham_main.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 454453
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/jon_buchan_books.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 470527
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/jon_buchan_main.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 499167
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/jon_buchan_templates.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 336413
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/lead_gen_jay_main.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 675214
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/liam_ottley_main.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 1196091
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/swiped_classics.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 1284652
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/swiped_jay_abraham.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 1030173
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/todd_brown_books.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 440485
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/todd_brown_e5.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 580147
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/todd_brown_main.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 683841
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/tom_bilyeu_books.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 750037
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/tom_bilyeu_main.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 770400
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.gitignore",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "unknown",
+      "size_bytes": 12
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/SWIPE_FILE_CONTEXT.md",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "md",
+      "size_bytes": 22395
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/codex/README.md",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "md",
+      "size_bytes": 1301
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/codex/alex_hormozi/README.md",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "md",
+      "size_bytes": 9267
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/codex/bill_mueller/ACCESS_NOTES.md",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "md",
+      "size_bytes": 781
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/codex/bill_mueller/README.md",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "md",
+      "size_bytes": 139
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/codex/brian_kurtz/README.md",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "md",
+      "size_bytes": 10387
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/codex/jay_abraham/README.md",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "md",
+      "size_bytes": 16908
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/codex/jon_buchan/README.md",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "md",
+      "size_bytes": 17609
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/codex/lead_gen_jay/ACCESS_NOTES.md",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "md",
+      "size_bytes": 858
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/codex/lead_gen_jay/README.md",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "md",
+      "size_bytes": 241
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/codex/liam_ottley/README.md",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "md",
+      "size_bytes": 2033
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/codex/scripts/public_site_scraper.py",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "py",
+      "size_bytes": 10085
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/codex/todd_brown/README.md",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "md",
+      "size_bytes": 5381
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/codex/tom_bilyeu/README.md",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "md",
+      "size_bytes": 26527
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file/GMAIL_INGEST.md",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "md",
+      "size_bytes": 737
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file/scripts/swipe_file_batch_reader.py",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "py",
+      "size_bytes": 3497
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file/scripts/swipe_file_build_database.py",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "py",
+      "size_bytes": 4605
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file/scripts/swipe_file_gmail_ingest.py",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "py",
+      "size_bytes": 11331
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file/scripts/swipe_file_materialize_content.py",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "py",
+      "size_bytes": 2178
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file/source_inventory.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 6300
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file/style_analysis.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 8047
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file/swipe_compact.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 289728
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file/swipe_database.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 1667402
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file/swipe_file_agent_context.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 950767
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/MASTER_INDEX.md",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "md",
+      "size_bytes": 5192
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/NEXT_STEPS.md",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "md",
+      "size_bytes": 3470
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/RESEARCH_COMPLETE.md",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "md",
+      "size_bytes": 5570
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/alex_hormozi/resources/pdfs.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 3897
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/alex_hormozi/resources/urls.txt",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "txt",
+      "size_bytes": 21447
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/alex_hormozi/search/gym_launch.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 395026
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/alex_hormozi/search/site_offers.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 291935
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/alex_hormozi/search/webinars.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 775483
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/alex_hormozi/search/youtube.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 451353
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/bill_mueller/resources/urls.txt",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "txt",
+      "size_bytes": 157
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/brian_kurtz/resources/urls.txt",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "txt",
+      "size_bytes": 46060
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/brian_kurtz/search/titans.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 480654
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/brian_kurtz/search/webinars.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 592925
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/jay_abraham/resources/urls.txt",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "txt",
+      "size_bytes": 106214
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/jay_abraham/search/interviews.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 455572
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/jay_abraham/search/power_principles.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 1176366
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/jay_abraham/search/site_offers.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 323824
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/jay_abraham/search/webinars.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 248429
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/jon_buchan/resources/urls.txt",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "txt",
+      "size_bytes": 33327
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/jon_buchan/search/interviews.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 424534
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/jon_buchan/search/site_offers.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 333701
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/jon_buchan/search/templates.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 418291
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/lead_gen_jay/resources/urls.txt",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "txt",
+      "size_bytes": 2515
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/liam_ottley/resources/urls.txt",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "txt",
+      "size_bytes": 50
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/resources/dan_kennedy.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 495204
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/resources/gary_halbert.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 357650
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/resources/swipe_pdfs.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 3665
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/resources/swiped_archive.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 549266
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/resources/swiped_halbert.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 78013
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/todd_brown/resources/urls.txt",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "txt",
+      "size_bytes": 34193
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/todd_brown/search/mfa_method.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 565980
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/todd_brown/search/site_offers.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 85228
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/todd_brown/search/webinars.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 680403
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/todd_brown/search/youtube.json",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "json",
+      "size_bytes": 470980
+    },
+    {
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/tom_bilyeu/resources/urls.txt",
+      "source_collection": "copy_master_ultimate",
+      "source_format": "txt",
+      "size_bytes": 3305
+    },
+    {
+      "path": "data/raw/root_snapshot/dashboards/content_production_engine.html",
+      "source_collection": "root_snapshot",
+      "source_format": "html",
+      "size_bytes": 28416
+    },
+    {
+      "path": "data/raw/root_snapshot/dashboards/dr_copywriting_swipe_file.html",
+      "source_collection": "root_snapshot",
+      "source_format": "html",
+      "size_bytes": 1421582
+    },
+    {
+      "path": "data/raw/root_snapshot/dashboards/swipe_file_system.html",
+      "source_collection": "root_snapshot",
+      "source_format": "html",
+      "size_bytes": 32873
+    },
+    {
+      "path": "data/raw/root_snapshot/exports/style_analysis.json",
+      "source_collection": "root_snapshot",
+      "source_format": "json",
+      "size_bytes": 8047
+    },
+    {
+      "path": "data/raw/root_snapshot/exports/swipe_compact.json",
+      "source_collection": "root_snapshot",
+      "source_format": "json",
+      "size_bytes": 289728
+    },
+    {
+      "path": "data/raw/root_snapshot/exports/swipe_database.json",
+      "source_collection": "root_snapshot",
+      "source_format": "json",
+      "size_bytes": 1667486
+    },
+    {
+      "path": "data/raw/root_snapshot/exports/swipe_file_agent_context.json",
+      "source_collection": "root_snapshot",
+      "source_format": "json",
+      "size_bytes": 950767
+    },
+    {
+      "path": "data/raw/root_snapshot/scripts/swipe_file_batch_reader.py",
+      "source_collection": "root_snapshot",
+      "source_format": "py",
+      "size_bytes": 3479
+    },
+    {
+      "path": "data/raw/root_snapshot/scripts/swipe_file_build_database.py",
+      "source_collection": "root_snapshot",
+      "source_format": "py",
+      "size_bytes": 4610
+    }
+  ]
+}

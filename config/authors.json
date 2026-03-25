@@ -1,0 +1,86 @@
+{
+  "authors": [
+    {
+      "key": "alex_hormozi",
+      "display_name": "Alex Hormozi",
+      "emails": ["value@acquisition.com"],
+      "domains": ["acquisition.com"],
+      "specialties": ["offers", "scaling", "value equations", "business growth"],
+      "best_for": ["offer breakdowns", "tactical value emails", "direct lessons"],
+      "style_traits": ["direct", "framework-heavy", "no-fluff", "short subject lines"]
+    },
+    {
+      "key": "bill_mueller",
+      "display_name": "Bill Mueller",
+      "emails": ["bill@storysalesmachine.com"],
+      "domains": ["storysalesmachine.com"],
+      "specialties": ["storytelling", "email sequences", "narrative selling", "curiosity"],
+      "best_for": ["story-led emails", "curiosity hooks", "email critiques"],
+      "style_traits": ["story-driven", "curiosity-first", "question-led", "narrative"]
+    },
+    {
+      "key": "brian_kurtz",
+      "display_name": "Brian Kurtz",
+      "emails": ["brian@briankurtz.net"],
+      "domains": ["briankurtz.net"],
+      "specialties": ["direct response", "relationship building", "marketing history", "lifetime value"],
+      "best_for": ["nurture", "authority building", "industry-insider stories"],
+      "style_traits": ["relational", "insider", "story-backed", "classic direct response"]
+    },
+    {
+      "key": "jay_abraham",
+      "display_name": "Jay Abraham",
+      "emails": ["jay@abraham.com", "jaipremium@substack.com"],
+      "domains": ["abraham.com"],
+      "specialties": ["strategy", "leverage", "growth", "partnerships"],
+      "best_for": ["long-form value", "strategic thinking", "premium positioning"],
+      "style_traits": ["strategic", "value-dense", "long-form", "you-focused"]
+    },
+    {
+      "key": "jon_buchan",
+      "display_name": "Jon Buchan",
+      "emails": ["jon@charm-offensive.co.uk"],
+      "domains": ["charm-offensive.co.uk"],
+      "specialties": ["cold email", "personality-driven outreach", "humor", "pattern interrupts"],
+      "best_for": ["cold outreach", "quirky offers", "personality-rich email"],
+      "style_traits": ["playful", "quirky", "charming", "unorthodox"]
+    },
+    {
+      "key": "lead_gen_jay",
+      "display_name": "Lead Gen Jay",
+      "emails": ["jay@leadgenjay.com"],
+      "domains": ["leadgenjay.com", "web.leadgenjay.com"],
+      "specialties": ["lead generation", "cold email", "B2B outbound", "growth systems"],
+      "best_for": ["lead-gen tactics", "prospecting systems", "practical frameworks"],
+      "style_traits": ["practical", "growth-focused", "tactical", "modern outbound"]
+    },
+    {
+      "key": "liam_ottley",
+      "display_name": "Liam Ottley",
+      "emails": ["admin@liamottley.com"],
+      "domains": ["liamottley.com"],
+      "specialties": ["AI agencies", "automation", "operators", "systems"],
+      "best_for": ["AI offers", "automation angles", "modern agency content"],
+      "style_traits": ["tech-forward", "modern", "concise", "builder-oriented"]
+    },
+    {
+      "key": "todd_brown",
+      "display_name": "Todd Brown",
+      "emails": ["support@marketingfunnelautomation.com"],
+      "domains": ["toddbrown.me", "marketingfunnelautomation.com"],
+      "specialties": ["funnels", "mechanisms", "E5 method", "marketing education"],
+      "best_for": ["mechanism reveals", "funnel messaging", "launch education"],
+      "style_traits": ["mechanism-led", "strategic", "funnel-oriented", "launch-aware"]
+    },
+    {
+      "key": "tom_bilyeu",
+      "display_name": "Tom Bilyeu",
+      "emails": ["tombilyeu@impacttheory.com"],
+      "domains": ["impacttheory.com", "impacttheoryuniversity.com"],
+      "specialties": ["mindset", "motivation", "personal development", "impact"],
+      "best_for": ["mindset content", "belief shifts", "inspirational angles"],
+      "style_traits": ["mindset-driven", "inspirational", "personal", "lowercase-friendly"]
+    }
+  ]
+}
+

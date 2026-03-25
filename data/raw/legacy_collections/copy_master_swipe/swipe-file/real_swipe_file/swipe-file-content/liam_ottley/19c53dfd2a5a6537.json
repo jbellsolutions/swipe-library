@@ -1,0 +1,7 @@
+{
+  "id": "19c53dfd2a5a6537",
+  "subject": "stop using Claude Code like a chatbot",
+  "date": "Thu, 12 Feb 2026 22:01:42 +0000 (UTC)",
+  "sender": "Liam Ottley <admin@liamottley.com>",
+  "body": "Hey Justin - Liam here.\n\nMost people treat Claude Code like ChatGPT - chatting back and forth, nudging outputs, wondering why nothing comes out right.\n\nThat is not how my team uses it.\n\nWe build workspaces - one folder with everything Claude Code needs to operate like a digital employee. Context about who you are, what you are working on, your current strategy, and your latest data.\n\nThen instead of typing requests from scratch every time, we hand it reusable commands that run entire workflows on their own.\n\nIn my latest video, I am walking through the exact workspace template I train my staff on - including a live build where one command triggers deep research, pulls real-time YouTube data, and generates a full competitor analysis deck.\n\nKeep going,\n\nLiam\n\nP.S. I also cover the 4 biggest mistakes beginners make that kill their outputs before they even start."
+}

@@ -1,0 +1,75 @@
+{
+  "profiles": [
+    {
+      "key": "story_lead",
+      "label": "Story Lead",
+      "keywords": ["story", "narrative", "anecdote", "scene", "story-led"],
+      "preferred_authors": ["bill_mueller", "brian_kurtz", "jon_buchan"],
+      "preferred_tags": ["story", "email", "narrative"]
+    },
+    {
+      "key": "curiosity_hook",
+      "label": "Curiosity Hook",
+      "keywords": ["curiosity", "tease", "hook", "open loop", "subject line"],
+      "preferred_authors": ["bill_mueller", "jon_buchan", "todd_brown"],
+      "preferred_tags": ["curiosity", "subject-line", "hook"]
+    },
+    {
+      "key": "value_lesson",
+      "label": "Value Lesson",
+      "keywords": ["value", "lesson", "framework", "teaching", "insight", "breakdown"],
+      "preferred_authors": ["alex_hormozi", "jay_abraham", "lead_gen_jay"],
+      "preferred_tags": ["framework", "value", "lesson"]
+    },
+    {
+      "key": "mechanism_reveal",
+      "label": "Mechanism Reveal",
+      "keywords": ["mechanism", "funnel", "reveal", "why it works", "conversion"],
+      "preferred_authors": ["todd_brown", "alex_hormozi", "jay_abraham"],
+      "preferred_tags": ["mechanism", "funnel", "sales-page"]
+    },
+    {
+      "key": "nurture_relationship",
+      "label": "Nurture Relationship",
+      "keywords": ["nurture", "relationship", "trust", "authority", "behind the scenes"],
+      "preferred_authors": ["brian_kurtz", "jay_abraham", "bill_mueller"],
+      "preferred_tags": ["nurture", "relationship", "authority"]
+    },
+    {
+      "key": "offer_breakdown",
+      "label": "Offer Breakdown",
+      "keywords": ["offer", "pricing", "value stack", "guarantee", "upsell"],
+      "preferred_authors": ["alex_hormozi", "jay_abraham", "todd_brown"],
+      "preferred_tags": ["offer", "pricing", "sales"]
+    },
+    {
+      "key": "cold_outreach",
+      "label": "Cold Outreach",
+      "keywords": ["cold email", "outreach", "prospecting", "b2b", "reply rate"],
+      "preferred_authors": ["jon_buchan", "lead_gen_jay"],
+      "preferred_tags": ["cold-email", "outbound", "lead-generation"]
+    },
+    {
+      "key": "landing_page",
+      "label": "Landing Page",
+      "keywords": ["landing page", "sales page", "headline", "page structure", "above the fold"],
+      "preferred_authors": ["alex_hormozi", "todd_brown", "liam_ottley"],
+      "preferred_tags": ["landing-page", "sales-page", "headline"]
+    },
+    {
+      "key": "mindset",
+      "label": "Mindset",
+      "keywords": ["mindset", "belief", "identity", "motivation", "discipline"],
+      "preferred_authors": ["tom_bilyeu", "alex_hormozi"],
+      "preferred_tags": ["mindset", "motivation"]
+    },
+    {
+      "key": "ai_automation",
+      "label": "AI Automation",
+      "keywords": ["ai", "automation", "agent", "workflow", "systems"],
+      "preferred_authors": ["liam_ottley", "lead_gen_jay"],
+      "preferred_tags": ["ai", "automation", "systems"]
+    }
+  ]
+}
+
