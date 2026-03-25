@@ -1,14 +1,14 @@
 {
-  "tracked_file_count": 1603,
-  "working_tree_file_count": 1688,
+  "tracked_file_count": 1647,
+  "working_tree_file_count": 1689,
   "tracked_breakdown": {
     "config_files": 3,
     "doc_files": 2,
-    "normalized_files": 6,
-    "raw_files": 1587,
+    "normalized_files": 7,
+    "raw_files": 1627,
     "schema_files": 1,
-    "script_files": 2,
-    "top_level_files": 2
+    "script_files": 3,
+    "top_level_files": 4
   },
   "library_summary": {
     "generated_at": "2026-03-25T21:31:10.482734+00:00",
@@ -61,50 +61,6 @@
       "unknown": 1
     }
   },
-  "significant_untracked_files": [
-    "LICENSE",
-    "NOTICE.md",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/alex_hormozi_books.md",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/alex_hormozi_shop.md",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/bill_mueller_sales.md",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/brian_kurtz_home.md",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/jay_abraham_home.md",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/jay_abraham_swiped.md",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/jon_buchan_course.md",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/jon_buchan_home.md",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/lead_gen_jay_course.md",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/lead_gen_jay_home.md",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/liam_ottley_course.md",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/liam_ottley_home.md",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/todd_brown_home.md",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/todd_brown_training.md",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/tom_bilyeu_home.md",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/credits.json",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/alex_hormozi_100m_offers.json",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/alex_hormozi_books.json",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/alex_hormozi_main.json",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/bill_mueller_books.json",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/bill_mueller_main.json",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/bill_mueller_training.json",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/brian_kurtz_book.json",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/brian_kurtz_books.json",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/brian_kurtz_main.json",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/jay_abraham_books.json",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/jay_abraham_getting_everything.json",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/jay_abraham_main.json",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/jon_buchan_books.json",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/jon_buchan_main.json",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/jon_buchan_templates.json",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/lead_gen_jay_main.json",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/liam_ottley_main.json",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/swiped_classics.json",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/swiped_jay_abraham.json",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/todd_brown_books.json",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/todd_brown_e5.json",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/todd_brown_main.json",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/tom_bilyeu_books.json",
-    "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/tom_bilyeu_main.json",
-    "scripts/verify_repo.py"
-  ],
-  "significant_untracked_count": 43
+  "significant_untracked_files": [],
+  "significant_untracked_count": 0
 }
