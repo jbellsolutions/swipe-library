@@ -29,6 +29,7 @@ ASSET_ONLY_NAMES = {
     "MASTER_INDEX.md",
     "RESEARCH_COMPLETE.md",
     "README.md",
+    "credits.json",
 }
 SKIP_NAMES = {".DS_Store"}
 SKIP_PARTS = {".git-archive", "__pycache__"}
@@ -225,6 +226,10 @@ def detect_author(path: Path, authors: dict[str, dict[str, Any]], payload: Any =
             return part
         if part.endswith(".json") and part[:-5] in authors:
             return part[:-5]
+        stem = Path(part).stem
+        for author_key in authors:
+            if stem.startswith(author_key):
+                return author_key
     if isinstance(payload, dict):
         for field in ("from", "sender", "email", "author", "display_name"):
             value = payload.get(field)
@@ -275,6 +280,8 @@ def classify_path(path: Path) -> str:
         return "email_index"
     if suffix == ".md" and "/web_swipe_file/" in rel:
         return "web_markdown"
+    if suffix == ".md" and "/.firecrawl/content/" in rel:
+        return "research_markdown"
     if suffix == ".md" and "/swipe-file-research/" in rel and "/content/" in rel:
         return "research_markdown"
     if suffix == ".md" and "/swipe-file-content/" in rel:
@@ -375,6 +382,7 @@ def build_entry(
             "canonical_entry_id": None,
             "duplicate_group": fingerprint,
         },
+        "is_canonical": False,
     }
 
 

@@ -47,11 +47,13 @@ After running the builder, use these files first:
 - `data/normalized/library.json`: single-file JSON export of the normalized library
 - `data/normalized/library-lite.json`: lighter metadata-first version for browsing
 - `data/normalized/asset_inventory.json`: non-library files preserved for reference
+- `data/normalized/repo_audit.json`: tracked-file and completeness audit for rebuild verification
 
 ## Rebuild
 
 ```bash
 python3 scripts/build_library.py
+python3 scripts/verify_repo.py
 ```
 
 ## Query
@@ -74,3 +76,26 @@ If someone asks for:
 
 More detail is in [docs/architecture.md](/Users/home/Desktop/Sales%20Offers/Real%20Swipe%20File/docs/architecture.md) and [docs/retrieval.md](/Users/home/Desktop/Sales%20Offers/Real%20Swipe%20File/docs/retrieval.md).
 
+## Completeness
+
+This repo is meant to be downloadable and reusable as a full project, not just a thin index.
+
+The rebuild flow is:
+
+```bash
+python3 scripts/build_library.py
+python3 scripts/verify_repo.py
+```
+
+`verify_repo.py` writes `data/normalized/repo_audit.json` so you can confirm:
+
+- tracked file counts
+- normalized entry counts
+- canonical deduped entry counts
+- any remaining ignored files that still look content-bearing
+
+## License
+
+See `LICENSE` and `NOTICE.md`.
+
+The short version: the original code/docs in this repo are licensed; imported swipe content is preserved for research/reference and is not relicensed as if it were original work.

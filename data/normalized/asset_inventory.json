@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-03-25T19:49:43.630897+00:00",
+  "generated_at": "2026-03-25T21:31:10.482734+00:00",
   "summary": {
-    "asset_files": 124,
+    "asset_files": 110,
     "source_collections": {
       "copy_master_base": 7,
       "copy_master_real_snapshot": 9,
-      "copy_master_ultimate": 99,
+      "copy_master_ultimate": 85,
       "root_snapshot": 9
     },
     "formats": {
       "html": 6,
-      "json": 64,
-      "md": 33,
+      "json": 65,
+      "md": 18,
       "py": 11,
       "txt": 9,
       "unknown": 1
@@ -115,94 +115,10 @@
       "size_bytes": 950767
     },
     {
-      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/alex_hormozi_books.md",
+      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/credits.json",
       "source_collection": "copy_master_ultimate",
-      "source_format": "md",
-      "size_bytes": 5990
-    },
-    {
-      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/alex_hormozi_shop.md",
-      "source_collection": "copy_master_ultimate",
-      "source_format": "md",
-      "size_bytes": 39487
-    },
-    {
-      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/bill_mueller_sales.md",
-      "source_collection": "copy_master_ultimate",
-      "source_format": "md",
-      "size_bytes": 38317
-    },
-    {
-      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/brian_kurtz_home.md",
-      "source_collection": "copy_master_ultimate",
-      "source_format": "md",
-      "size_bytes": 6264
-    },
-    {
-      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/jay_abraham_home.md",
-      "source_collection": "copy_master_ultimate",
-      "source_format": "md",
-      "size_bytes": 30735
-    },
-    {
-      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/jay_abraham_swiped.md",
-      "source_collection": "copy_master_ultimate",
-      "source_format": "md",
-      "size_bytes": 4700
-    },
-    {
-      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/jon_buchan_course.md",
-      "source_collection": "copy_master_ultimate",
-      "source_format": "md",
-      "size_bytes": 16033
-    },
-    {
-      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/jon_buchan_home.md",
-      "source_collection": "copy_master_ultimate",
-      "source_format": "md",
-      "size_bytes": 11087
-    },
-    {
-      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/lead_gen_jay_course.md",
-      "source_collection": "copy_master_ultimate",
-      "source_format": "md",
-      "size_bytes": 105383
-    },
-    {
-      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/lead_gen_jay_home.md",
-      "source_collection": "copy_master_ultimate",
-      "source_format": "md",
-      "size_bytes": 18501
-    },
-    {
-      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/liam_ottley_course.md",
-      "source_collection": "copy_master_ultimate",
-      "source_format": "md",
-      "size_bytes": 16074
-    },
-    {
-      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/liam_ottley_home.md",
-      "source_collection": "copy_master_ultimate",
-      "source_format": "md",
-      "size_bytes": 773
-    },
-    {
-      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/todd_brown_home.md",
-      "source_collection": "copy_master_ultimate",
-      "source_format": "md",
-      "size_bytes": 12375
-    },
-    {
-      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/todd_brown_training.md",
-      "source_collection": "copy_master_ultimate",
-      "source_format": "md",
-      "size_bytes": 4108
-    },
-    {
-      "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/content/tom_bilyeu_home.md",
-      "source_collection": "copy_master_ultimate",
-      "source_format": "md",
-      "size_bytes": 121929
+      "source_format": "json",
+      "size_bytes": 200
     },
     {
       "path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/.firecrawl/search/alex_hormozi_100m_offers.json",
