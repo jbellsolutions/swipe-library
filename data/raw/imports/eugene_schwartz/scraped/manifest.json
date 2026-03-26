@@ -1,70 +1,253 @@
 {
-  "generated_at": "2026-03-26",
-  "total_files": 9,
-  "total_words": 4245,
+  "collection": "Eugene Schwartz Copywriting Archive",
+  "date_scraped": "2026-03-26",
+  "total_files": 20,
   "files": [
     {
+      "filename": "speech_philips_publishing_lost_secrets.txt",
+      "title": "The 'Lost' Secrets of Breakthrough Advertising - Eugene Schwartz Lecture to Philips Publishing (COMPLETE TRANSCRIPT)",
+      "type": "speech",
+      "source_url": "https://thecopyalchemist.com/wp-content/uploads/2012/11/Lost-Secrets-of-Breakthrough-Advertising.pdf",
+      "date_original": "1993-10-08",
+      "description": "Complete 29-page transcript of Schwartz's famous lecture to Philips Publishing. Covers 33-minute writing process, 8 Great Rules of Marketing, headline construction, channeling demand, chimpanzee brain theory, demonstration technique, building ads as mosaics, and extensive Q&A. Also includes newspaper profile.",
+      "word_count_approx": 12000,
+      "content_quality": "complete_transcript",
+      "new_in_session_2": true
+    },
+    {
+      "filename": "headline_swipe_file_127_winners.txt",
+      "title": "The Eugene Schwartz Headline Swipe File - 127 Winning Headlines (COMPLETE WITH ANALYSIS)",
+      "type": "swipe_file",
+      "source_url": "https://www.copywriting1.com/EugeneSchwartzHeadlineSwipeFile.pdf",
+      "description": "Complete 19-page collection of 127 winning headlines organized by 18 categories with subheadlines, lead-in copy, ad thumbnail descriptions, and analysis of what makes Schwartz ads tick.",
+      "word_count_approx": 5000,
+      "content_quality": "complete",
+      "new_in_session_2": true
+    },
+    {
+      "filename": "article_masterfiles_research_system.txt",
+      "title": "THE EUGENE SCHWARTZ MASTERFILES - Complete Research & Writing System",
+      "type": "article",
+      "source_url": "https://theghostwriterletters.substack.com/p/the-eugene-schwartz-masterfiles-part",
+      "description": "Comprehensive analysis of Schwartz's complete 4-step diagnostic process: choosing mass desire, extracting vocabulary through 4 reads, working in 33-minute focused spurts, and building the ad as a mosaic. Full article with all quotes and metaphors.",
+      "word_count_approx": 6000,
+      "content_quality": "complete_article",
+      "new_in_session_2": true
+    },
+    {
+      "filename": "article_brian_kurtz_homeboy.txt",
+      "title": "Eugene Schwartz is my Homeboy - Brian Kurtz (Summary)",
+      "type": "article",
+      "source_url": "https://www.briankurtz.net/eugene-schwartz-is-my-homeboy/",
+      "date_original": "2016-04-27",
+      "description": "Brian Kurtz's personal account of relationship with Schwartz at Boardroom. Covers business model, Boardroom Reports launch story, partnership lessons.",
+      "word_count_approx": 800,
+      "content_quality": "summary",
+      "new_in_session_2": true
+    },
+    {
+      "filename": "article_5_levels_awareness.txt",
+      "title": "5 Stages of Awareness and 5 Levels of Sophistication (COMPREHENSIVE COMPILATION)",
+      "type": "article",
+      "source_url": "multiple sources compiled",
+      "description": "Detailed compilation of both core Breakthrough Advertising frameworks with headline strategies per awareness level, copy strategies per sophistication level, and key quotes.",
+      "word_count_approx": 2500,
+      "content_quality": "compiled_analysis",
+      "new_in_session_2": true
+    },
+    {
+      "filename": "article_copyblogger_33_minute_system.txt",
+      "title": "How to Kill Writer's Block - 33-Minute System (Copyblogger)",
+      "type": "article",
+      "source_url": "https://copyblogger.com/schwartz-copywriting-system/",
+      "description": "Copyblogger article on Schwartz's 33-minute writing system with key quotes.",
+      "word_count_approx": 800,
+      "content_quality": "summary",
+      "new_in_session_2": true
+    },
+    {
+      "filename": "ad_burn_disease_internal_exercises.txt",
+      "title": "Burn Disease Out of Your Body - Dr. Chang's Book of Internal Exercises (RECONSTRUCTED FROM LECTURE)",
+      "type": "sales_letter",
+      "source_url": "https://swiped.co/file/burn-disease-ad-by-eugene-schwartz/",
+      "date_original": "1979",
+      "description": "Schwartz's most famous direct mail piece, reconstructed from his own reading of it during the Philips Publishing lecture. Includes envelope, headline, opening, biography, demonstration section, key claims, and Schwartz's commentary. 14+ year control, $50M+ in sales.",
+      "word_count_approx": 2000,
+      "content_quality": "partial_reconstruction_from_lecture",
+      "new_in_session_2": true
+    },
+    {
+      "filename": "ad_boardroom_reports_370_magazines.txt",
+      "title": "How To Get The Guts Of 370 Business Magazines In 30 Minutes - Boardroom Reports",
+      "type": "sales_letter",
+      "source_url": "https://swiped.co/file/boardroom-reports-eugene-schwartz/",
+      "date_original": "1972",
+      "description": "The ad that launched Boardroom Reports. Schwartz's account of writing this from his lecture. 70% client conversation rearranged. 60,000 subscriptions.",
+      "word_count_approx": 600,
+      "content_quality": "partial_reconstruction_from_lecture",
+      "new_in_session_2": true
+    },
+    {
+      "filename": "ad_sneaky_arthritis_tricks.txt",
+      "title": "Sneaky Little Arthritis Tricks - Rodale Press Envelope",
+      "type": "sales_letter",
+      "source_url": "Philips Publishing lecture transcript",
+      "description": "Rodale arthritis book direct mail package. Reconstructed from lecture with headline structure analysis (intrigue, mechanism, proof, emotion).",
+      "word_count_approx": 600,
+      "content_quality": "partial_reconstruction_from_lecture",
+      "new_in_session_2": true
+    },
+    {
+      "filename": "ad_rodale_envelope_tricks_of_trade.txt",
+      "title": "Tricks of the Trade So Powerful They Could Change Your Life - Rodale 15-Year Control",
+      "type": "sales_letter",
+      "source_url": "Philips Publishing lecture transcript",
+      "description": "Schwartz's ugly envelope that sold $50M for Rodale. 15-year control. Front/back copy and commentary on ugly vs beautiful layouts.",
+      "word_count_approx": 600,
+      "content_quality": "partial_reconstruction_from_lecture",
+      "new_in_session_2": true
+    },
+    {
+      "filename": "biography_eugene_schwartz.txt",
+      "title": "Eugene M. Schwartz (1927-1995) - Complete Biography",
+      "type": "article",
+      "source_url": "multiple sources compiled",
+      "description": "Comprehensive biography from newspaper profile, lecture, and other sources. Early life, career, companies, accomplishments, books, working methods, personal life, ethics, key quotes.",
+      "word_count_approx": 2500,
+      "content_quality": "compiled",
+      "new_in_session_2": true
+    },
+    {
       "filename": "127_winning_headlines.txt",
-      "title": "Eugene Schwartz - 127 Winning Advertising Headlines",
-      "source_url": "https://pdfcoffee.com/eugene-schwartz-127-winning-advertising-headlinespdf-pdf-free.html",
+      "title": "Eugene Schwartz - 127 Winning Advertising Headlines (earlier version)",
       "type": "headline_collection",
-      "word_count": 1470
+      "source_url": "https://pdfcoffee.com/eugene-schwartz-127-winning-advertising-headlinespdf-pdf-free.html",
+      "word_count_approx": 1470,
+      "content_quality": "partial",
+      "from_session_1": true
     },
     {
       "filename": "ad_reference_swiped_co.txt",
       "title": "Eugene Schwartz Ad Collection Reference (Swiped.co)",
-      "source_url": "https://swiped.co/person/eugene-schwartz/",
       "type": "ad_reference",
-      "word_count": 256
+      "source_url": "https://swiped.co/person/eugene-schwartz/",
+      "word_count_approx": 256,
+      "from_session_1": true
     },
     {
       "filename": "brian_kurtz_homeboy_article.txt",
-      "title": "Eugene Schwartz is my Homeboy (Brian Kurtz)",
-      "source_url": "https://www.briankurtz.net/eugene-schwartz-is-my-homeboy/",
+      "title": "Eugene Schwartz is my Homeboy (earlier version)",
       "type": "article",
-      "word_count": 257
+      "source_url": "https://www.briankurtz.net/eugene-schwartz-is-my-homeboy/",
+      "word_count_approx": 257,
+      "from_session_1": true
     },
     {
       "filename": "brilliance_breakthrough_analysis.txt",
       "title": "The Brilliance Breakthrough - Book Analysis and Key Concepts",
-      "source_url": "https://clivecable.com/the-brilliance-breakthrough-by-eugene-m-schwartz/",
       "type": "book_analysis",
-      "word_count": 348
+      "source_url": "https://clivecable.com/the-brilliance-breakthrough-by-eugene-m-schwartz/",
+      "word_count_approx": 348,
+      "from_session_1": true
     },
     {
       "filename": "copyblogger_33_minute_system.txt",
-      "title": "Eugene Schwartz's 3-Hour Writing System (Copyblogger)",
-      "source_url": "https://copyblogger.com/schwartz-copywriting-system/",
+      "title": "Eugene Schwartz's 3-Hour Writing System (earlier version)",
       "type": "article",
-      "word_count": 314
+      "source_url": "https://copyblogger.com/schwartz-copywriting-system/",
+      "word_count_approx": 314,
+      "from_session_1": true
     },
     {
       "filename": "framework_5_levels_awareness.txt",
-      "title": "Eugene Schwartz's 5 Levels of Market Awareness (Breakthrough Advertising)",
-      "source_url": "https://b-plannow.com/en/the-schwartz-pyramid-guide-to-the-5-levels-of-customer-awareness/",
+      "title": "5 Levels of Market Awareness (earlier version)",
       "type": "framework",
-      "word_count": 336
+      "source_url": "https://b-plannow.com/en/the-schwartz-pyramid-guide-to-the-5-levels-of-customer-awareness/",
+      "word_count_approx": 336,
+      "from_session_1": true
     },
     {
       "filename": "framework_5_levels_sophistication.txt",
-      "title": "Eugene Schwartz's 5 Levels of Market Sophistication (Breakthrough Advertising)",
-      "source_url": "https://www.motiveinmotion.com/market-sophistication/",
+      "title": "5 Levels of Market Sophistication (earlier version)",
       "type": "framework",
-      "word_count": 386
+      "source_url": "https://www.motiveinmotion.com/market-sophistication/",
+      "word_count_approx": 386,
+      "from_session_1": true
     },
     {
       "filename": "jay_abraham_building_larger_mice.txt",
       "title": "Genius, Passion, and Building Larger Mice (Jay Abraham on Gene Schwartz)",
-      "source_url": "https://www.abraham.com/genius-passion-and-building-larger-mice/",
       "type": "article",
-      "word_count": 239
+      "source_url": "https://www.abraham.com/genius-passion-and-building-larger-mice/",
+      "word_count_approx": 239,
+      "from_session_1": true
     },
     {
       "filename": "masterfiles_research_framework.txt",
-      "title": "Eugene Schwartz Masterfiles - Biography, Philosophy, and 4-Step Research Framework",
-      "source_url": "https://theghostwriterletters.substack.com/p/the-eugene-schwartz-masterfiles-part",
+      "title": "Eugene Schwartz Masterfiles - Research Framework (earlier version)",
       "type": "article",
-      "word_count": 639
+      "source_url": "https://theghostwriterletters.substack.com/p/the-eugene-schwartz-masterfiles-part",
+      "word_count_approx": 639,
+      "from_session_1": true
     }
+  ],
+  "source_pdfs_downloaded": [
+    {
+      "filename": "Lost-Secrets-of-Breakthrough-Advertising.pdf",
+      "source_url": "https://thecopyalchemist.com/wp-content/uploads/2012/11/Lost-Secrets-of-Breakthrough-Advertising.pdf",
+      "pages": 29,
+      "description": "Complete PDF of the Philips Publishing lecture transcript with foreword, 8 rules summary, and newspaper profile"
+    },
+    {
+      "filename": "EugeneSchwartzHeadlineSwipeFile.pdf",
+      "source_url": "https://www.copywriting1.com/EugeneSchwartzHeadlineSwipeFile.pdf",
+      "pages": 19,
+      "description": "Complete 127 headline swipe file with analysis and ad thumbnail images"
+    },
+    {
+      "filename": "Rare-Eugene-Schwartz-Interview.pdf",
+      "source_url": "https://marketers-mind.s3.amazonaws.com/memo/Rare%20Eugene%20Scwartz%20Interview.pdf",
+      "pages": 15,
+      "description": "Clean text version of the Philips Publishing lecture (same content as Lost Secrets PDF but cleaner text extraction)"
+    }
+  ],
+  "sources_searched": [
+    "swiped.co",
+    "copyblogger.com",
+    "briankurtz.net",
+    "theghostwriterletters.substack.com",
+    "scientificadvertising.com",
+    "copywriting1.com",
+    "hardtofindseminars.com",
+    "studylib.net",
+    "marketers-mind.s3.amazonaws.com",
+    "thecopyalchemist.com",
+    "jimbouman.com",
+    "verygoodcopy.com",
+    "copynotebook.com",
+    "copywritersroundtable.com",
+    "kaizenvita.com",
+    "garrettmickley.com",
+    "swipewell.app",
+    "pdfcoffee.com",
+    "docslide.us",
+    "b-plannow.com",
+    "betweenthelinescopy.com",
+    "breakthroughmarketingsecrets.com",
+    "medium.com",
+    "writedirection.com",
+    "minhxinchao.com",
+    "clivecable.com",
+    "abraham.com"
+  ],
+  "content_not_found_online": [
+    "Do You Have the Courage to Earn Half a Million Dollars a Year? - Full body copy (only headline available)",
+    "Give Me 15 Minutes and I'll Give You a Super-Power Memory - Full body copy",
+    "Read This or Don't - Book club ad (no results found)",
+    "How to Strip Down a Manufacturer's Overpriced Cost - Full ad text",
+    "Eugene Schwartz Rodale Speech transcript (May 11, 1994) - behind $597 paywall at hardtofindseminars.com",
+    "The Brilliance Breakthrough - Full book excerpts (copyrighted)",
+    "Mail Order: How to Get Your Share of the Hidden Profits - Full book excerpts",
+    "Full body copy for most swiped.co ads (stored as images, not text)"
   ]
 }
