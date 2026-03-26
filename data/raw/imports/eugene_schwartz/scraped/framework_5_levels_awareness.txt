@@ -1,0 +1,48 @@
+---
+title: Eugene Schwartz's 5 Levels of Market Awareness (Breakthrough Advertising)
+source_url: https://b-plannow.com/en/the-schwartz-pyramid-guide-to-the-5-levels-of-customer-awareness/
+type: framework
+date_scraped: 2026-03-26
+---
+
+EUGENE SCHWARTZ'S 5 LEVELS OF MARKET AWARENESS
+From Breakthrough Advertising (1966)
+
+Schwartz's core insight: "In its natural development, every market's awareness passes through several stages. The more aware your market, the easier the selling job, the less you need to say."
+
+== LEVEL 1: UNAWARE (60% of prospects) ==
+Consumers don't recognize they have a problem or need. They're unaware the product exists or could help them.
+
+STRATEGY: Create demand by highlighting the problem using evocative imagery and emotional messaging rather than technical details. Use stories, curiosity, and identification.
+
+== LEVEL 2: PROBLEM AWARE (20%) ==
+Consumers recognize their need but don't know solutions exist.
+
+STRATEGY: Use empathetic language that acknowledges their struggle while hinting at possibilities. Schwartz emphasized: "No sentence can be effective if it contains only facts. It must also contain emotion, image, logic and promise."
+
+== LEVEL 3: SOLUTION AWARE (10%) ==
+Consumers know solutions exist but need convincing yours is best.
+
+STRATEGY: Leverage testimonials, reviews, and case studies demonstrating superiority over alternatives. Show your mechanism -- HOW your solution works.
+
+== LEVEL 4: PRODUCT AWARE (7%) ==
+Consumers know your product but hesitate to commit, often due to price.
+
+STRATEGY: Emphasize discounts, offers, and quality-to-price ratio advantages. Overcome specific objections.
+
+== LEVEL 5: MOST AWARE (3%) ==
+Consumers are ready to purchase -- they just need transaction details.
+
+STRATEGY: Present compelling offers with clear pricing and purchase instructions. Simple, direct call to action.
+
+== APPLICATION RULES ==
+
+1. Identify which awareness level your prospect is at BEFORE writing copy
+2. Match your headline type to the awareness level
+3. Never skip levels -- you must meet the prospect where they are
+4. The headline's job changes based on awareness level:
+   - Unaware: Identify with the reader's situation
+   - Problem Aware: Crystallize their problem
+   - Solution Aware: Show your unique mechanism
+   - Product Aware: Make an irresistible offer
+   - Most Aware: State the deal directly

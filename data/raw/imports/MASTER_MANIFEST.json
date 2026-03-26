@@ -1,0 +1,144 @@
+{
+  "manifest_version": "1.0",
+  "created": "2026-03-26",
+  "description": "Master manifest of deduplicated per-copywriter text imports from Brenn folders",
+  "base_path": "data/raw/imports",
+  "totals": {
+    "authors_with_text": 9,
+    "authors_pending_pdf": 3,
+    "total_text_files": 33,
+    "total_word_count": 592486,
+    "pdfs_needing_extraction": 5
+  },
+  "authors": {
+    "jay_abraham": {
+      "display_name": "Jay Abraham",
+      "folder": "jay_abraham/codex/jay_abraham/text",
+      "text_files": 19,
+      "word_count": 211222,
+      "sources": [
+        "Brenn 4/Jay_Abraham (5 Vimeo transcripts)",
+        "Brenn 4/youtube_videos (9 Overdeliver bonus transcripts)",
+        "Brenn 5/youtube_videos (3 Overdeliver bonus transcripts)",
+        "Brenn 6/youtube_videos (2 Overdeliver bonus transcripts)"
+      ],
+      "pdfs_pending": []
+    },
+    "perry_marshall": {
+      "display_name": "Perry Marshall",
+      "folder": "perry_marshall/codex/perry_marshall/text",
+      "text_files": 6,
+      "word_count": 59623,
+      "sources": [
+        "Brenn 4/Perry_Marshall (6 Titans session transcripts)"
+      ],
+      "pdfs_pending": []
+    },
+    "brian_kurtz": {
+      "display_name": "Brian Kurtz",
+      "folder": "brian_kurtz/codex/brian_kurtz/text",
+      "text_files": 2,
+      "word_count": 68121,
+      "sources": [
+        "Brenn 4/Titans_of_Direct_Response_Bonus_1 (Four Pillars talk)",
+        "Brenn 4/Other_PDFs (Lost Chapters of Overdeliver)"
+      ],
+      "pdfs_pending": [
+        "Overdeliver Copywriters Tool Kit (~286MB)",
+        "Guidebook Complete (~64MB)"
+      ],
+      "notes": "Also has legacy content in data/raw/legacy_collections/"
+    },
+    "joe_sugarman": {
+      "display_name": "Joe Sugarman",
+      "folder": "joe_sugarman/codex/joe_sugarman/text",
+      "text_files": 1,
+      "word_count": 10575,
+      "sources": [
+        "Brenn 4/Titans_of_Direct_Response_Bonus_1 (Up Close and Personal)"
+      ],
+      "pdfs_pending": []
+    },
+    "ken_mccarthy": {
+      "display_name": "Ken McCarthy",
+      "folder": "ken_mccarthy/codex/ken_mccarthy/text",
+      "text_files": 1,
+      "word_count": 10717,
+      "sources": [
+        "Brenn 4/Titans_of_Direct_Response_Bonus_1 (140 Years of Internet Advertising)"
+      ],
+      "pdfs_pending": []
+    },
+    "fred_catona": {
+      "display_name": "Fred Catona",
+      "folder": "fred_catona/codex/fred_catona/text",
+      "text_files": 1,
+      "word_count": 10176,
+      "sources": [
+        "Brenn 4/Titans_of_Direct_Response_Bonus_1 (Radio-Active Marketing)"
+      ],
+      "pdfs_pending": []
+    },
+    "greg_renker": {
+      "display_name": "Greg Renker",
+      "folder": "greg_renker/codex/greg_renker/text",
+      "text_files": 1,
+      "word_count": 15244,
+      "sources": [
+        "Brenn 4/Titans_of_Direct_Response_Bonus_1 (Guth-Renker Infomercials)"
+      ],
+      "pdfs_pending": []
+    },
+    "dan_kennedy": {
+      "display_name": "Dan Kennedy",
+      "folder": "dan_kennedy/codex/dan_kennedy/text",
+      "text_files": 0,
+      "word_count": 0,
+      "sources": [],
+      "pdfs_pending": [
+        "Dan+Kennedy+Swipe+TITANS-1 through 6 (individual parts across Brenn 2,3,4,6,7,8)",
+        "Dan+Kennedy+Swipe+TITANS.pdf (~21MB complete compilation in Brenn 3/Other_PDFs/)"
+      ]
+    },
+    "gary_bencivenga": {
+      "display_name": "Gary Bencivenga",
+      "folder": "gary_bencivenga/codex/gary_bencivenga/text",
+      "text_files": 0,
+      "word_count": 0,
+      "sources": [],
+      "pdfs_pending": [
+        "Bencivenga_Bullets.pdf (~12MB)"
+      ]
+    },
+    "gordon_grossman": {
+      "display_name": "Gordon Grossman",
+      "folder": "gordon_grossman/codex/gordon_grossman/text",
+      "text_files": 0,
+      "word_count": 0,
+      "sources": [],
+      "pdfs_pending": [
+        "Confessions+of+a+Direct+Mail+Guy.pdf (~175MB)"
+      ]
+    },
+    "_panels": {
+      "display_name": "Panels / Multi-Speaker",
+      "folder": "_panels/codex/_panels/text",
+      "text_files": 1,
+      "word_count": 15322,
+      "sources": [
+        "Brenn 4/Titans_of_Direct_Response_Bonus_1 (Mount Rushmore Copywriters Roundtable)"
+      ],
+      "pdfs_pending": []
+    },
+    "_reference": {
+      "display_name": "Reference Texts",
+      "folder": "_reference/codex/_reference/text",
+      "text_files": 1,
+      "word_count": 191486,
+      "sources": [
+        "Brenn 4/Other_PDFs (Secrets of Successful Direct Mail)"
+      ],
+      "pdfs_pending": []
+    }
+  }
+}

@@ -1,6 +1,97 @@
 {
   "source_sets": [
     {
+      "key": "imports_eugene_schwartz",
+      "label": "Imports Eugene Schwartz",
+      "path": "data/raw/imports/eugene_schwartz",
+      "priority": 110,
+      "notes": "Curated Eugene Schwartz assets imported from local drop folders."
+    },
+    {
+      "key": "imports_jay_abraham",
+      "label": "Imports Jay Abraham",
+      "path": "data/raw/imports/jay_abraham",
+      "priority": 112,
+      "notes": "Jay Abraham transcripts and Overdeliver bonus content."
+    },
+    {
+      "key": "imports_perry_marshall",
+      "label": "Imports Perry Marshall",
+      "path": "data/raw/imports/perry_marshall",
+      "priority": 113,
+      "notes": "Perry Marshall Titans session transcripts."
+    },
+    {
+      "key": "imports_brian_kurtz",
+      "label": "Imports Brian Kurtz",
+      "path": "data/raw/imports/brian_kurtz",
+      "priority": 114,
+      "notes": "Brian Kurtz Titans and Overdeliver content."
+    },
+    {
+      "key": "imports_joe_sugarman",
+      "label": "Imports Joe Sugarman",
+      "path": "data/raw/imports/joe_sugarman",
+      "priority": 115,
+      "notes": "Joe Sugarman Titans interview transcript."
+    },
+    {
+      "key": "imports_ken_mccarthy",
+      "label": "Imports Ken McCarthy",
+      "path": "data/raw/imports/ken_mccarthy",
+      "priority": 116,
+      "notes": "Ken McCarthy Titans session on internet advertising history."
+    },
+    {
+      "key": "imports_fred_catona",
+      "label": "Imports Fred Catona",
+      "path": "data/raw/imports/fred_catona",
+      "priority": 117,
+      "notes": "Fred Catona Titans session on radio direct response."
+    },
+    {
+      "key": "imports_greg_renker",
+      "label": "Imports Greg Renker",
+      "path": "data/raw/imports/greg_renker",
+      "priority": 118,
+      "notes": "Greg Renker Titans session on infomercial strategy."
+    },
+    {
+      "key": "imports_dan_kennedy",
+      "label": "Imports Dan Kennedy",
+      "path": "data/raw/imports/dan_kennedy",
+      "priority": 119,
+      "notes": "Dan Kennedy assets (PDFs pending extraction)."
+    },
+    {
+      "key": "imports_gary_bencivenga",
+      "label": "Imports Gary Bencivenga",
+      "path": "data/raw/imports/gary_bencivenga",
+      "priority": 120,
+      "notes": "Gary Bencivenga assets (PDFs pending extraction)."
+    },
+    {
+      "key": "imports_gordon_grossman",
+      "label": "Imports Gordon Grossman",
+      "path": "data/raw/imports/gordon_grossman",
+      "priority": 121,
+      "notes": "Gordon Grossman assets (PDFs pending extraction)."
+    },
+    {
+      "key": "imports_panels",
+      "label": "Imports Panel Discussions",
+      "path": "data/raw/imports/_panels",
+      "priority": 122,
+      "notes": "Multi-speaker panel and roundtable transcripts."
+    },
+    {
+      "key": "imports_reference",
+      "label": "Imports Reference Materials",
+      "path": "data/raw/imports/_reference",
+      "priority": 123,
+      "notes": "General reference and educational materials."
+    },
+    {
       "key": "root_snapshot",
       "label": "Root Snapshot",
       "path": "data/raw/root_snapshot",
@@ -30,4 +121,3 @@
     }
   ]
 }
-

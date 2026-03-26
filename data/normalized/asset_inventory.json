@@ -1,82 +1,75 @@
 {
-  "generated_at": "2026-03-25T21:31:10.482734+00:00",
+  "generated_at": "2026-03-26T14:18:43.515289+00:00",
   "summary": {
-    "asset_files": 110,
+    "asset_files": 108,
     "source_collections": {
       "copy_master_base": 7,
-      "copy_master_real_snapshot": 9,
       "copy_master_ultimate": 85,
+      "imports_brian_kurtz": 1,
+      "imports_dan_kennedy": 1,
+      "imports_eugene_schwartz": 2,
+      "imports_gary_bencivenga": 1,
+      "imports_gordon_grossman": 1,
+      "imports_reference": 1,
       "root_snapshot": 9
     },
     "formats": {
-      "html": 6,
-      "json": 65,
-      "md": 18,
-      "py": 11,
-      "txt": 9,
+      "html": 3,
+      "json": 62,
+      "md": 23,
+      "py": 9,
+      "txt": 10,
       "unknown": 1
     }
   },
   "assets": [
     {
+      "path": "data/raw/imports/_reference/NEEDS_PDF_EXTRACTION.md",
+      "source_collection": "imports_reference",
+      "source_format": "md",
+      "size_bytes": 315
+    },
+    {
+      "path": "data/raw/imports/brian_kurtz/NEEDS_PDF_EXTRACTION.md",
+      "source_collection": "imports_brian_kurtz",
+      "source_format": "md",
+      "size_bytes": 229
+    },
+    {
+      "path": "data/raw/imports/dan_kennedy/NEEDS_PDF_EXTRACTION.md",
+      "source_collection": "imports_dan_kennedy",
+      "source_format": "md",
+      "size_bytes": 741
+    },
+    {
+      "path": "data/raw/imports/eugene_schwartz/related/brian_kurtz_eugene_is_my_homeboy.txt",
+      "source_collection": "imports_eugene_schwartz",
+      "source_format": "txt",
+      "size_bytes": 12988
+    },
+    {
+      "path": "data/raw/imports/eugene_schwartz/source_inventory.json",
+      "source_collection": "imports_eugene_schwartz",
+      "source_format": "json",
+      "size_bytes": 6476
+    },
+    {
+      "path": "data/raw/imports/gary_bencivenga/NEEDS_PDF_EXTRACTION.md",
+      "source_collection": "imports_gary_bencivenga",
+      "source_format": "md",
+      "size_bytes": 202
+    },
+    {
+      "path": "data/raw/imports/gordon_grossman/NEEDS_PDF_EXTRACTION.md",
+      "source_collection": "imports_gordon_grossman",
+      "source_format": "md",
+      "size_bytes": 213
+    },
+    {
       "path": "data/raw/legacy_collections/copy_master_swipe/swipe-file/SWIPE_FILE_CONTEXT.md",
       "source_collection": "copy_master_base",
       "source_format": "md",
       "size_bytes": 22395
-    },
-    {
-      "path": "data/raw/legacy_collections/copy_master_swipe/swipe-file/real_swipe_file/content_production_engine.html",
-      "source_collection": "copy_master_real_snapshot",
-      "source_format": "html",
-      "size_bytes": 28416
-    },
-    {
-      "path": "data/raw/legacy_collections/copy_master_swipe/swipe-file/real_swipe_file/dr_copywriting_swipe_file.html",
-      "source_collection": "copy_master_real_snapshot",
-      "source_format": "html",
-      "size_bytes": 1421582
-    },
-    {
-      "path": "data/raw/legacy_collections/copy_master_swipe/swipe-file/real_swipe_file/style_analysis.json",
-      "source_collection": "copy_master_real_snapshot",
-      "source_format": "json",
-      "size_bytes": 8047
-    },
-    {
-      "path": "data/raw/legacy_collections/copy_master_swipe/swipe-file/real_swipe_file/swipe_compact.json",
-      "source_collection": "copy_master_real_snapshot",
-      "source_format": "json",
-      "size_bytes": 289728
-    },
-    {
-      "path": "data/raw/legacy_collections/copy_master_swipe/swipe-file/real_swipe_file/swipe_database.json",
-      "source_collection": "copy_master_real_snapshot",
-      "source_format": "json",
-      "size_bytes": 1667486
-    },
-    {
-      "path": "data/raw/legacy_collections/copy_master_swipe/swipe-file/real_swipe_file/swipe_file_agent_context.json",
-      "source_collection": "copy_master_real_snapshot",
-      "source_format": "json",
-      "size_bytes": 950767
-    },
-    {
-      "path": "data/raw/legacy_collections/copy_master_swipe/swipe-file/real_swipe_file/swipe_file_batch_reader.py",
-      "source_collection": "copy_master_real_snapshot",
-      "source_format": "py",
-      "size_bytes": 3479
-    },
-    {
-      "path": "data/raw/legacy_collections/copy_master_swipe/swipe-file/real_swipe_file/swipe_file_build_database.py",
-      "source_collection": "copy_master_real_snapshot",
-      "source_format": "py",
-      "size_bytes": 4610
-    },
-    {
-      "path": "data/raw/legacy_collections/copy_master_swipe/swipe-file/real_swipe_file/swipe_file_system.html",
-      "source_collection": "copy_master_real_snapshot",
-      "source_format": "html",
-      "size_bytes": 32873
     },
     {
       "path": "data/raw/legacy_collections/copy_master_swipe/swipe-file/scripts/swipe_file_batch_reader.py",

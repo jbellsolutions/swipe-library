@@ -1,0 +1,951 @@
+{
+  "summary": {
+    "generated_at": "2026-03-26T14:18:43.515289+00:00",
+    "total_entries": 39,
+    "direct_author_entries": 6,
+    "keyword_match_entries": 39,
+    "authors": {
+      "bill_mueller": 1,
+      "brian_kurtz": 31,
+      "eugene_schwartz": 6,
+      "greg_renker": 1
+    }
+  },
+  "entries": [
+    {
+      "match_type": [
+        "direct_author",
+        "keyword_match"
+      ],
+      "entry_id": "b5f795fd81c6338149cd12273d92ad10e1ad407e",
+      "author_key": "eugene_schwartz",
+      "title": "001 gene schwartz lost interview",
+      "source_type": "codex_text",
+      "source_collection": "imports_eugene_schwartz",
+      "source_path": "data/raw/imports/eugene_schwartz/codex/eugene_schwartz/text/001-gene-schwartz-lost-interview.txt",
+      "tags": [
+        "book",
+        "eugene_schwartz",
+        "nurture",
+        "podcast"
+      ],
+      "excerpt": "Before we get started, likewise, I was researching a little introduction for our guest, Gene Schwartz. I was going through some industry publications and books, and I came across a couple of quotes that I just wanted to read. I picked out three of the many that I came across....",
+      "quality": {
+        "completeness": "full",
+        "char_count": 67431,
+        "word_count": 13371,
+        "duplicate_count": 1
+      }
+    },
+    {
+      "match_type": [
+        "direct_author",
+        "keyword_match"
+      ],
+      "entry_id": "4fd88d6821787bbf4613a84ab41f73a09a4112ee",
+      "author_key": "eugene_schwartz",
+      "title": "002 breakthrough advertising cd1",
+      "source_type": "codex_text",
+      "source_collection": "imports_eugene_schwartz",
+      "source_path": "data/raw/imports/eugene_schwartz/codex/eugene_schwartz/text/002-breakthrough-advertising-cd1.txt",
+      "tags": [
+        "book",
+        "email",
+        "eugene_schwartz",
+        "nurture",
+        "subject-line",
+        "training"
+      ],
+      "excerpt": "I'll just give a brief introduction of everyone. Our bold leader is Bob Bly, who I'm sure everyone knows, who's author of over 50 books on direct marketing and a number of other topics. And we have also Sandy Franks, who is Agora's secret marketing weapon and a very experience...",
+      "quality": {
+        "completeness": "full",
+        "char_count": 60603,
+        "word_count": 11558,
+        "duplicate_count": 1
+      }
+    },
+    {
+      "match_type": [
+        "direct_author",
+        "keyword_match"
+      ],
+      "entry_id": "097fe825cea645b3f23bebcd864ed6c61b188b78",
+      "author_key": "eugene_schwartz",
+      "title": "003 breakthrough advertising cd2",
+      "source_type": "codex_text",
+      "source_collection": "imports_eugene_schwartz",
+      "source_path": "data/raw/imports/eugene_schwartz/codex/eugene_schwartz/text/003-breakthrough-advertising-cd2.txt",
+      "tags": [
+        "book",
+        "email",
+        "eugene_schwartz",
+        "sales-page",
+        "story",
+        "training"
+      ],
+      "excerpt": "I'm Bob Bly and welcome to the second of four calls in the Gene Schwartz Breakthrough Advertising Program. My name is Bob Bly. I'm your host. And I'm going to do something a little different tonight. I had mentioned last time that when you do teleconferences, you have to make...",
+      "quality": {
+        "completeness": "full",
+        "char_count": 56393,
+        "word_count": 10878,
+        "duplicate_count": 1
+      }
+    },
+    {
+      "match_type": [
+        "direct_author",
+        "keyword_match"
+      ],
+      "entry_id": "5417cdb69f6ec60dabfe111d2913e9cc51720e81",
+      "author_key": "eugene_schwartz",
+      "title": "004 breakthrough advertising cd3",
+      "source_type": "codex_text",
+      "source_collection": "imports_eugene_schwartz",
+      "source_path": "data/raw/imports/eugene_schwartz/codex/eugene_schwartz/text/004-breakthrough-advertising-cd3.txt",
+      "tags": [
+        "ai",
+        "book",
+        "eugene_schwartz",
+        "newsletter",
+        "nurture",
+        "sales-page",
+        "training"
+      ],
+      "excerpt": "Welcome to our third call in the Gene Schwartz graduate course in marketing. And today we have with us Denny Hatch who's a freelance direct marketing consultant, writer, and designer. In 1984 with his wife Peggy he founded the newsletter Who's Mailing What, which is now called...",
+      "quality": {
+        "completeness": "full",
+        "char_count": 52925,
+        "word_count": 10184,
+        "duplicate_count": 1
+      }
+    },
+    {
+      "match_type": [
+        "direct_author",
+        "keyword_match"
+      ],
+      "entry_id": "625c3d03e370fd5a667c76a2c6dcb965349bb999",
+      "author_key": "eugene_schwartz",
+      "title": "005 breakthrough advertising cd4",
+      "source_type": "codex_text",
+      "source_collection": "imports_eugene_schwartz",
+      "source_path": "data/raw/imports/eugene_schwartz/codex/eugene_schwartz/text/005-breakthrough-advertising-cd4.txt",
+      "tags": [
+        "book",
+        "eugene_schwartz",
+        "story",
+        "training"
+      ],
+      "excerpt": "Ladies and gentlemen, welcome. It's my pleasure to reintroduce you to our series moderator, Bob Bly, and our special guests of honor this evening, Joe Vitale, Yannick Silver, and Harlan Kilstein. And without further ado, Mr. Bly. Okay. I'm really excited about tonight because...",
+      "quality": {
+        "completeness": "full",
+        "char_count": 58356,
+        "word_count": 11335,
+        "duplicate_count": 1
+      }
+    },
+    {
+      "match_type": [
+        "direct_author",
+        "keyword_match"
+      ],
+      "entry_id": "024e69944bc41149e83bb28f0900fa8731e66210",
+      "author_key": "eugene_schwartz",
+      "title": "master inventory",
+      "source_type": "json_content_doc",
+      "source_collection": "imports_eugene_schwartz",
+      "source_path": "data/raw/imports/eugene_schwartz/master_inventory.json",
+      "tags": [
+        "eugene_schwartz",
+        "podcast"
+      ],
+      "excerpt": "generated_at: 2026-03-26T14:10:30.199370+00:00 description: Master inventory of all Eugene Schwartz content in the repository total_unique_assets: 11 video: 1 audio: 4 text: 6 total_word_count_text: 57209 total_duplicate_copies: 24 imported_to_codex: 6 formatting_fixed: 4 prim...",
+      "quality": {
+        "completeness": "full",
+        "char_count": 7883,
+        "word_count": 892,
+        "duplicate_count": 1
+      }
+    },
+    {
+      "match_type": [
+        "keyword_match"
+      ],
+      "entry_id": "9f3c9258d30c5acdbb67e00a9fb4163fbfb1c68f",
+      "author_key": "bill_mueller",
+      "title": "You tell me \u2014 is this really a thing?",
+      "source_type": "csv_email_full",
+      "source_collection": "root_snapshot",
+      "source_path": "data/raw/root_snapshot/exports/Bill Mueller Story Sales Machine Swipe File - All Emails.csv",
+      "tags": [
+        "bill_mueller",
+        "email",
+        "framework",
+        "nurture",
+        "offer",
+        "sales-page",
+        "story",
+        "training"
+      ],
+      "excerpt": "Did you know that chainsaws were invented to help with childbirth? Oh, you didn't? I thought everyone knew that, lol. True story, though. I'll get to that in a minute. Or how about sunscreen? Did you know that we're now supposed to wear it ... **indoors?** **** When I first he...",
+      "quality": {
+        "completeness": "full",
+        "char_count": 7417,
+        "word_count": 1326,
+        "duplicate_count": 1
+      }
+    },
+    {
+      "match_type": [
+        "keyword_match"
+      ],
+      "entry_id": "ee3f4803b1d3126e85cf00161ed37c3fef6046f8",
+      "author_key": "brian_kurtz",
+      "title": "007 its not always about the money",
+      "source_type": "codex_html",
+      "source_collection": "copy_master_ultimate",
+      "source_path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/codex/brian_kurtz/raw_html/007-its-not-always-about-the-money.html",
+      "tags": [
+        "book",
+        "brian_kurtz",
+        "nurture",
+        "podcast",
+        "training"
+      ],
+      "excerpt": "It's not always about the money... - Brian Kurtz li:not(.tcb-excluded-from-group-item)\"> Home li:not(.tcb-excluded-from-group-item)\"> Products li:not(.tcb-excluded-from-group-item)\"> Work With Me li:not(.tcb-excluded-from-group-item)\"> Blog li:not(.tcb-excluded-from-group-item...",
+      "quality": {
+        "completeness": "full",
+        "char_count": 12963,
+        "word_count": 2024,
+        "duplicate_count": 1
+      }
+    },
+    {
+      "match_type": [
+        "keyword_match"
+      ],
+      "entry_id": "a3d3769c79d78e85bc6ab98355ee89a71cc83cb8",
+      "author_key": "brian_kurtz",
+      "title": "007 its not always about the money",
+      "source_type": "codex_text",
+      "source_collection": "copy_master_ultimate",
+      "source_path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/codex/brian_kurtz/text/007-its-not-always-about-the-money.txt",
+      "tags": [
+        "book",
+        "brian_kurtz",
+        "nurture",
+        "podcast",
+        "training"
+      ],
+      "excerpt": "It's not always about the money... - Brian Kurtz Home Products Work With Me Blog Podcast DM Toolkit It\u2019s not always about the money\u2026 27 Comments by Brian Kurtz June 27, 2014 Share0 Tweet0 Pin0 I was blessed to know Gene Schwartz\u2026and not just casually, either. Gene was my frien...",
+      "quality": {
+        "completeness": "full",
+        "char_count": 11328,
+        "word_count": 1977,
+        "duplicate_count": 1
+      }
+    },
+    {
+      "match_type": [
+        "keyword_match"
+      ],
+      "entry_id": "51850e1149ba22911e79da37ffb01324d5f3683c",
+      "author_key": "brian_kurtz",
+      "title": "015 show dont tell",
+      "source_type": "codex_html",
+      "source_collection": "copy_master_ultimate",
+      "source_path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/codex/brian_kurtz/raw_html/015-show-dont-tell.html",
+      "tags": [
+        "brian_kurtz",
+        "curiosity",
+        "podcast",
+        "training"
+      ],
+      "excerpt": "Show...don't tell - Brian Kurtz li:not(.tcb-excluded-from-group-item)\"> Home li:not(.tcb-excluded-from-group-item)\"> Products li:not(.tcb-excluded-from-group-item)\"> Work With Me li:not(.tcb-excluded-from-group-item)\"> Blog li:not(.tcb-excluded-from-group-item)\"> Podcast li:no...",
+      "quality": {
+        "completeness": "full",
+        "char_count": 10770,
+        "word_count": 1681,
+        "duplicate_count": 1
+      }
+    },
+    {
+      "match_type": [
+        "keyword_match"
+      ],
+      "entry_id": "cf0bdff7570592aa58e199ebf7f01b14fdc702be",
+      "author_key": "brian_kurtz",
+      "title": "015 show dont tell",
+      "source_type": "codex_text",
+      "source_collection": "copy_master_ultimate",
+      "source_path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/codex/brian_kurtz/text/015-show-dont-tell.txt",
+      "tags": [
+        "brian_kurtz",
+        "curiosity",
+        "podcast",
+        "training"
+      ],
+      "excerpt": "Show...don't tell - Brian Kurtz Home Products Work With Me Blog Podcast DM Toolkit Show\u2026don\u2019t tell 2 Comments by Brian Kurtz October 27, 2014 Share0 Tweet0 Pin0 I had the privilege last week to speak to over 400 direct response copywriters at the American Writers and Artists I...",
+      "quality": {
+        "completeness": "full",
+        "char_count": 9543,
+        "word_count": 1633,
+        "duplicate_count": 1
+      }
+    },
+    {
+      "match_type": [
+        "keyword_match"
+      ],
+      "entry_id": "790b079c9004a0e6a568a7bf89cf86a028bce13b",
+      "author_key": "brian_kurtz",
+      "title": "033 the titan who saved the world",
+      "source_type": "codex_html",
+      "source_collection": "copy_master_ultimate",
+      "source_path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/codex/brian_kurtz/raw_html/033-the-titan-who-saved-the-world.html",
+      "tags": [
+        "brian_kurtz",
+        "podcast",
+        "story"
+      ],
+      "excerpt": "The Titan who saved the world - Brian Kurtz li:not(.tcb-excluded-from-group-item)\"> Home li:not(.tcb-excluded-from-group-item)\"> Products li:not(.tcb-excluded-from-group-item)\"> Work With Me li:not(.tcb-excluded-from-group-item)\"> Blog li:not(.tcb-excluded-from-group-item)\"> P...",
+      "quality": {
+        "completeness": "full",
+        "char_count": 10853,
+        "word_count": 1738,
+        "duplicate_count": 1
+      }
+    },
+    {
+      "match_type": [
+        "keyword_match"
+      ],
+      "entry_id": "41dcd5be010144310bfcbd57a2beddac9405b683",
+      "author_key": "brian_kurtz",
+      "title": "033 the titan who saved the world",
+      "source_type": "codex_text",
+      "source_collection": "copy_master_ultimate",
+      "source_path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/codex/brian_kurtz/text/033-the-titan-who-saved-the-world.txt",
+      "tags": [
+        "brian_kurtz",
+        "nurture",
+        "podcast",
+        "story"
+      ],
+      "excerpt": "The Titan who saved the world - Brian Kurtz Home Products Work With Me Blog Podcast DM Toolkit The Titan who saved the world 1 Comments by Brian Kurtz June 27, 2014 Share0 Tweet0 Pin0 Believe it or not, the Titan I want to talk about this week is NOT a direct marketer! And whi...",
+      "quality": {
+        "completeness": "full",
+        "char_count": 9636,
+        "word_count": 1691,
+        "duplicate_count": 1
+      }
+    },
+    {
+      "match_type": [
+        "keyword_match"
+      ],
+      "entry_id": "e477087484d186b0c8e2ae3cb7dc2c9d3300f705",
+      "author_key": "brian_kurtz",
+      "title": "041 confessions of a wannabe",
+      "source_type": "codex_html",
+      "source_collection": "copy_master_ultimate",
+      "source_path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/codex/brian_kurtz/raw_html/041-confessions-of-a-wannabe.html",
+      "tags": [
+        "brian_kurtz",
+        "mindset",
+        "newsletter",
+        "nurture",
+        "podcast"
+      ],
+      "excerpt": "Confessions of a wannabe - Brian Kurtz li:not(.tcb-excluded-from-group-item)\"> Home li:not(.tcb-excluded-from-group-item)\"> Products li:not(.tcb-excluded-from-group-item)\"> Work With Me li:not(.tcb-excluded-from-group-item)\"> Blog li:not(.tcb-excluded-from-group-item)\"> Podcas...",
+      "quality": {
+        "completeness": "full",
+        "char_count": 11167,
+        "word_count": 1767,
+        "duplicate_count": 1
+      }
+    },
+    {
+      "match_type": [
+        "keyword_match"
+      ],
+      "entry_id": "9f12bae7b09f518e378b19711795db26b186c578",
+      "author_key": "brian_kurtz",
+      "title": "041 confessions of a wannabe",
+      "source_type": "codex_text",
+      "source_collection": "copy_master_ultimate",
+      "source_path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/codex/brian_kurtz/text/041-confessions-of-a-wannabe.txt",
+      "tags": [
+        "brian_kurtz",
+        "mindset",
+        "newsletter",
+        "nurture",
+        "podcast"
+      ],
+      "excerpt": "Confessions of a wannabe - Brian Kurtz Home Products Work With Me Blog Podcast DM Toolkit Confessions of a wannabe 2 Comments by Brian Kurtz February 15, 2015 Share0 Tweet0 Pin0 I\u2019ve mentioned multiple times in previous posts that I am NOT a copywriter\u2026 I even went as far as c...",
+      "quality": {
+        "completeness": "full",
+        "char_count": 9945,
+        "word_count": 1720,
+        "duplicate_count": 1
+      }
+    },
+    {
+      "match_type": [
+        "keyword_match"
+      ],
+      "entry_id": "c54fb2ffd821c9e1b4a0c6ddefbc56ee7dfd470d",
+      "author_key": "brian_kurtz",
+      "title": "052 eugene schwartz is my homeboy",
+      "source_type": "codex_html",
+      "source_collection": "copy_master_ultimate",
+      "source_path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/codex/brian_kurtz/raw_html/052-eugene-schwartz-is-my-homeboy.html",
+      "tags": [
+        "book",
+        "brian_kurtz",
+        "nurture",
+        "podcast",
+        "subject-line"
+      ],
+      "excerpt": "Eugene Schwartz is my Homeboy - Brian Kurtz li:not(.tcb-excluded-from-group-item)\"> Home li:not(.tcb-excluded-from-group-item)\"> Products li:not(.tcb-excluded-from-group-item)\"> Work With Me li:not(.tcb-excluded-from-group-item)\"> Blog li:not(.tcb-excluded-from-group-item)\"> P...",
+      "quality": {
+        "completeness": "full",
+        "char_count": 14326,
+        "word_count": 2277,
+        "duplicate_count": 1
+      }
+    },
+    {
+      "match_type": [
+        "keyword_match"
+      ],
+      "entry_id": "afba330acbdb6e0e37acae09290e5403d34b1fce",
+      "author_key": "brian_kurtz",
+      "title": "052 eugene schwartz is my homeboy",
+      "source_type": "codex_text",
+      "source_collection": "copy_master_ultimate",
+      "source_path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/codex/brian_kurtz/text/052-eugene-schwartz-is-my-homeboy.txt",
+      "tags": [
+        "book",
+        "brian_kurtz",
+        "nurture",
+        "podcast",
+        "subject-line"
+      ],
+      "excerpt": "Eugene Schwartz is my Homeboy - Brian Kurtz Home Products Work With Me Blog Podcast DM Toolkit Eugene Schwartz is my Homeboy 21 Comments by Brian Kurtz April 27, 2016 Share0 Tweet0 Pin0 I hope you don\u2019t think I am being disrespectful with my subject line\u2026but I was just given t...",
+      "quality": {
+        "completeness": "full",
+        "char_count": 12741,
+        "word_count": 2230,
+        "duplicate_count": 1
+      }
+    },
+    {
+      "match_type": [
+        "keyword_match"
+      ],
+      "entry_id": "cd1f4c3da0cf56b5a8910a22b469a95273994b29",
+      "author_key": "brian_kurtz",
+      "title": "064 my book launch in hungary",
+      "source_type": "codex_html",
+      "source_collection": "copy_master_ultimate",
+      "source_path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/codex/brian_kurtz/raw_html/064-my-book-launch-in-hungary.html",
+      "tags": [
+        "ai",
+        "book",
+        "brian_kurtz",
+        "email",
+        "offer",
+        "podcast"
+      ],
+      "excerpt": "My book launch in Hungary... - Brian Kurtz li:not(.tcb-excluded-from-group-item)\"> Home li:not(.tcb-excluded-from-group-item)\"> Products li:not(.tcb-excluded-from-group-item)\"> Work With Me li:not(.tcb-excluded-from-group-item)\"> Blog li:not(.tcb-excluded-from-group-item)\"> Po...",
+      "quality": {
+        "completeness": "full",
+        "char_count": 7854,
+        "word_count": 1175,
+        "duplicate_count": 1
+      }
+    },
+    {
+      "match_type": [
+        "keyword_match"
+      ],
+      "entry_id": "0147b6a07b3c57828b22d1f814d5a0a3a165465b",
+      "author_key": "brian_kurtz",
+      "title": "064 my book launch in hungary",
+      "source_type": "codex_text",
+      "source_collection": "copy_master_ultimate",
+      "source_path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/codex/brian_kurtz/text/064-my-book-launch-in-hungary.txt",
+      "tags": [
+        "ai",
+        "book",
+        "brian_kurtz",
+        "email",
+        "offer",
+        "podcast"
+      ],
+      "excerpt": "My book launch in Hungary... - Brian Kurtz Home Products Work With Me Blog Podcast DM Toolkit My book launch in Hungary\u2026 1 Comments by Brian Kurtz September 27, 2016 Share0 Tweet0 Pin0 We have it easy in the U.S. Becoming an entrepreneur is the American dream and encouraged; a...",
+      "quality": {
+        "completeness": "full",
+        "char_count": 6646,
+        "word_count": 1128,
+        "duplicate_count": 1
+      }
+    },
+    {
+      "match_type": [
+        "keyword_match"
+      ],
+      "entry_id": "2bb80b05223d96338051515b112442eec778126b",
+      "author_key": "brian_kurtz",
+      "title": "065 books are still a perfect product",
+      "source_type": "codex_text",
+      "source_collection": "copy_master_ultimate",
+      "source_path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/codex/brian_kurtz/text/065-books-are-still-a-perfect-product.txt",
+      "tags": [
+        "book",
+        "brian_kurtz",
+        "framework",
+        "podcast",
+        "story"
+      ],
+      "excerpt": "Books are still a perfect product\u2026 - Brian Kurtz Home Products Work With Me Blog Podcast DM Toolkit Books are still a perfect product\u2026 5 Comments by Brian Kurtz August 31, 2016 Share0 Tweet0 Pin0 Some years ago I attended a conference where an expert in digital books talked ab...",
+      "quality": {
+        "completeness": "full",
+        "char_count": 15461,
+        "word_count": 2684,
+        "duplicate_count": 1
+      }
+    },
+    {
+      "match_type": [
+        "keyword_match"
+      ],
+      "entry_id": "7d71ab2f13555d7a7c46f804867abafd6979f15e",
+      "author_key": "brian_kurtz",
+      "title": "067 why blowing up your customers may not be the best idea",
+      "source_type": "codex_html",
+      "source_collection": "copy_master_ultimate",
+      "source_path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/codex/brian_kurtz/raw_html/067-why-blowing-up-your-customers-may-not-be-the-best-idea.html",
+      "tags": [
+        "ai",
+        "book",
+        "brian_kurtz",
+        "podcast"
+      ],
+      "excerpt": "Why blowing up your customers may not be the best idea... - Brian Kurtz li:not(.tcb-excluded-from-group-item)\"> Home li:not(.tcb-excluded-from-group-item)\"> Products li:not(.tcb-excluded-from-group-item)\"> Work With Me li:not(.tcb-excluded-from-group-item)\"> Blog li:not(.tcb-e...",
+      "quality": {
+        "completeness": "full",
+        "char_count": 12601,
+        "word_count": 1979,
+        "duplicate_count": 1
+      }
+    },
+    {
+      "match_type": [
+        "keyword_match"
+      ],
+      "entry_id": "39f455377eee7083ff2184c5b7356f4793de4a1d",
+      "author_key": "brian_kurtz",
+      "title": "067 why blowing up your customers may not be the best idea",
+      "source_type": "codex_text",
+      "source_collection": "copy_master_ultimate",
+      "source_path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/codex/brian_kurtz/text/067-why-blowing-up-your-customers-may-not-be-the-best-idea.txt",
+      "tags": [
+        "ai",
+        "book",
+        "brian_kurtz",
+        "podcast"
+      ],
+      "excerpt": "Why blowing up your customers may not be the best idea... - Brian Kurtz Home Products Work With Me Blog Podcast DM Toolkit Why blowing up your customers may not be the best idea\u2026 19 Comments by Brian Kurtz October 14, 2016 Share0 Tweet0 Pin0 I hate using this blog to rant\u2026I wo...",
+      "quality": {
+        "completeness": "full",
+        "char_count": 11047,
+        "word_count": 1932,
+        "duplicate_count": 1
+      }
+    },
+    {
+      "match_type": [
+        "keyword_match"
+      ],
+      "entry_id": "dd2be3b3af8359deb11e2cfc6753d7cb4a385e80",
+      "author_key": "brian_kurtz",
+      "title": "070 the wall with a door",
+      "source_type": "codex_html",
+      "source_collection": "copy_master_ultimate",
+      "source_path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/codex/brian_kurtz/raw_html/070-the-wall-with-a-door.html",
+      "tags": [
+        "book",
+        "brian_kurtz",
+        "podcast"
+      ],
+      "excerpt": "The wall with a door... - Brian Kurtz li:not(.tcb-excluded-from-group-item)\"> Home li:not(.tcb-excluded-from-group-item)\"> Products li:not(.tcb-excluded-from-group-item)\"> Work With Me li:not(.tcb-excluded-from-group-item)\"> Blog li:not(.tcb-excluded-from-group-item)\"> Podcast...",
+      "quality": {
+        "completeness": "full",
+        "char_count": 11571,
+        "word_count": 1831,
+        "duplicate_count": 1
+      }
+    },
+    {
+      "match_type": [
+        "keyword_match"
+      ],
+      "entry_id": "7aabccb13261a6781a8f596bcbd26857e4be8283",
+      "author_key": "brian_kurtz",
+      "title": "070 the wall with a door",
+      "source_type": "codex_text",
+      "source_collection": "copy_master_ultimate",
+      "source_path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/codex/brian_kurtz/text/070-the-wall-with-a-door.txt",
+      "tags": [
+        "book",
+        "brian_kurtz",
+        "podcast"
+      ],
+      "excerpt": "The wall with a door... - Brian Kurtz Home Products Work With Me Blog Podcast DM Toolkit The wall with a door\u2026 0 Comments by Brian Kurtz November 22, 2016 Share0 Tweet0 Pin0 There is your audience. There is the language. There are the words that they use. -Gene Schwartz This i...",
+      "quality": {
+        "completeness": "full",
+        "char_count": 10301,
+        "word_count": 1783,
+        "duplicate_count": 1
+      }
+    },
+    {
+      "match_type": [
+        "keyword_match"
+      ],
+      "entry_id": "9475593849b9372c6dc0ffe07cf2aa86c463ce0a",
+      "author_key": "brian_kurtz",
+      "title": "Accessing the Breakthrough Advertising Training Library",
+      "source_type": "email_metadata",
+      "source_collection": "root_snapshot",
+      "source_path": "data/raw/root_snapshot/email_ids/swipe-file-ids/brian_kurtz.json",
+      "tags": [
+        "brian_kurtz",
+        "email",
+        "training"
+      ],
+      "excerpt": "Accessing the Breakthrough Advertising Training Library Brian Kurtz <brian@briankurtz.net> Fri, 25 Apr 2025 11:29:56 -0400 (EDT)",
+      "quality": {
+        "completeness": "metadata_only",
+        "char_count": 128,
+        "word_count": 20,
+        "duplicate_count": 3
+      }
+    },
+    {
+      "match_type": [
+        "keyword_match"
+      ],
+      "entry_id": "3c03195b4930ebc7c6de808a0613a323bcbf8ad3",
+      "author_key": "brian_kurtz",
+      "title": "Breakthrough Advertising for NON copywriters...",
+      "source_type": "email_metadata",
+      "source_collection": "root_snapshot",
+      "source_path": "data/raw/root_snapshot/email_ids/swipe-file-ids/brian_kurtz.json",
+      "tags": [
+        "brian_kurtz",
+        "email"
+      ],
+      "excerpt": "Breakthrough Advertising for NON copywriters... Brian Kurtz <brian@briankurtz.net> Mon, 18 Mar 2024 10:15:29 -0400 (EDT)",
+      "quality": {
+        "completeness": "metadata_only",
+        "char_count": 120,
+        "word_count": 19,
+        "duplicate_count": 3
+      }
+    },
+    {
+      "match_type": [
+        "keyword_match"
+      ],
+      "entry_id": "620e66d98e781e877370039f90a79859b458ec63",
+      "author_key": "brian_kurtz",
+      "title": "Finished reading Breakthrough Advertising yet?",
+      "source_type": "email_metadata",
+      "source_collection": "root_snapshot",
+      "source_path": "data/raw/root_snapshot/email_ids/swipe-file-ids/brian_kurtz.json",
+      "tags": [
+        "brian_kurtz",
+        "email"
+      ],
+      "excerpt": "Finished reading Breakthrough Advertising yet? Brian Kurtz <brian@briankurtz.net> Tue, 12 Mar 2024 10:15:11 -0400 (EDT)",
+      "quality": {
+        "completeness": "metadata_only",
+        "char_count": 119,
+        "word_count": 19,
+        "duplicate_count": 3
+      }
+    },
+    {
+      "match_type": [
+        "keyword_match"
+      ],
+      "entry_id": "1bf5cfa98f56ac4f02d021f2fdb7feb2c4bf9dfa",
+      "author_key": "brian_kurtz",
+      "title": "Finished reading Breakthrough Advertising yet?",
+      "source_type": "email_metadata",
+      "source_collection": "root_snapshot",
+      "source_path": "data/raw/root_snapshot/email_ids/swipe-file-ids/brian_kurtz.json",
+      "tags": [
+        "brian_kurtz",
+        "email"
+      ],
+      "excerpt": "Finished reading Breakthrough Advertising yet? Brian Kurtz <brian@briankurtz.net> Fri, 28 Oct 2022 05:00:04 -0400 (EDT)",
+      "quality": {
+        "completeness": "metadata_only",
+        "char_count": 119,
+        "word_count": 19,
+        "duplicate_count": 3
+      }
+    },
+    {
+      "match_type": [
+        "keyword_match"
+      ],
+      "entry_id": "e9167ce82ba97f1c1909c81fb789b6d1f63993fa",
+      "author_key": "brian_kurtz",
+      "title": "Free ticket to the Breakthrough Advertising Bootcamp",
+      "source_type": "email_metadata",
+      "source_collection": "root_snapshot",
+      "source_path": "data/raw/root_snapshot/email_ids/swipe-file-ids/brian_kurtz.json",
+      "tags": [
+        "brian_kurtz",
+        "email"
+      ],
+      "excerpt": "Free ticket to the Breakthrough Advertising Bootcamp Brian Kurtz <brian@briankurtz.net> Fri, 8 Dec 2023 13:03:25 -0500 (EST)",
+      "quality": {
+        "completeness": "metadata_only",
+        "char_count": 124,
+        "word_count": 21,
+        "duplicate_count": 3
+      }
+    },
+    {
+      "match_type": [
+        "keyword_match"
+      ],
+      "entry_id": "d4a92f70d58ca0149e8e326a42aa13c011dceb51",
+      "author_key": "brian_kurtz",
+      "title": "Last Chance: Private Breakthrough Advertising Training",
+      "source_type": "email_metadata",
+      "source_collection": "root_snapshot",
+      "source_path": "data/raw/root_snapshot/email_ids/swipe-file-ids/brian_kurtz.json",
+      "tags": [
+        "brian_kurtz",
+        "email",
+        "training"
+      ],
+      "excerpt": "Last Chance: Private Breakthrough Advertising Training Brian Kurtz <brian@briankurtz.net> Sat, 29 Oct 2022 05:00:07 -0400 (EDT)",
+      "quality": {
+        "completeness": "metadata_only",
+        "char_count": 127,
+        "word_count": 20,
+        "duplicate_count": 3
+      }
+    },
+    {
+      "match_type": [
+        "keyword_match"
+      ],
+      "entry_id": "e4f7d3f6dfa2f0c3664120a4b6265679e778e121",
+      "author_key": "brian_kurtz",
+      "title": "Last call for the Breakthrough Advertising Bootcamp",
+      "source_type": "email_metadata",
+      "source_collection": "root_snapshot",
+      "source_path": "data/raw/root_snapshot/email_ids/swipe-file-ids/brian_kurtz.json",
+      "tags": [
+        "brian_kurtz",
+        "email"
+      ],
+      "excerpt": "Last call for the Breakthrough Advertising Bootcamp Brian Kurtz <brian@briankurtz.net> Mon, 18 Mar 2024 18:15:05 -0400 (EDT)",
+      "quality": {
+        "completeness": "metadata_only",
+        "char_count": 124,
+        "word_count": 21,
+        "duplicate_count": 3
+      }
+    },
+    {
+      "match_type": [
+        "keyword_match"
+      ],
+      "entry_id": "d162f6ac5e93fd505b82cfbd07907caf640e80f0",
+      "author_key": "brian_kurtz",
+      "title": "Pre-order Breakthrough Advertising Mastery",
+      "source_type": "email_metadata",
+      "source_collection": "root_snapshot",
+      "source_path": "data/raw/root_snapshot/email_ids/swipe-file-ids/brian_kurtz.json",
+      "tags": [
+        "brian_kurtz",
+        "email"
+      ],
+      "excerpt": "Pre-order Breakthrough Advertising Mastery Brian Kurtz <brian@briankurtz.net> Tue, 13 Sep 2022 05:00:24 -0400 (EDT)",
+      "quality": {
+        "completeness": "metadata_only",
+        "char_count": 115,
+        "word_count": 19,
+        "duplicate_count": 3
+      }
+    },
+    {
+      "match_type": [
+        "keyword_match"
+      ],
+      "entry_id": "9650c808f4d67c903b3f92502acc68bcc5f7ded7",
+      "author_key": "brian_kurtz",
+      "title": "Private Invitation - Breakthrough Advertising",
+      "source_type": "email_metadata",
+      "source_collection": "root_snapshot",
+      "source_path": "data/raw/root_snapshot/email_ids/swipe-file-ids/brian_kurtz.json",
+      "tags": [
+        "brian_kurtz",
+        "email"
+      ],
+      "excerpt": "Private Invitation - Breakthrough Advertising Brian Kurtz <brian@briankurtz.net> Wed, 13 Mar 2024 09:45:04 -0400 (EDT)",
+      "quality": {
+        "completeness": "metadata_only",
+        "char_count": 118,
+        "word_count": 18,
+        "duplicate_count": 3
+      }
+    },
+    {
+      "match_type": [
+        "keyword_match"
+      ],
+      "entry_id": "a055a897f17d93f2b37b5574213ae13000587e3e",
+      "author_key": "brian_kurtz",
+      "title": "See the ads mentioned in Breakthrough Advertising",
+      "source_type": "email_metadata",
+      "source_collection": "root_snapshot",
+      "source_path": "data/raw/root_snapshot/email_ids/swipe-file-ids/brian_kurtz.json",
+      "tags": [
+        "brian_kurtz",
+        "email"
+      ],
+      "excerpt": "See the ads mentioned in Breakthrough Advertising Brian Kurtz <brian@briankurtz.net> Wed, 14 Sep 2022 05:00:27 -0400 (EDT)",
+      "quality": {
+        "completeness": "metadata_only",
+        "char_count": 122,
+        "word_count": 21,
+        "duplicate_count": 3
+      }
+    },
+    {
+      "match_type": [
+        "keyword_match"
+      ],
+      "entry_id": "c31fd9075d1d126bd00128a8441ede77a126a13f",
+      "author_key": "brian_kurtz",
+      "title": "Socrates, Alexander the Great, and Gene Schwartz walk into a bar\u2026",
+      "source_type": "email_metadata",
+      "source_collection": "root_snapshot",
+      "source_path": "data/raw/root_snapshot/email_ids/swipe-file-ids/brian_kurtz.json",
+      "tags": [
+        "brian_kurtz",
+        "email"
+      ],
+      "excerpt": "Socrates, Alexander the Great, and Gene Schwartz walk into a bar\u2026 Brian Kurtz <brian@briankurtz.net> Sun, 8 Jan 2023 06:01:02 -0500 (EST)",
+      "quality": {
+        "completeness": "metadata_only",
+        "char_count": 137,
+        "word_count": 25,
+        "duplicate_count": 3
+      }
+    },
+    {
+      "match_type": [
+        "keyword_match"
+      ],
+      "entry_id": "cb190657b785dab3c38191e4c0107cb065b56893",
+      "author_key": "brian_kurtz",
+      "title": "Two days left - Breakthrough Advertising Bootcamp",
+      "source_type": "email_metadata",
+      "source_collection": "root_snapshot",
+      "source_path": "data/raw/root_snapshot/email_ids/swipe-file-ids/brian_kurtz.json",
+      "tags": [
+        "brian_kurtz",
+        "email"
+      ],
+      "excerpt": "Two days left - Breakthrough Advertising Bootcamp Brian Kurtz <brian@briankurtz.net> Sun, 17 Mar 2024 18:30:05 -0400 (EDT)",
+      "quality": {
+        "completeness": "metadata_only",
+        "char_count": 122,
+        "word_count": 20,
+        "duplicate_count": 3
+      }
+    },
+    {
+      "match_type": [
+        "keyword_match"
+      ],
+      "entry_id": "d916b07e671342dc226bc75a66c5910c2b1920d1",
+      "author_key": "brian_kurtz",
+      "title": "products",
+      "source_type": "research_markdown",
+      "source_collection": "copy_master_ultimate",
+      "source_path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/swipe-file-research/brian_kurtz/content/products.md",
+      "tags": [
+        "book",
+        "brian_kurtz",
+        "email",
+        "podcast"
+      ],
+      "excerpt": "[![](https://www.briankurtz.net/wp-content/uploads/2019/12/Titans-Marketing-White-with-R-Trademark-1-300x82-1.png)](https://www.briankurtz.net/) - [Home](https://www.briankurtz.net/) - [Products](https://www.briankurtz.net/products/) - [Work With Me](https://www.briankurtz.net...",
+      "quality": {
+        "completeness": "full",
+        "char_count": 7806,
+        "word_count": 1279,
+        "duplicate_count": 1
+      }
+    },
+    {
+      "match_type": [
+        "keyword_match"
+      ],
+      "entry_id": "ffee0163f603c6765a6aca149f33bf3f2b125d21",
+      "author_key": "brian_kurtz",
+      "title": "products",
+      "source_type": "web_markdown",
+      "source_collection": "copy_master_ultimate",
+      "source_path": "data/raw/legacy_collections/copy_master_swipe/ultimate_swipe_file/web_swipe_file/brian_kurtz/products.md",
+      "tags": [
+        "book",
+        "brian_kurtz"
+      ],
+      "excerpt": "# Brian Kurtz Products This page lists various products offered by Brian Kurtz, primarily focused on direct response marketing education and resources. ## Overdeliver: Build a Business for a Lifetime Playing the Long Game in Direct Response Marketing by Brian Kurtz This book p...",
+      "quality": {
+        "completeness": "full",
+        "char_count": 2117,
+        "word_count": 329,
+        "duplicate_count": 1
+      }
+    },
+    {
+      "match_type": [
+        "keyword_match"
+      ],
+      "entry_id": "c953490d91aa306c76318e2cbe30740b80f1f2fe",
+      "author_key": "greg_renker",
+      "title": "001 titans guth renker infomercials",
+      "source_type": "codex_text",
+      "source_collection": "imports_greg_renker",
+      "source_path": "data/raw/imports/greg_renker/codex/greg_renker/text/001-titans-guth-renker-infomercials.txt",
+      "tags": [
+        "book",
+        "greg_renker",
+        "story",
+        "training"
+      ],
+      "excerpt": "A little background, late 1980s, Marty and I had infomercial envy. I've written about this, but in the world of direct response, direct mail, I always say that a number 10 envelope or a short form piece of direct mail is to two minute TV as our humongous magalogs are to infome...",
+      "quality": {
+        "completeness": "full",
+        "char_count": 81791,
+        "word_count": 15918,
+        "duplicate_count": 1
+      }
+    }
+  ]
+}

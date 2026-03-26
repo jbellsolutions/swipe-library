@@ -1,0 +1,3163 @@
+So, I want to talk to you for the last little bit about
+systematic innovation.
+Okay?
+What if new ideas and better ideas could be more of a formula
+and less of a bolt from the blue?
+Okay?
+How many of you, on a regular basis, find yourself going,
+I need a better idea, I need a better idea, I need a better idea?
+Okay?
+I do regularly.
+And I'm going to show you some things that I do
+and some thought processes I go through when I get stuck on things.
+And it almost always gives me an edge.
+So, let me tell you a story.
+A long time, nine years ago or something,
+I got in this sort of an argument, sort of a debate with my brother.
+And it was this whole topic of the whole creation evolution thing.
+And I'm really not going to go very much into that.
+I'm not going to really go into the philosophical aspect of that.
+But it took me down a deep, deep, deep rabbit hole.
+And it ended up being far more fascinating than I had ever suspected.
+And so, the argument that we were having was,
+Brian says, hey, you know what?
+If you got 500 million falcons flying around for 500 million years,
+all you need is an occasional mutation somewhere.
+And one of them is going to get a better eye or a better wing or something.
+And everything is going to continuously improve.
+And you're not going to need, like, any designers or any divine intervention or anything.
+Now, this was, because I'm an engineer,
+first of all, I had never really studied this topic.
+Like, I didn't know.
+All I knew was, I'm an engineer,
+and nothing ever seems to work that way when you're an engineer.
+Like, nothing good ever happens by accident.
+Like, so, but he was persuasive,
+and he had a good counter-argument,
+and now I was genuinely confused and perplexed.
+And so, and now, I don't know if any of you can relate to this,
+but I have an obsessive personality.
+And I had to know.
+So, I started buying books,
+and I started going to websites,
+and it was this saddle curve thing.
+It's like, these guys are right.
+No, these guys are right.
+No, these guys are right.
+You know, and I kind of went back and forth.
+Well,
+a point finally came when I had an epiphany,
+and a whole bunch of things started to click in place,
+and it happened for the weirdest reason.
+And if, and I was reading,
+I was reading about DNA,
+and I was reading about genes,
+and I understood that what they were saying is,
+you know, there's going to be changes in the DNA,
+and occasionally it's going to be beneficial.
+And all of a sudden, something snapped in place.
+And if you turn on my slideshow here,
+I made a bizarre and unexpected connection.
+In 2002, I wrote this book.
+I used to have a job working for a hardware software company,
+and I would write these magazine articles about industrial networks,
+because people like Paul Hartunian taught me
+that if you want to sell to people more easily,
+you need to be an authority in your field.
+And so, I started writing magazine articles,
+and so pretty soon I'm like going to these industrial equipment conventions
+and speaking at the breakout session,
+and like Perry's the expert on these networks, okay?
+Now, that book you just saw,
+it costs about 70 bucks on Amazon.
+It's published by the Instrumentation Society of America,
+America, and it's the most effective aid for insomnia
+that you've ever seen.
+I mean, if you want to know how, like,
+Ethernet packets are put together,
+man, this book will tell you.
+And I know y'all want to know this really bad, right?
+Well, what I realized was that
+the structure of DNA is eerily similar
+to the structure of packets of information
+on a hard drive or on a wire.
+Eerily similar.
+And I'm not going to go into all the technical details, okay?
+But, like, it was spooky
+how many similarities and connections there were.
+Absolutely spooky.
+Now, in the information technology world,
+in the IT department,
+in Ethernet cables and computers and fiber optics
+and all this kind of stuff where data is going back and forth,
+okay, copying errors never make anything better.
+Ever.
+Data is so fragile.
+It's so exquisitely put together.
+And what I came to understand was that
+it's impossible for some accidental mutation
+to make these falcons better.
+Okay?
+Well, what was startling was what I found next.
+Okay?
+I found that there was a whole set of mechanisms
+that nature uses to adapt organisms to their environment
+that nobody ever hears about.
+And they're actually simple enough to explain to all of you,
+and I'm going to explain this today.
+I'm going to show you how bacteria adjust to their environment,
+and I'm going to show how you can actually mimic what they do
+when you hit an obstacle in your business or on a project.
+Okay?
+There's a name for what I'm describing to you.
+It's called biomimicry.
+Okay?
+So, remember that thing earlier today,
+and it was like,
+I'm looking at the sunflowers,
+and I'm looking at the spiral seashells,
+and, you know,
+and what can I learn from nature?
+Okay?
+That's biomimicry.
+So, I'm going to go through this and show you some stuff.
+So, in the 1940s,
+there was a lady named Barbara McClintock.
+Yeah, go ahead and hand those out.
+Go ahead and hand those out.
+And she did experiments with corn.
+Now, in the 1940s,
+they didn't really understand DNA.
+They didn't know what chromosomes are.
+They basically understood inheritance,
+but there was a lot of stuff that was murky,
+but Barbara McClintock was,
+she was like this extremely intuitive,
+extremely rigorous woman,
+and she would grow corn plants,
+and she started doing these experiments
+where she would damage the chromosomes,
+and then she would breed a new generation of plants,
+and she would figure out what had happened
+by looking at the colored corn patterns
+of the next offspring.
+And she would meticulously track this.
+And she discovered that if she damaged,
+so here's a strand of DNA.
+she discovered that if she damaged this part,
+the plant would copy-paste.
+It would go to some other part,
+and it would copy this segment
+and paste it in this segment,
+sort of like you might do
+if somebody gave you a Microsoft Word document
+where a sentence was missing.
+You might figure out a sentence that would work there
+and copy it from another part of the document
+or a phrase or something like that
+and repair the damage,
+and maybe it wouldn't be perfect,
+but it would work.
+And she discovered this is what plants do.
+They're cutting, splicing, and editing code.
+Now, there is a word for this,
+and it's called transposition.
+Well, at its essence,
+it's actually very simple,
+and if you'll show my screen,
+transposition is really simple.
+I got something, A, B, C, D, E,
+and I move something around,
+and now it's A, B, E, D, C.
+Now, I got a question.
+So, how many of you have had a sales letter,
+and it was working,
+and then as the list fatigue,
+the response goes down,
+and you didn't have time to rewrite a new one,
+so you pulled something from the middle or the bottom,
+and you moved it to the top,
+and you made that the headline,
+and you made that the intro,
+and you moved the other thing down,
+and you made it seem like a new one,
+even though it was really the same old one,
+just rearranged it a different way.
+How many of you have done that?
+Okay, you did transposition.
+Okay?
+Well, cells do that.
+They do it all the time.
+Barbara McClintock's colleagues
+thought she was crazy
+when she presented this
+at a symposium in 1951.
+They laughed at her.
+They're like,
+you're crazy.
+There's no way a plant is smart enough to do that.
+And she stopped publishing her work for 20 years,
+but in 1983,
+she won the Nobel Prize.
+Okay?
+This is a very big deal in biology,
+and it's like evolution 101
+is cells have the ability to do this,
+and it's not done by accident,
+and actually,
+as a guy who wrote an Ethernet book,
+it's very similar to,
+you know,
+your operating system decides
+to move this stuff on your hard,
+so like you ever defrag a hard drive?
+Okay?
+Cells do that too.
+It's the same thing.
+Here,
+let's move this over here.
+Let's move this over here.
+Let's clean up some files.
+And this is like,
+this is the most elementary thing
+that organisms do to evolve,
+and they do it intelligently.
+Now,
+if you're aware
+that this is a basic evolutionary mechanism,
+you can stand back,
+and you can go,
+okay,
+so I got this problem.
+I got all this stuff.
+Can I make it better
+just by rearranging it
+and stop
+and just ask yourself
+this really simple question?
+It might even seem obvious,
+but you know,
+if you step back
+away from the problem
+and you kind of look at it
+or you draw it out
+on the chalkboard
+or, you know,
+maybe you diagram something out
+and you go,
+well,
+you know,
+what if we just move this
+over to here?
+There's a lot of stuff
+that'll work better
+if you just rearrange some stuff.
+So that's the first one.
+And I've given you
+a little cheat sheet,
+okay?
+I call it
+the evolutionary
+Swiss Army knife.
+So I'm going to go through this.
+All right.
+The second one,
+I actually explained to you
+this morning
+when I talked about
+bacteria fighting antibiotics.
+It's called
+horizontal gene transfer.
+and I got,
+you know,
+I got this thing
+on the left,
+A, B, C, D, E,
+and I got this thing
+on the right,
+U, V, W, X, Y, Z,
+and the first one
+sends over
+some genetic material
+over to the second one.
+And now,
+A, B, C,
+if you look at the third thing
+on the screen,
+A, B, C,
+got inserted
+in the middle.
+All right?
+Now,
+we do this
+all the time
+just by going
+to a mastermind group
+or coming to a seminar.
+All right,
+somebody gives me
+all these ideas
+and I take some of them
+and I use them.
+Okay?
+Well,
+so whenever you do it,
+do it with conscious awareness
+of what you are doing.
+You know?
+And recognize,
+so what's,
+what is it
+that I'm already using
+and what is it
+that's coming in
+from the outside
+that is new?
+A lot of times
+we don't really stop
+and consciously think about,
+okay,
+so what's the existing thing?
+and what's the new thing?
+Pretty simple,
+but this is a,
+this is,
+this is,
+this is major.
+In fact,
+when,
+when,
+when people,
+when scientists do,
+like,
+genetic engineering
+of bacteria,
+they're not sitting there
+with a tweezers
+and scissors
+and cutting DNA.
+Okay?
+They're actually
+just stimulating
+the organisms
+to do this
+and they use
+different chemicals
+in different environments
+to,
+to steer the organism
+to do a certain thing
+and they go,
+okay,
+so we got,
+we got bacteria A
+to transfer a gene
+to bacteria B
+and now we can see
+what that gene does
+and the bacteria
+are doing
+all the heavy lifting.
+So that's the second one.
+Okay.
+The third one
+is called hybridization.
+So,
+I think y'all know
+that
+if you cross
+a donkey
+with a horse,
+you get a mule.
+Right?
+And mules
+are sterile.
+Well,
+they're not
+always sterile.
+Okay?
+They're sterile
+99.999%
+of the time.
+But occasionally
+you'll get
+a fertile mule.
+Well,
+if you had,
+well,
+also,
+they're almost
+always male
+but occasionally
+they're female.
+So there is this
+like remote
+statistical chance
+that you could get
+a male fertile mule
+and a female mule
+and you could mate them
+and then you would have
+mules
+like reproducing.
+Okay?
+Now,
+it's very uncommon
+in higher animals
+but it's very common
+in plants.
+And that's why
+we have wheat.
+Wheat comes from
+two weeds
+that were
+mixed together
+11,000 years ago
+and they bred together
+so it was
+species one
+breeds with species two
+and you get
+species three
+which is neither
+species one
+nor species two
+and you get it
+in one generation.
+And that's called
+hybridization.
+Now,
+hybrids are interesting.
+We all know
+what a hybrid car is,
+right?
+It's gasoline
+plus electric.
+Hybrids are interesting.
+Okay?
+Whatever your business
+model is,
+whatever you do,
+whatever is normal
+in your industry,
+you should ask
+yourself,
+well,
+what if I made
+a hybrid
+between what we do
+in my publishing company
+and what they do
+in cattle farms
+in southern Africa
+or what do they do
+with, you know,
+German car manufacturers
+or, you know,
+like some completely
+different species
+of business.
+if I made
+some duck-billed
+platypus,
+you know,
+some weird
+combination
+of these two
+businesses,
+what would that
+look like?
+And whenever
+you make a hybrid,
+so what happens
+in the plants
+and animals
+is you double
+your chromosomes.
+Okay?
+And it shows you
+that.
+So you got
+ABCDEF
+and those are all
+there and then
+ABCDGH
+and now I've got
+all of the above
+in the new one.
+So, like,
+I think horses
+have 62 chromosomes
+and mules
+have 124.
+Okay?
+Well,
+see those little
+underlines?
+Those are switches.
+And it's just
+switch on,
+switch off.
+So if it's underlined,
+it's on,
+if it's not
+underlined,
+it's off.
+So if you go,
+all right,
+so I've got
+my business
+and I've got
+this other
+business model
+from some
+totally other
+industry.
+Okay?
+And A,
+B,
+C,
+D,
+E,
+F,
+G,
+H.
+Well,
+if I jam
+them together,
+maybe it doesn't
+make any sense
+except,
+well,
+I get rid of F
+and I get rid
+of H
+and actually
+that works
+really well.
+So, like,
+an interesting,
+an example
+of a hybrid
+business
+is a
+KFC
+and a Taco Bell.
+You ever seen
+one of those?
+There's like
+KFC on the left
+side and Taco Bell
+on the right side
+and they just
+merge them together
+and they have
+the drinks in the
+middle and they
+got the tacos
+on one side
+and the fried
+chicken and it
+works and it's
+all owned by
+Pepsi and great.
+It's a hybrid.
+Okay?
+Well,
+don't do it by
+accident.
+Do it on purpose.
+Look at your
+little cheat sheet
+and go,
+okay.
+Now,
+these keep getting
+more interesting.
+Symbiogenesis
+is when two
+organizations merge
+together.
+Okay?
+So,
+best example
+of this is
+algae plus fungus
+is lichen.
+So,
+y'all know
+what lichen is,
+right?
+It's that flaky
+green stuff
+that you find
+on rocks.
+Okay?
+Here's what it
+really is.
+Algae
+is,
+or excuse me,
+lichen is
+all these
+little algaes
+and all
+this
+fungus
+and
+they
+are,
+their
+life cycles
+are completely
+intertwined
+and they
+are reproducing
+together
+and they
+are working
+together
+and
+lichen
+can survive
+in environments
+where neither
+fungus nor algae
+can survive.
+Okay?
+And it was only
+like 100 or 200
+years ago
+that anybody
+realized that
+these are actually
+just these two,
+these two
+completely different
+things
+living
+symbiotically.
+Okay?
+Well,
+you know,
+a symbiotic
+relationship
+is a very
+powerful thing
+in business.
+Okay?
+How many
+of you,
+like,
+your whole
+business
+relies on
+a symbiotic
+relationship?
+You have,
+you know,
+right?
+You have,
+you have
+this critical
+role that
+you play
+and you're
+separate,
+but boy,
+you pretty much
+can't live
+without each
+other.
+Okay?
+Well,
+you should go
+looking for
+situations like
+that.
+They might be
+really useful.
+Now,
+there's another
+kind of
+symbiogenesis.
+There's
+actually three
+kinds.
+Another is
+like the
+host parasite.
+So,
+your body
+has 10
+billion cells,
+but actually
+has 100
+billion bacteria.
+And they
+are friendly
+bacteria.
+You need
+them.
+So,
+you ever
+give,
+take antibiotics
+or give your
+kids antibiotics
+and a week
+later they get
+a yeast
+infection?
+That's because
+you killed
+all the good
+bacteria.
+And your
+body's like,
+we're missing
+these guys.
+We have a
+major problem
+without these
+guys.
+They are
+looking out
+for you.
+Well,
+so,
+you know,
+that's what
+that is.
+And,
+you know,
+affiliates.
+This is
+affiliate marketing
+right here.
+Now,
+there's a
+third kind
+of symbiogenesis,
+which is
+system within
+a system.
+So,
+here's an
+example.
+A is a
+mitochondria,
+which originally
+was a
+bacteria.
+It was a
+free swimming
+bacteria.
+B is an
+algae that
+lives in
+C, which
+is a
+plant cell.
+A plant
+cell that
+does
+photosynthesis
+is a
+big fat
+mama cell
+that has
+a blue-green
+algae living
+inside in
+a symbiotic
+relationship.
+Okay?
+Every green
+plant you've
+ever seen
+in your
+life is
+green because
+it has a
+blue-green
+algae.
+I keep
+dropping my
+stuff on
+the floor.
+every plant
+is green
+because it
+has blue-green
+algae living
+inside it.
+And it's
+completely
+integrated.
+It's like a
+Starbucks in
+a Target.
+Or a
+Starbucks in
+a Marriott.
+Same thing.
+Okay?
+Plants have
+been doing
+this for
+millions of
+years.
+And there
+are certain
+experiments
+where they
+found that
+if they
+put the
+big cells
+in the
+soup and
+they put
+the little
+bacteria in
+the soup,
+eventually not
+only do they
+merge together,
+they start
+exchanging DNA
+with each
+other and
+they become
+completely
+interdependent
+with each
+other where
+one cannot
+survive with
+the other and
+it happens
+naturally.
+Okay?
+So mitochondria
+are oxygen
+processing parts
+of your cells
+and they were
+originally bacteria
+and the two
+merged together.
+So you put a
+Starbucks inside
+a Marriott hotel,
+think of all the
+stuff that has to
+get done to make
+that all fit
+together, the
+water pipes, the
+electricity, the
+accounting, you
+know, same
+thing.
+Nature does the
+same thing.
+So what
+symbiotic
+relationship,
+what, you
+know, take
+this thing and
+put it inside
+my business or
+take me and
+put me inside
+some other
+business would
+make a, like,
+a really
+productive merger.
+You know, so
+every cell in
+your body is
+actually the
+result of
+multiple
+mergers of
+cells acquiring
+technology from
+the outside.
+Now the last
+one here is a
+retrovirus, and
+a retrovirus is
+a virus, so
+everybody's
+familiar with
+viruses that
+hijack cells and
+they just make
+more viruses.
+I didn't include
+that because it's,
+like, so obvious,
+like, okay, make
+more copies of
+something.
+Well, this is a
+little more
+subtle.
+A retrovirus is a
+virus that injects
+its DNA into
+your cell and
+forces the cell
+to add it to
+its own DNA.
+Right now, there's
+some epidemic
+going on in
+Australia, and I
+can't remember if
+it's pandas or
+koalas.
+It's one of the
+two.
+There's this
+retrovirus that's
+attacking them, and
+it's inserting
+itself in, and it's
+killing most of
+them.
+But what will
+happen is some
+of them will
+survive, and
+they will have
+new genetic
+material from
+the virus, which
+will get
+reproduced every
+time a panda
+has babies, and
+the virus becomes
+part of the
+panda, like,
+forever.
+Now, what they
+figured out is
+this happened long
+before mammals
+came along, and
+large portions of
+mammal placentas
+were built from
+the genes that
+the virus
+contributed.
+So, originally, it
+was hostile.
+It was like, no, I'm
+jamming myself in
+there, you know, and
+there's this big
+struggle.
+But then later, when
+the organism needed
+new capabilities, it
+actually started
+taking that code that
+it got from a
+retrovirus, rearranging
+it, put it in other
+places, and built a
+placenta.
+I mean, it's
+friggin'
+amazing, okay?
+And so, you
+should ask
+yourself, whether
+through charm or
+hostile takeover,
+what other
+business can
+carry my genetic
+material everywhere
+it goes for the
+rest of eternity?
+Hmm.
+You know, you
+should go home, and
+you should think about
+that, because, you
+know, talk about it
+at dinner, because
+there's something,
+there's something that
+you can do.
+And so, that's my
+little evolutionary
+Swiss Army knife.
+I think, I think
+that you can take
+any project or any
+company, and you
+can solve a problem
+with this little cheat
+sheet that I gave
+you, because it
+simply prompts you
+to ask yourself the
+right questions.
+It's like, well, if
+I'm A, who's B?
+Hmm.
+I don't know.
+Where are they?
+What would it look
+like?
+So, that's the end
+of my formal
+presentation today.
+The rest is all
+riffing on various
+topics.
+And we can take
+questions as we go,
+too.
+But, I had a few
+questions here.
+Brian gave me a
+piece of paper, so.
+Yeah.
+All right.
+What's in the
+goodies?
+Okay.
+Key considerations
+for content consumed
+on a mobile device.
+Now, I feel like I'm
+not the best person to
+be answering this
+question because I
+don't think that I'm
+a typical user myself.
+Like, I really hate
+getting videos on my
+cell phone.
+However, how many
+of you like to watch
+videos on your
+cell phone?
+I mean, show of
+hands, how many of
+you like it?
+Well, looks like a
+fourth of the room
+likes to watch videos
+on their cell phone.
+I do think it needs
+to be short.
+I don't think that
+they're going to watch
+an hour and a half
+long video on their
+cell phone, although
+I guess I have to
+admit I've done it
+once or twice myself
+if I was really
+serious about it.
+I think that if you
+can get people to
+give you their mobile
+phone number, which
+in my experience with
+my audience, if we
+put a, like if we're
+doing a webinar, and
+if we say enter your
+mobile phone number to
+get a reminder an hour
+before the webinar via
+text message, we'll get
+like 25% of people to
+fill in that thing.
+Now, I think having
+somebody's mobile phone
+number is like a very
+delicate thing, right?
+People are really
+sensitive, and you can't
+spam them.
+However, if you have
+something relevant and
+you give them a useful
+reminder, I think that is
+very powerful, and you
+will definitely increase
+your response to stuff.
+I just think it's like
+it's like you need to
+think of it as, you
+know, triple, you
+know, triple sensitive,
+triple fragile permission
+marketing, because you can
+really make people angry
+if you abuse it.
+Does anybody else like,
+hey, man, I got this mobile
+marketing thing pegged, and
+I got something to say about
+it, because we got smart
+people here.
+Anybody?
+Brian?
+No.
+I wish I had a peg, but I
+have some thoughts on it.
+Am I echoing here?
+You're good.
+I'm good.
+Okay, so we met a guy
+locally who, and I'd love
+to get kind of concept here,
+but he's of the belief,
+he's a business builder,
+he's a former publisher, he
+came out of the advertising
+business in the 1980s, really
+understands magazine publishing,
+and he thinks that the,
+that the, that the, now I'm
+off mobile phones, I'm going
+to go to, I'm going to go to
+tablets now, that the tablet,
+we kept on saying the iPad was
+a game changer, his belief is
+that it is already a game
+changer, and that there's room
+for consumer magazines to be
+able to do some kind of model
+on the tablet.
+And his concept, which whether
+they were at work or not, I
+don't know, but his concept
+is consumer magazines that
+are sold, not sold, but given
+away like controlled
+circulation business to
+business publications had been
+for many, many years.
+So you're giving away the
+content, but you identify the
+advertising market before you
+decide which niches you're
+going to do the magazine in,
+and then you have the
+advertisers lined up.
+So it's an advertising model,
+not necessarily what the IM
+space, the traditional IM
+space that I, that I live in,
+want to be in.
+But also the, the idea that
+the advertisers then on the
+tablet could have totally
+interactive advertising, which
+is the thing that really
+excites me as a direct
+marketer.
+I think that being able to,
+because most advertisers now
+who advertise in magazines and
+print, it's actually superior for
+them.
+Like a Nike, you know, the big
+brands, I think they're not,
+they don't seem to be
+responding as well to the,
+the advertising they get in
+the magazines on the tablet
+just seems to be, comes along
+with the print.
+Whereas I think the print
+ultimately could be really,
+I mean, the tablet could be
+where the advertisers could
+start really doing lots of
+interactive things that they
+hadn't done before, which you
+can't do.
+You just, you just can't go to
+a website from a print ad with,
+by, by, by pushing, by
+hitting a link.
+So, but staying within the
+magazine still.
+So, I don't know that, that,
+I don't know if that's something
+that, like, does that resonate
+with anybody?
+I mean, the guys build in this
+business, so whether we decide
+it's a good idea or not, it's,
+it's happening.
+And there's a couple other
+people doing it besides the one
+that I'm talking about.
+But there's something intriguing
+about it.
+Anybody thoughts about it or
+nobody's really interested in
+being like a newsletter or
+magazine, tablet-based, free
+content with advertising, a model
+anybody's interested in.
+I won't pursue it if it's not.
+Okay.
+Success in that?
+A friend of mine, close friend
+of mine, he has a company called
+Aspire magazine.
+And it's more on the IM side
+where it's a subscription base,
+but he's running it through the
+iPad exclusively and through the
+Apple store.
+And he's getting approached by a
+lot of big publishing companies
+now who are saying, well, what are
+you doing?
+Because you're quickly taking
+their online share.
+And he's competing with some of
+the big magazines already as a
+quick startup.
+No, it's international.
+Yeah.
+I mean, I do think there's
+something there.
+And the magazine business is
+struggling because they, you
+know, that's that straddle that we
+kind of have, too, in our
+business that you've got one foot
+in the legacy business that's
+still making a lot of money.
+So advertising revenue is down
+30%, 40%, and yet it's still
+millions and billions of dollars
+depending on the magazine.
+So you can't just walk away from
+it, and then the advertisers
+aren't interested in, you know,
+the tablet.
+Oh, I'll throw that in, but they
+still want the print.
+But it's shrinking.
+It's obviously shrinking.
+There needs to be a model there,
+and so I'm just really intrigued
+by it.
+I just don't know where it's
+going to go.
+I don't see this yet as a phone
+application yet, but I think
+there's a controlled circulation
+consumer magazine advertising
+based business that's possible.
+That's a good start.
+Good.
+Thank you.
+Okay.
+Somebody else wanted to know
+the three things you must know
+about Google AdWords that a lot
+of people may not know.
+Well, so I'll give you a few
+things.
+First of all, just for the
+beginners, there's a few
+cardinal rules.
+One of them is search separate
+from display.
+So when you open a new AdWords
+account, and they make it really
+easy, write an ad, pick some
+keywords, set a bid price, go.
+You know, as soon as they get your
+credit card number, go.
+Well, so immediately they start
+showing ads on search, and they
+also show ads on the display
+network, and all that traffic is
+mixed together.
+What Google is doing is they're
+getting free data at your expense.
+Okay?
+The environment of a search and the
+environment of somebody who sees
+your ad while they're on a
+homeschool website is completely
+different.
+And I'm not saying that search is
+necessarily better.
+I like display network more
+personally, because there's more
+interesting things you can do about
+it, with it, and I'll get to that.
+But you never run them together.
+You have search on, display off in
+one campaign, search off, display on
+another.
+That's a major important thing.
+Okay?
+Another one is always be testing.
+Testing, and of course I gave you, you
+know, with the Swiss Army knife and
+this whole proliferation concept, and I
+give you a framework for doing that.
+Number three, you're in search.
+Your keywords need to be very narrow
+themes.
+Okay?
+So, in other words, like, biggest
+mistake in the book.
+Like, everybody makes this mistake when
+they're new.
+They have men's clothing store.
+They advertise on, they, so they
+write an ad that says, come to Bill's
+clothing store online, and they bid on,
+they bid on ties, they bid on jackets,
+they bid on cufflinks, they bid on
+slacks, they bid on shirts, and all
+those keywords are in one ad group, and
+they all have this generic ad, and
+they all go to the home page.
+Big mistake.
+It'll never, ever, ever, ever, ever,
+ever work.
+Why?
+Because a person who searches for a
+green silk tie needs an ad for a
+green silk tie.
+They need to see a green silk tie when
+they click, and it needs to be as
+direct as humanly possible.
+Okay?
+And if a person looks for a blue
+blazer, they need to see an ad for a
+blue blazer, and they need to land on a
+blue blazer page, they need to not have
+to go hunting around for it.
+It's like, as fast as possible, show
+them exactly what they want.
+And only after they've added the thing
+to the cart do you start to show them
+other things, and you just, you know,
+because that sale is so fragile.
+That's a huge mistake that people make.
+Now, moving to a little more of an
+advanced topic, or something that, like,
+more people should know.
+Something like this.
+Google has about two million advertisers
+on search.
+They have 500,000 advertisers on display
+network with text ads.
+They only have 75,000 advertisers who run
+banners.
+Now, so, this is search.
+This is display.
+So, if you go on the display network
+and you build banners,
+you are automatically eliminating 80%
+of the competition from consideration
+just because you're in banners, not text.
+And banner ads, pixel for pixel,
+are more effective than text ads.
+And all of Google's technology for placing
+those ads and deciding where to put them
+is still valid.
+I don't know if they read the text
+in your image ads.
+Maybe they do.
+Maybe they don't.
+I'm not sure.
+I'm sure they can.
+I'm sure they're capable of it.
+But they read your keywords.
+They read your landing pages.
+And they figure out what sites
+to place your ads on.
+Image ads are really powerful.
+Now, here's a simple formula
+for killer image ads.
+Okay?
+Think Swiss Army knife,
+but think images.
+If you had a Swiss Army knife for images,
+which I don't.
+Somebody needs to make one.
+You know, what are all the different things
+that you can show?
+You can show faces.
+You can show happiness.
+You can show sadness.
+You can show nature.
+You can show celebrities.
+Whatever.
+But, here's what I know.
+So, if you hire a banner ad designer,
+and the one I use is banneradqueen.com.
+She's really good.
+Her name is Laura.
+She knows the process.
+If your banner,
+so let's say you test your text,
+and you come up with several winners
+with text ads,
+and now you give the text
+to your banner designer,
+and you go,
+I want you to make a bunch
+of completely different images
+to go with this,
+and I want you to just try
+as many things as you can,
+and you test 30 ads.
+Here's what's going to happen.
+One of those is going to be
+five times better than the average,
+and it's going to slay dragons.
+Now, here's something else
+most people don't know.
+I call this the martini glass principle
+of sales conversion.
+And here's what it is.
+So, here's my martini.
+And here's how much martini
+I have in the glass.
+Okay?
+Well, there's a clever little analogy.
+If the depth of the glass
+is your bid price,
+if that's the case,
+then the surface
+is the number of clicks,
+and the amount of martini
+in the glass,
+right,
+which goes down to there,
+this is your sales.
+Now,
+if you double your bid price,
+okay, so I'm going to fill up
+my martini glass,
+and now my martini
+is going to go
+to here.
+If you double your bid price
+on Google Display Network,
+you will 4X
+your clicks.
+You won't double your clicks.
+You'll 4X your clicks.
+And you'll 8X your ad spend.
+Okay?
+This is true.
+Because you have
+four times as many clicks
+that each cost twice as much.
+You're like,
+yeah, okay, good, thanks.
+Sounds like a great way
+to give Google a lot of money.
+If you double
+your conversion rate,
+then you can buy those clicks,
+and you'll be able
+to afford them.
+So that means,
+okay, this is huge.
+This is like
+major writer-downer.
+2X conversion.
+After everything evens out,
+and after all the water level
+finds its new place
+in the world,
+equals 8X sales.
+So, for those of you
+who will put up
+with my engineering,
+conversion
+equals
+sorry,
+sales
+equals
+conversion cubed.
+It's true.
+And even if you take
+into account
+the fact that,
+oh,
+I get lower quality
+prospects
+because I was digging
+into the muck
+of the world,
+it's still
+at least squared.
+Alright?
+Conversion
+is everything.
+Amateurs
+obsess about traffic.
+Professionals
+obsess about
+conversion.
+Professionals
+will sit there
+for a year
+and they'll just
+methodically work
+at getting the conversion
+right and they'll
+finally get it above
+a certain point
+and watch out.
+Now,
+the fastest place
+to see this happen
+is with display ads,
+banner ads,
+on Google Display Network.
+So,
+hire Laura,
+have her make you
+30 banners,
+one of them
+is gonna
+be a runaway success.
+So,
+I'll give you an example.
+My Cosmic Fingerprint site,
+she made a whole bunch
+of banners
+for me.
+One of them
+just slammed
+the ball out
+of the park.
+I was getting
+one cent clicks.
+It was a picture
+of Carl Sagan.
+It was awesome.
+Then the Carl Sagan
+Foundation letter
+sent me the
+cease and desist letter
+and that was
+the end of that.
+So,
+rest his soul.
+No offense intended,
+but Carl,
+doggone it,
+you've got a lot of fans.
+The power of a celebrity.
+Okay?
+Now,
+I couldn't
+get away with that
+without asking
+for permission
+for very long,
+but
+if you hire
+a celebrity
+and it's the right celebrity
+and you put their picture,
+I'm telling you,
+it's mega powerful.
+And,
+there are so many
+celebrities
+that are like
+scraping for their
+rent money.
+Sorry,
+I didn't mean to interrupt.
+Yeah, go for it.
+So,
+on the 30 banner ads,
+you're using the same copy
+and just having her choose
+30 ragingly different images.
+Right.
+Okay.
+It takes a lot longer
+to test banner ads
+and so,
+I tend to not test text
+on banner ads.
+I test text
+and text ads.
+But then,
+once I got some winners,
+then I parlay them
+into banner ads.
+And so,
+here's another thing.
+I start by testing
+300 by 250.
+That's my favorite size
+to test.
+And just pick one size.
+Just do 300 by 250 banners
+and test them.
+And then,
+find your super awesome image
+and hit your home run
+and then,
+multiply it out
+to all of the other sizes
+that they,
+because they take
+eight or ten other sizes
+in addition to that.
+Yes.
+What do you find
+works best?
+Static or animated?
+I think it depends
+and I don't,
+I don't think
+there is an answer.
+Maybe somebody else,
+like,
+has an answer,
+but I,
+I am not comfortable
+that I can say,
+it depends on what you do.
+Okay.
+There was a couple other topics
+that I wanted to,
+Can I,
+I want to say one word
+about Google AdWords.
+Is that in the spirit
+of my nine in empathy
+and my eight in live?
+Yes.
+Okay.
+I think what I want to do,
+actually,
+I just decided to do this
+this minute.
+I'm going to buy about,
+I don't know,
+20 or 30 copies
+of Perry's book.
+It is, like,
+the number one selling book.
+And then,
+if any of you don't have it
+and you might want
+one of those,
+you should email me
+and I'd like to get,
+there's always,
+you have to pay for it,
+you have to pay for it.
+Not money,
+but just give me some ideas
+on future events
+that you think
+Boardroom should sponsor
+or things that I should do
+and feedback on today's event.
+Bless you, David.
+You can't have a book, though.
+And I will send you
+one of the books.
+But this is,
+this is the best book
+written on the topic.
+Well, I think so,
+but my customers
+have to decide that, right?
+Somebody wanted to talk,
+me to talk about head trash
+and somebody wanted me
+to talk about one other thing
+and somehow,
+I know I wrote,
+what was it?
+Oh, I remember.
+Yeah, I remember.
+Okay, so.
+Head trash.
+Okay.
+I am mostly a teacher,
+an author,
+a speaker,
+and a coach.
+That's mostly what I do.
+And so I've worked
+with thousands of entrepreneurs.
+After you do what I do
+for a certain period of time,
+you slowly begin to realize
+that you can teach them
+most of what they need to know
+in like 18 to 24 months.
+And whether they succeed with it
+after that has more to do
+with the cobwebs inside their head
+than anything else.
+And this just became
+more and more apparent to me
+as I got older
+and, you know,
+I go through stuff
+and there's the midlife crisis
+and your friends,
+you know,
+they wipe out.
+You watch some people like,
+so I've got some customers,
+they're like,
+they're making $100,000 a month,
+they're broke.
+They're making $100,000 a month,
+they're broke.
+There's some people,
+they're broke, they're broke,
+they're broke, they're broke.
+There's some people,
+they make $100,000 a month
+and they just keep making
+$100,000 a month.
+And then they build
+$10 million companies
+and, you know,
+and so like you've got
+this whole range of stuff.
+I wrote an extended email series
+on my website.
+It's at perrymarshall.com
+slash head trash.
+It's called
+Dysfunctions, Addictions,
+and the Financial Burning Bus.
+And what I,
+I actually had a guy say to me,
+I think it was yesterday,
+he goes,
+he goes,
+you know what,
+I have this tendency,
+it's like this addiction
+to doing work
+that doesn't pay anything.
+It's like I'm just
+attracted to it.
+Okay?
+And,
+and he goes,
+wow,
+it's interesting
+that you referred
+to all this head trash
+as addiction.
+It's like,
+yes,
+well,
+so people like,
+everybody's like
+got a hole in their soul.
+Right?
+And it's got this little
+suction thing
+somewhere inside
+and it goes,
+and it's like just
+pumping all the time.
+There's a hole in my soul,
+help me,
+somebody fill this up.
+And,
+and so,
+there's all kinds of things
+that can like,
+you know,
+fill the hole.
+So,
+you could have your
+bottle,
+or you could have your drugs,
+or you could have
+your sex addiction,
+or you could have
+your workaholism,
+or you could have
+your self-destructive
+financial,
+you know,
+maybe it's the gambling thing.
+I started to realize,
+like,
+these are all,
+like,
+the same stuff.
+And what I started
+to realize was that
+you have to get
+to the wound
+and heal the wound,
+otherwise,
+the suction
+just never stops.
+And I had this counselor,
+she,
+she made this really,
+she was talking about
+obsessive-compulsive behavior.
+And,
+one,
+one of my little ticks
+is hair pulling.
+It's actually,
+it turns out to be
+a fairly common thing.
+And I do,
+like,
+one-tenth as much
+as I used to,
+but I would sit
+and I would just,
+you know,
+pull at my beak,
+beard,
+or like,
+if I get five o'clock shadow.
+And I would find myself
+doing this.
+And she,
+and I started talking
+to her about it.
+And she said,
+well,
+let me ask you a question.
+She goes,
+do you like ice cream?
+And I go,
+sure.
+She goes,
+do you stand
+in front of the refrigerator
+and obsessively
+eat ice cream
+all day long?
+And I go,
+no.
+Never had that problem.
+She goes,
+okay,
+so there's a difference
+between liking something
+and having an obsession
+about it.
+I'm like,
+yeah,
+okay.
+She goes,
+so,
+if you had an obsession
+and you found yourself
+standing in front of the refrigerator
+and obsessively eating ice cream,
+that would probably tell you
+that there's something
+going on inside
+that's trying to get fixed
+and it's not getting fixed
+and so there you are
+eating the ice cream.
+Like,
+yeah,
+okay.
+Okay.
+So,
+like,
+the thing is never the thing.
+You can't,
+if you have,
+like,
+an obsession
+about something,
+you can't fix it
+with well power.
+Okay?
+Because the suction motor
+is always going.
+And eventually,
+the well power
+will give out
+and then,
+you know,
+you're tired
+or you're hungry
+or you had a bad day
+or whatever
+and pretty soon
+that suction thing
+is going to win
+and you're going to lose.
+Okay?
+And so,
+let me give you
+just,
+like,
+one example
+of,
+like,
+one of these little things
+that I noticed.
+This is about
+four or five years ago.
+I noticed
+that
+every time
+I would go somewhere
+where people were singing
+and I would try to sing,
+I would feel this lump
+in my throat.
+It would feel sad.
+And it was the weirdest thing.
+It was like,
+I don't think I'm sad.
+Why do I feel sad?
+And why do I have
+this lump in my throat?
+And so,
+Abby,
+this counselor,
+she taught me
+this interesting thing.
+She said,
+get yourself a notebook
+and a piece of paper
+and a pen
+and here's what
+I want you to do.
+So,
+take your dominant hand
+and ask yourself
+a question.
+Now,
+I'm left-handed.
+So,
+ask yourself a question
+with your left hand
+and then put the pen
+in the other hand,
+the one you do not
+normally write with,
+and answer the question
+that you just asked yourself.
+Do not edit.
+Do not,
+do not,
+do not stop.
+Do not think.
+Just go with it.
+Okay.
+So,
+I said,
+what is that lump
+in my throat?
+Put the pen
+in the other hand
+and start writing.
+And it was very faint.
+I had to like,
+I almost dismissed it
+and I almost
+didn't notice it,
+but actually,
+I saw in my mind's eye,
+I saw
+a hill
+like a highway embankment.
+I saw the grass
+and I'm like,
+I thought,
+no,
+that's nothing.
+And wait,
+she told me not to edit.
+So I wrote,
+I see grass
+of a highway embankment.
+And then,
+as I,
+as like,
+I'm opening myself
+to like,
+hearing what is this.
+And all of a sudden,
+I'm walking up the embankment
+and I'm coming on
+to the highway
+and then all of a sudden,
+I see a dead cat
+smashed
+and that was Mitzi
+when I was six.
+My cat
+got killed
+on the highway.
+And there's
+the lump in the throat
+right there.
+It was the feeling of,
+oh,
+that awful mess.
+That's Mitzi.
+Right?
+And the,
+being really sad
+about my cat.
+Okay?
+So I go,
+okay,
+so Abby,
+what do I do about this?
+And she goes,
+okay,
+the reason you have
+the lump in your throat
+is you're not done
+grieving your cat.
+You just need to finish
+grieving your cat.
+How do I do that?
+Okay,
+so sometime
+when you've got some space,
+maybe you're in bed
+or whatever,
+I just want you
+to mentally go back
+to the place
+where you lost your cat.
+She goes,
+you didn't finish.
+You need to finish.
+And what will happen
+is when you finish
+that
+you'll sort of
+feel a shift
+on the inside
+where,
+okay,
+so,
+you know,
+I'm sad about my cat
+and I'm feeling the feelings
+and I'm letting myself
+feeling the feelings
+and she goes,
+at some point,
+the feelings will go,
+okay,
+thank you.
+I'm done now.
+And you'll just feel it relax
+and that lump will go away.
+And that was exactly
+what happened.
+And I never felt
+that lump again.
+Now,
+this is just like
+a tiny little slice,
+but it's an example
+of like
+these little things
+were all like
+walking skin bags
+of these,
+you know,
+little things
+that have happened
+and most of them
+have never been
+really sorted out
+and a lot of,
+most of the stuff
+is like before you were five
+and whatever.
+and I found
+that as I began
+to address things,
+because here's what happens.
+I think,
+I think of these wounds
+as they're like weeds.
+And what do weeds do?
+They grow.
+Okay,
+so when you're five,
+it's a little tiny weed.
+When you're 20,
+it's only this tall.
+When you're 40,
+it's about like this.
+And it's starting
+to crowd everything out.
+Okay,
+because everything
+in life grows.
+Okay,
+the reason people
+have a midlife crisis
+when they're 40
+and not when they're 20 is,
+it's because the weeds
+had 20 more years
+to grow
+and they didn't get dealt with.
+So eventually,
+they like
+whap you in the head.
+And,
+and I found
+as I started
+sorting these things out,
+my emotional awareness
+started going up.
+My intuition
+started getting stronger.
+I found myself
+spending less time
+like sorting everything
+out in my head
+and just listening
+to my gut.
+Okay,
+and I found myself
+able to be much more
+transparent with relationships.
+I've already told you stuff.
+I wouldn't have dreamed
+of telling people
+five years ago.
+I'm like,
+I don't give a shit.
+You know,
+whatever helps you guys,
+it's fine,
+you know.
+And,
+and so that's,
+that's just like
+a tiny little slice.
+but I think
+all this stuff
+is related
+and I think,
+I think financial
+self-sabotage
+is no different
+in many ways
+than bulimia
+or anorexia
+or some OCD thing
+that you might have.
+It's just a different
+manifestation of it.
+And I,
+I did,
+I read an extended
+email series.
+I even did a seminar
+on this stuff.
+If you go to
+perrymarshall.com
+slash head trash,
+how many people
+have actually gone
+through that
+and liked it?
+Raise your hand
+so people can see?
+Several people.
+I think you'll find
+it helpful
+and there's a lot
+of spiritual stuff
+and I think,
+I think,
+I think people
+are very spiritual beings
+and really it's,
+it's the spiritual
+woundedness
+that we're operating
+from most of the time.
+So,
+anyway,
+I,
+I,
+I think,
+you know,
+step one is being aware
+of it.
+And like,
+hey,
+you know what?
+I,
+I do have this
+binge purge cycle
+and gee,
+it almost is like
+bulimia
+except it's just money
+or it's just something.
+Maybe it's relationships.
+Like,
+people go in and out
+and in and out
+of all these relationships
+and they're addicted
+to the drama,
+you know,
+there's usually an explanation.
+So,
+hopefully that helps.
+Okay,
+now,
+Roy had a question.
+I'm going to cover that
+and then I think
+I'll be done.
+so,
+in,
+in,
+in the proliferation
+department,
+all of us
+would love
+the luxury
+of,
+oh yeah,
+we wrote 10
+completely different
+sales letters
+and we had 15
+completely different
+videos
+and we had all
+these different
+webinars
+but frankly,
+you know,
+who's got time
+to do all that stuff,
+right?
+It's like we got
+deadlines,
+there's only so much
+we can do.
+So,
+here's a little
+shortcut of how
+I do some of that
+that may be useful
+to you.
+So,
+when I do a promotion,
+somewhere,
+I've got to have
+a sales page
+where it's all
+explained
+and even if it's
+like a video
+sales letter,
+somewhere,
+the whole sales story
+has to get told,
+right?
+And most of the time,
+I've only got time
+to do one of these,
+okay?
+And that's all
+that's going to get made
+and maybe we'll do
+a second one
+if the first one's
+a flop
+but frankly,
+if the first one's
+successful,
+like,
+okay,
+great.
+Well,
+so,
+how do you do
+some proliferation
+without massively
+multiplying it?
+Well,
+here's how I do it.
+I do it like,
+here's email number one
+and here's email number two
+and here's email number three
+and so on.
+Here's webinar one,
+here's webinar two
+and what I try to do
+is,
+you know,
+these are different blades
+or sub blades.
+so,
+you know,
+blade A,
+blade B,
+blade C,
+blade D,
+blade E
+and they're completely
+different from each other,
+hopefully.
+Okay?
+And if I couldn't,
+and you know,
+maybe there's a little bit
+of A
+and some B
+and some C
+and some D
+in here
+but
+I'm going to
+specifically
+call out
+to specific issues
+here
+that I didn't address
+here
+and,
+you know,
+so,
+you know,
+maybe this is,
+this is 15 pages
+but this is only one page
+and this is only one page
+and this is only one page
+and this is one hour
+and this is one hour.
+This seems to work
+pretty well
+and
+what I'm going to do
+to pick the topics
+is I'm going to
+listen to customers
+as much as humanly possible
+to find out
+what these buttons are
+and it's one of the most
+useful things
+about having like
+telephone sales people
+so like
+when we do a webinar
+we usually have a thing
+where you can Skype
+with Josh
+and you can talk
+to him on Skype
+and his phone number's there
+and you can call him
+and,
+you know,
+if you get phone calls
+and Skype messages
+from
+20 of your customers
+when you're doing
+a webinar
+with 150 people
+probably the stuff
+that those 20 customers
+bring up
+is fairly representative
+of the biggest hot buttons
+in the audience
+and he'll tell us,
+he'll go,
+well,
+here's what I'm hearing
+and there's a lot
+of live feedback
+that's going on
+and this is another thing
+where I really think
+the web has shifted
+where,
+okay,
+in 2005
+the web was a place
+where people hide
+behind their website
+and you may not even
+know who they are
+and they're the
+jack of all trades
+that does everything,
+okay,
+and now
+transparency
+is the name of the game.
+What's your phone number?
+What's your Twitter?
+What's your Facebook?
+How do I reach out to you?
+Can I chat with you?
+Can I Skype with you?
+And well,
+now,
+if one person tries
+to do that,
+you will definitely
+jump off of building,
+right?
+Well,
+this is why you need,
+okay,
+do the marketing DNA test
+and you have the live
+empathy people
+talking on the phone
+and you have the
+analytical people
+doing the analytics
+and you have the producers
+doing the producing
+and you have the video
+image people
+doing the video editing
+and like everybody
+and you're delivering
+a complete experience
+and I think
+a nice checklist
+for a complete experience
+is the eight things
+on the marketing DNA test.
+Do I have alchemy?
+Do I have creativity in this?
+Do I have a method
+to the madness?
+Do I have live support?
+Do I have a canned message?
+Do I have images and visuals?
+Do I have the words?
+Do I have empathy in this?
+And do I have the facts
+and the analysis?
+If I have,
+then I've covered all my bases
+and I have an excellent chance
+that this is actually going to work.
+And so, you know,
+and there's so many
+unemployed people
+and there's so much talent
+out there.
+You know, look,
+sort them out.
+Pick the 5%.
+You know,
+the best 5%
+of the unemployed
+is some pretty good people.
+So they're out there
+and you just got to
+sip and sort them.
+And by the way,
+hire A players.
+Hire A players
+and hire the people
+that are really
+the right person
+for the job
+because you're not really
+doing the world
+any favors by not.
+Okay, so if you feel
+guilty about that,
+make money with your A players
+and then give to charity
+that supports, like,
+the urchins.
+Okay?
+But don't, like,
+make your company
+a charity walk
+for all of these
+B and C level people
+who aren't even doing
+what they should be doing
+and what they're gifted for
+anyway.
+You'll just drive yourself
+into the ground.
+So,
+that's all.
+Yes, Roy?
+Can I ask
+my question?
+Yeah.
+Roy asks good questions.
+He's from Nebraska
+and he's sitting in the front.
+There you go.
+He's a man after my heart.
+Okay, so
+I've gone through
+the enhanced blade
+number one
+and I've defined
+maybe, say,
+three relationship triads
+that I think are strong.
+You know,
+something dealing
+with the worst enemies
+and positive force
+and belief,
+whatever.
+So, I have three
+real relationships
+that I think
+will form kind of
+the core of my
+sales argument
+and I think you
+briefly touched on this
+with, let's say,
+customer feedback
+during webinars
+and that sort of thing.
+But how are you
+going to decide,
+because that core
+sales message,
+I mean,
+we all know the power
+of the headline,
+the big idea
+at the beginning
+of the core sales message.
+How are you going
+to decide what
+to put up front?
+I mean,
+do you have some
+process beyond
+look at what
+Josh has gotten
+on Skype
+or your gut?
+Well,
+so I think
+there's two answers.
+One answer is
+you scratch
+the biggest itches
+that are not
+getting scratched.
+And, like,
+you answer the marketplace
+with what it wants.
+Okay?
+And that is part
+of an answer.
+And, you know,
+that's, like,
+really mechanical.
+And if you want
+a process
+that's really good,
+go to
+LivingstonReport.com
+and get
+Glenn Livingston's
+summary
+and you can buy
+his product
+if you want
+and it's great.
+And it's, like,
+this really
+precision market
+research thing
+and it's not
+hard to pull off.
+Okay?
+Now,
+where,
+something that I think
+alchemists
+are good at
+that other people
+are not good at
+is taking it to,
+like,
+a whole nother level.
+Okay?
+Is,
+what's the question
+that is,
+it's lurking inside
+but you've never
+even articulated it?
+Or what's the,
+like,
+Steve Jobs did this.
+Like,
+you never knew
+you needed
+an iPod
+until you saw one.
+Like,
+wow,
+I want that.
+Okay?
+And I think
+that really
+is an alchemist
+thing.
+And I think
+it's, like,
+people that are
+eights and tens
+on the alchemy scale
+have a knack
+for this.
+Now,
+but what I think
+you can do,
+even if you're
+not a super alchemist,
+is you can ask
+evolutionary questions.
+You can always say,
+what is industry
+A doing
+that we've never
+done here?
+And usually
+I only get to that
+if you immerse
+yourself in the
+other world.
+One of my favorite
+weird little
+activities is
+go to Barnes & Noble
+and go to the
+magazine section
+and grab,
+like,
+five magazines
+that are about
+something that I
+know nothing about.
+Like,
+I don't know
+anything about
+tattoos.
+Okay?
+So I get
+a tattoo
+magazine.
+And I don't
+know anything
+about pottery,
+so I get a
+pottery magazine.
+And, you know,
+I don't know
+anything about
+GLPTs,
+so I pick up
+a lesbian magazine.
+You know,
+whatever, right?
+You learn
+all these
+weird things.
+Right?
+Whatever.
+I mean,
+it's one of
+the reasons
+why I travel,
+go to a foreign
+country.
+Man,
+who was it?
+Oh,
+David.
+David's son
+spent three weeks
+in Botswana.
+Now,
+if that didn't,
+like,
+turn his world
+upside down,
+I don't know
+what would.
+Right?
+It's like,
+you have to get
+out of
+your
+normal world.
+It's why,
+like,
+man,
+a great place
+for me to get
+some ideas
+is, like,
+go to a rock
+concert.
+I'm not there,
+like,
+consciously surfing
+for ideas.
+I just know
+they're going to
+bubble up.
+But, like,
+I don't know,
+whatever feeds
+your soul,
+like,
+you need to go
+there,
+and you need
+to regularly
+do that.
+Another thing
+that I think
+is really big,
+you know,
+call it anything
+you want,
+but Sabbath.
+Take one day
+off and do
+not work.
+Okay?
+There's no
+emails,
+and there's
+no texting,
+and there's
+no, like,
+spreadsheets.
+Like,
+just take
+the day off
+and, like,
+go have fun
+or go do
+whatever,
+or go be
+with your
+family,
+because if
+you don't do
+that,
+you will kill
+your nourishing,
+creative energy,
+and you'll be
+the walking
+dead like
+everybody.
+And you'll be,
+you know,
+hypnotized by
+your cell phone,
+and everybody's
+yanking you
+every way.
+He's like,
+that is,
+man,
+and especially
+for creative
+people.
+I mean,
+how many of
+you,
+you live off
+of some
+form of
+your creative
+ability,
+like,
+this is how
+you earn
+your bread.
+You have
+to feed
+it,
+and you
+have to
+respect it.
+All right.
+Anybody else?
+Yeah,
+Phil.
+Hold on.
+Way back
+in the day,
+you did a
+series of
+emails,
+and it was
+called something
+like Battle
+in the Boardroom,
+but I don't
+think you ever
+quite finished
+it.
+Called what?
+Battle in the
+Boardroom.
+Fist fight at
+the Board of
+Directors meeting.
+Oh my goodness,
+yes.
+If you want
+to shut the
+camera off,
+this is,
+because I know
+you didn't
+finish it
+for a reason.
+Oh,
+well,
+okay.
+So,
+I wrote a
+series of
+blog posts
+that you
+would all
+enjoy,
+called Fist
+Fight at
+the Board
+of Directors
+meeting.
+I was an
+investor,
+and I was
+on the
+board of
+a very
+dysfunctional,
+screwed up
+startup.
+And,
+there's more
+that I haven't
+blogged about.
+It's just been
+a matter of
+time,
+like,
+I need to
+sit down
+and write
+it.
+But,
+it was
+basically,
+Perry,
+you're an
+internet
+marketing
+genius,
+and you'd
+be great,
+and you
+could invest
+some money,
+and I knew
+the market,
+and all this
+kind of stuff.
+Well,
+the president
+proceeded to
+not do anything
+I told him
+to do,
+and it just
+got more
+screwed up
+and more
+screwed up.
+And finally,
+I said,
+I've had
+enough of
+this,
+and I
+sent an
+email to
+all of
+the board
+of directors
+and everybody,
+and I said,
+this thing is
+going to be a
+sinking ship,
+and I don't
+want to be
+on it when
+it goes under,
+and I
+disagree with
+this whole
+thing,
+and I
+bailed.
+And so,
+this fist fight
+at the board
+of directors
+meeting blog
+post is like
+the arguments
+that went
+back and
+forth,
+and you
+can hear
+all this.
+Well,
+just to give
+you an idea
+of what I
+haven't written
+about yet,
+let's see,
+how did
+this work?
+the president
+of the
+company
+bought
+another
+company,
+and he
+used the
+company's
+shares to
+buy the
+company without
+the approval
+of the
+directors,
+and he
+took,
+and when he
+signed the
+papers,
+he took
+ownership of
+the company
+in his own
+name.
+Okay,
+and then
+proceeds to
+run the
+new company
+into the
+ground,
+and then
+the people
+want their
+company back
+because they
+never got
+anything,
+and the
+shares that
+they got
+in exchange
+for it
+were like
+worthless,
+and the
+money,
+okay,
+does this
+give you a
+little bit
+of an idea?
+Whenever I
+get around to
+write,
+because I
+actually,
+I took one
+of my
+friends to
+lunch last
+summer,
+and I
+like took
+two or
+three pages
+of notes
+of everything
+that had
+happened
+after I
+left,
+which included
+attempting to
+take it
+public on
+the pink
+sheets.
+Okay,
+so like
+this is a
+Jerry Springer
+drama
+extraordinaire,
+and it's
+going to be
+great whenever
+I get around
+to it,
+and thanks for
+bringing it
+up,
+and you'll
+love the
+first four
+installments,
+and I'm
+sure you'll
+love the
+next five
+after I
+get those
+written,
+so yeah,
+you could
+never make
+this stuff
+up.
+I had people
+on my blog
+going,
+you made
+this up,
+this can't
+be real,
+oh yes,
+every word
+of it is
+real,
+this is
+verbatim
+the emails,
+oh my
+goodness,
+you can't,
+you know,
+I always
+say in
+copywriting,
+you never
+have to
+make anything
+up because
+truth is
+stranger than
+fiction,
+and if your
+life is
+boring,
+you just
+haven't been
+in the real
+world long
+enough,
+that's my
+opinion,
+so.
+Alright,
+well you
+guys have
+been an
+awesome
+audience,
+I really
+appreciate
+Brian having
+me and you
+all like
+flying from
+all over the
+place to be
+here,
+and what a
+great day,
+so thank
+you very
+much.
+applause
+Thank you.

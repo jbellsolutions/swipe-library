@@ -28,6 +28,15 @@
       "style_traits": ["relational", "insider", "story-backed", "classic direct response"]
     },
     {
+      "key": "eugene_schwartz",
+      "display_name": "Eugene Schwartz",
+      "emails": [],
+      "domains": [],
+      "specialties": ["direct response", "market sophistication", "headline architecture", "desire stages"],
+      "best_for": ["long-form sales copy", "headline ideation", "market awareness strategy"],
+      "style_traits": ["market-aware", "intensity-driven", "classic direct response", "research-heavy"]
+    },
+    {
       "key": "jay_abraham",
       "display_name": "Jay Abraham",
       "emails": ["jay@abraham.com", "jaipremium@substack.com"],
@@ -80,7 +89,78 @@
       "specialties": ["mindset", "motivation", "personal development", "impact"],
       "best_for": ["mindset content", "belief shifts", "inspirational angles"],
       "style_traits": ["mindset-driven", "inspirational", "personal", "lowercase-friendly"]
+    },
+    {
+      "key": "perry_marshall",
+      "display_name": "Perry Marshall",
+      "emails": [],
+      "domains": ["perrymarshall.com"],
+      "specialties": ["80/20 principle", "Google Ads", "traffic", "market selection", "simplification"],
+      "best_for": ["traffic strategy", "market selection frameworks", "80/20 analysis", "business simplification"],
+      "style_traits": ["analytical", "framework-driven", "contrarian", "science-backed"]
+    },
+    {
+      "key": "joe_sugarman",
+      "display_name": "Joe Sugarman",
+      "emails": [],
+      "domains": [],
+      "specialties": ["direct response print", "long-form ads", "storytelling", "product launches"],
+      "best_for": ["print ad copy", "product storytelling", "curiosity-driven long copy"],
+      "style_traits": ["conversational", "detail-rich", "curiosity-driven", "classic direct response"]
+    },
+    {
+      "key": "ken_mccarthy",
+      "display_name": "Ken McCarthy",
+      "emails": [],
+      "domains": [],
+      "specialties": ["internet marketing history", "early online advertising", "direct response online"],
+      "best_for": ["internet marketing fundamentals", "advertising history", "online direct response"],
+      "style_traits": ["pioneer", "historical", "foundational", "systems-thinker"]
+    },
+    {
+      "key": "fred_catona",
+      "display_name": "Fred Catona",
+      "emails": [],
+      "domains": [],
+      "specialties": ["radio advertising", "direct response radio", "media buying", "infomercials"],
+      "best_for": ["radio copy", "media buying strategy", "broadcast direct response"],
+      "style_traits": ["broadcast-oriented", "results-driven", "media-savvy", "entrepreneurial"]
+    },
+    {
+      "key": "greg_renker",
+      "display_name": "Greg Renker",
+      "emails": [],
+      "domains": [],
+      "specialties": ["infomercials", "television direct response", "celebrity endorsements", "scaling"],
+      "best_for": ["TV direct response", "infomercial strategy", "celebrity-driven campaigns"],
+      "style_traits": ["television-native", "scale-focused", "brand-building", "classic direct response"]
+    },
+    {
+      "key": "dan_kennedy",
+      "display_name": "Dan Kennedy",
+      "emails": [],
+      "domains": ["nobsinnercircle.com"],
+      "specialties": ["direct response", "info marketing", "sales letters", "magnetic marketing"],
+      "best_for": ["sales letters", "direct mail", "info product launches", "no BS marketing strategy"],
+      "style_traits": ["no-nonsense", "contrarian", "long-form", "aggressive"]
+    },
+    {
+      "key": "gary_bencivenga",
+      "display_name": "Gary Bencivenga",
+      "emails": [],
+      "domains": [],
+      "specialties": ["direct mail", "headline writing", "controls", "A/B testing"],
+      "best_for": ["headline craft", "control-beating copy", "direct mail mastery"],
+      "style_traits": ["precise", "research-intensive", "classic direct response", "master craftsman"]
+    },
+    {
+      "key": "gordon_grossman",
+      "display_name": "Gordon Grossman",
+      "emails": [],
+      "domains": [],
+      "specialties": ["direct mail", "subscription marketing", "magazine promotions", "list strategy"],
+      "best_for": ["subscription copy", "direct mail packages", "list segmentation"],
+      "style_traits": ["methodical", "data-driven", "classic direct response", "list-focused"]
     }
   ]
 }
-

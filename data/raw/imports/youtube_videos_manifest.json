@@ -1,0 +1,135 @@
+{
+  "source_collection": "overdeliverbook.com bonus videos (Brian Kurtz's 'Overdeliver' book)",
+  "readme_note": "The youtube videos here are marked in order of appearance in overdeliverbook.com",
+  "total_files": 14,
+  "total_words": 149580,
+  "primary_speaker": "Jay Abraham",
+  "videos": [
+    {
+      "file_number": "01",
+      "source_path": "Brenn  6/youtube_videos/Transcript_Files/01_AudioFile.txt",
+      "speaker": "Jay Abraham",
+      "host_or_interviewer": "Unknown host (coaching event organizer, mentions Jay as mentor since 1991)",
+      "topic": "Jay Abraham live interview/keynote on becoming undisruptible in changing markets; introduced as world's highest-paid marketing consultant",
+      "word_count": 11768,
+      "suggested_author_key": "jay_abraham"
+    },
+    {
+      "file_number": "02",
+      "source_path": "Brenn  6/youtube_videos/Transcript_Files/02_AudioFile.txt",
+      "speaker": "Jay Abraham",
+      "host_or_interviewer": null,
+      "topic": "Jay Abraham solo keynote/presentation; business growth through storytelling and transcending competitor thinking; bedtime stories for business owners",
+      "word_count": 17732,
+      "suggested_author_key": "jay_abraham"
+    },
+    {
+      "file_number": "03",
+      "source_path": "Brenn  5/youtube_videos/Transcript_Files/03_AudioFile.txt",
+      "speaker": "Jay Abraham",
+      "host_or_interviewer": "Unknown host (Business Mastery Melbourne/Sydney event)",
+      "topic": "Jay Abraham via hologram at Business Mastery Melbourne/Sydney; the $9.4 billion man; Q&A format on business growth",
+      "word_count": 9101,
+      "suggested_author_key": "jay_abraham"
+    },
+    {
+      "file_number": "04",
+      "source_path": "Brenn  4/youtube_videos/Transcript_Files/04_AudioFile.txt",
+      "speaker": "Jay Abraham",
+      "host_or_interviewer": "Unknown host (financial/investment industry conference)",
+      "topic": "Jay Abraham on selling to SMEs and entrepreneurs; building trust with small business owners; joint ventures and referral strategies for financial platforms",
+      "word_count": 4797,
+      "suggested_author_key": "jay_abraham"
+    },
+    {
+      "file_number": "05",
+      "source_path": "Brenn  5/youtube_videos/Transcript_Files/05_AudioFile.txt",
+      "speaker": "Jay Abraham",
+      "host_or_interviewer": null,
+      "topic": "Jay Abraham keynote in Japan; breaking out of business boundaries; story of Chinese candy company transformation through preeminence",
+      "word_count": 5215,
+      "suggested_author_key": "jay_abraham"
+    },
+    {
+      "file_number": "06",
+      "source_path": "Brenn  4/youtube_videos/Transcript_Files/06_AudioFile.txt",
+      "speaker": "Jay Abraham",
+      "host_or_interviewer": "Philip Stutz (guest panelist)",
+      "topic": "Jay Abraham panel discussion on understanding and motivating millennials in business; retention strategies; practice-building with millennial entrepreneurs",
+      "word_count": 10282,
+      "suggested_author_key": "jay_abraham"
+    },
+    {
+      "file_number": "07",
+      "source_path": "Brenn  4/youtube_videos/Transcript_Files/07_AudioFile.txt",
+      "speaker": "Jay Abraham",
+      "host_or_interviewer": "Brian Kurtz (co-presenter with 'Mike')",
+      "topic": "Brian Kurtz introduces Jay Abraham as longtime mentor; direct marketing wisdom; 'those who've done it have a responsibility to teach it'",
+      "word_count": 10667,
+      "suggested_author_key": "jay_abraham"
+    },
+    {
+      "file_number": "08",
+      "source_path": "Brenn  4/youtube_videos/Transcript_Files/08_AudioFile.txt",
+      "speaker": "Jay Abraham",
+      "host_or_interviewer": "JT (event host, investor audience)",
+      "topic": "Abraham 101 keynote for investors; out-thinking and out-marketing competition; cross-industry strategy transfer; business as investment vehicle",
+      "word_count": 10227,
+      "suggested_author_key": "jay_abraham"
+    },
+    {
+      "file_number": "09",
+      "source_path": "Brenn  4/youtube_videos/Transcript_Files/09_AudioFile.txt",
+      "speaker": "Jay Abraham",
+      "host_or_interviewer": "Brian Kurtz",
+      "topic": "Brian Kurtz interviews Jay Abraham on preeminence; long-term business strategy vs revenue events; Jay's impact on direct response marketing",
+      "word_count": 12382,
+      "suggested_author_key": "jay_abraham"
+    },
+    {
+      "file_number": "10",
+      "source_path": "Brenn  4/youtube_videos/Transcript_Files/10_AudioFile.txt",
+      "speaker": "Jay Abraham",
+      "host_or_interviewer": "Unknown host (entrepreneur event, international audience)",
+      "topic": "Jay Abraham fireside chat on avoiding catastrophic business mistakes; conservative experimentation; entrepreneurial growth strategies",
+      "word_count": 9898,
+      "suggested_author_key": "jay_abraham"
+    },
+    {
+      "file_number": "11",
+      "source_path": "Brenn  4/youtube_videos/Transcript_Files/11_AudioFile.txt",
+      "speaker": "Jay Abraham",
+      "host_or_interviewer": null,
+      "topic": "Jay Abraham keynote; USP, strategy of preeminence, Q&A format; helping a Polish marketing agency scale internationally",
+      "word_count": 14621,
+      "suggested_author_key": "jay_abraham"
+    },
+    {
+      "file_number": "12",
+      "source_path": "Brenn  4/youtube_videos/Transcript_Files/12_AudioFile.txt",
+      "speaker": "Jay Abraham",
+      "host_or_interviewer": null,
+      "topic": "Jay Abraham keynote; helping audience discover the right questions to ask; calibrating business advice to service, goods, and tech entrepreneurs",
+      "word_count": 10558,
+      "suggested_author_key": "jay_abraham"
+    },
+    {
+      "file_number": "13",
+      "source_path": "Brenn  4/youtube_videos/Transcript_Files/13_AudioFile.txt",
+      "speaker": "Jay Abraham",
+      "host_or_interviewer": "Unknown host (same event as 12, evening session)",
+      "topic": "Jay Abraham on leveraging intangible business assets; managing marketing assets, relationships, and distribution for exponential growth",
+      "word_count": 12510,
+      "suggested_author_key": "jay_abraham"
+    },
+    {
+      "file_number": "14",
+      "source_path": "Brenn  5/youtube_videos/Transcript_Files/14_AudioFile.txt",
+      "speaker": "Jay Abraham",
+      "host_or_interviewer": null,
+      "topic": "Jay Abraham closing session; continuation of thinking differently theme; follow-up to morning session with expanded strategic distinctions",
+      "word_count": 9822,
+      "suggested_author_key": "jay_abraham"
+    }
+  ]
+}

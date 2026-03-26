@@ -1,0 +1,67 @@
+---
+title: Eugene Schwartz Ad Collection Reference (Swiped.co)
+source_url: https://swiped.co/person/eugene-schwartz/
+type: ad_reference
+date_scraped: 2026-03-26
+notes: Actual ad copy stored as images on swiped.co, not extractable as text. These are reference entries with headlines and metadata.
+---
+
+EUGENE SCHWARTZ ADS ON SWIPED.CO
+10 Classic Advertisements Archived
+
+1. "Now! Read 300 Business Magazines in 30 Minutes!" (Boardroom Reports)
+   - Type: 4-page sales letter
+   - Year: 1988
+   - Category: Business
+   - URL: https://swiped.co/file/boardroom-reports-eugene-schwartz/
+
+2. "Over Thirty" Ad
+   - Category: Education
+   - URL: https://swiped.co/file/over-thirty-ad-eugene-schwartz/
+
+3. "New Miracle Diet Cures Arthritis"
+   - Year: 1981
+   - Category: Health/Fitness
+   - URL: https://swiped.co/file/miracle-diet-schwartz/
+
+4. "Sweden's Miracle Formula"
+   - Category: Health & Wellness
+   - URL: https://swiped.co/file/swedish-miracle-schwartz/
+
+5. "The British Miracle That Creates Super Plants"
+   - Category: Gardening
+   - URL: https://swiped.co/file/british-miracle-schwartz/
+
+6. "New Miracle Drug"
+   - Category: Beauty
+   - URL: https://swiped.co/file/miracle-drug-schwartz/
+
+7. "Why Models Stay Young Till Sixty"
+   - Category: Beauty
+   - URL: https://swiped.co/file/models-ad-eugene-schwartz/
+
+8. "Do You Have the Courage to Earn Half a Million Dollars a Year?"
+   - Year: 1967
+   - Category: Business Opportunity
+   - URL: https://swiped.co/file/half-a-mill-ad-by-eugene-schwartz/
+
+9. "How Modern Chinese Medicine Helps Burn Disease Out of Your Body" (20-Year Control)
+   - Year: 1979
+   - Category: Health & Wellness
+   - Note: Ran for 20 years, generated $50M+ in sales
+   - URL: https://swiped.co/file/burn-disease-ad-by-eugene-schwartz/
+
+10. "Food is Your Best Medicine"
+    - Year: 1968
+    - Category: Nutrition, Health & Wellness
+    - URL: https://swiped.co/file/food-is-your-best-medicine-ad-by-eugene-schwartz/
+
+== ADDITIONAL AD RESOURCES ==
+
+Hard to Find Seminars Collection ($597):
+- 68 Eugene Schwartz ad PDFs
+- 90-minute speech audio (3 parts) + 31-page transcript
+- URL: https://www.hardtofindseminars.com/ES.html
+
+Scientific Advertising Package:
+- URL: https://www.scientificadvertising.com/gsads/
