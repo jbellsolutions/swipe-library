@@ -1,0 +1,30 @@
+{
+  "target_id": "target_5_linkedin_outreach",
+  "target_name": "LinkedIn Outreach Messages",
+  "description": "Optimize LinkedIn connection requests and follow-up DMs for AI automation agency owner",
+  "total_runs": 5,
+  "voice_references": {
+    "opener_style": "jon_buchan — charm offensive, playful, quirky pattern interrupts",
+    "value_positioning": "jay_abraham — Strategy of Preeminence, trusted advisor, lead with value"
+  },
+  "audiences": [
+    "Home services company owners (contractors, plumbers, HVAC)",
+    "Marketing agency owners who could refer clients",
+    "Business coaches who serve SMBs"
+  ],
+  "message_types": [
+    "connection_request (max 300 chars)",
+    "first_dm (max 500 chars)",
+    "follow_up_dm (max 500 chars)"
+  ],
+  "variations_per_run": 5,
+  "eval_criteria": {
+    "reply_rate_potential": "Would this get a response from a busy business owner? (1-10)",
+    "authenticity": "Does it feel human and genuine, not like a bot? (1-10)",
+    "value_signal": "Does it communicate value in the first 2 sentences? (1-10)",
+    "curiosity": "Does it create enough intrigue to warrant a reply? (1-10)",
+    "brevity": "Under 300 chars for connection, under 500 for DM? (1-10)"
+  },
+  "mutation_strategy": "Analyze weakest scoring criterion per batch, generate mutations that specifically address that weakness while preserving strengths",
+  "created_at": "2026-03-26T00:00:00Z"
+}

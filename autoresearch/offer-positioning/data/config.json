@@ -1,0 +1,39 @@
+{
+  "target": "offer_positioning",
+  "target_id": "target_4",
+  "framework": "Hormozi Value Equation: (Dream Outcome x Perceived Likelihood) / (Time Delay x Effort & Sacrifice)",
+  "offers": [
+    {
+      "name": "Cold Email Machine",
+      "description": "AI-powered cold email system for B2B lead gen",
+      "price": "$2,997",
+      "model": "one-time"
+    },
+    {
+      "name": "AI SDR Agent",
+      "description": "Autonomous AI sales development rep",
+      "price": "$4,997/mo",
+      "model": "monthly"
+    },
+    {
+      "name": "Home Services Lead Automation",
+      "description": "AI lead gen for contractors",
+      "price": "$1,997/mo",
+      "model": "monthly"
+    }
+  ],
+  "eval_criteria": {
+    "Dream_outcome_clarity": "Is the promised result crystal clear and desirable?",
+    "Believability": "Does the prospect believe this can actually deliver?",
+    "Speed_to_value": "Is the time-to-result fast and specific?",
+    "Effort_reduction": "Does it clearly minimize what the buyer has to do?",
+    "Risk_reversal": "Is there a strong guarantee that removes buyer risk?"
+  },
+  "optimization": {
+    "total_runs": 5,
+    "variations_per_run": 5,
+    "offers_per_variation": 3,
+    "keep_threshold": 7.0,
+    "mutation_strategy": "target_weakest_criterion"
+  }
+}

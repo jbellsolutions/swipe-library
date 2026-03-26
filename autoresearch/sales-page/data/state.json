@@ -1,0 +1,47 @@
+{
+  "target": "sales_page_copy",
+  "target_id": "target_3",
+  "status": "complete",
+  "total_runs": 5,
+  "total_variations_generated": 25,
+  "total_kept": 23,
+  "total_discarded": 2,
+  "winning_variation": {
+    "run": 5,
+    "variation": 1,
+    "avg_score": 10.0,
+    "scores": {
+      "Headline_power": 10,
+      "Mechanism_clarity": 10,
+      "Proof_structure": 10,
+      "Offer_irresistibility": 10,
+      "CTA_urgency": 10
+    }
+  },
+  "runner_up": {
+    "run": 5,
+    "variation": 2,
+    "avg_score": 9.6
+  },
+  "score_progression": {
+    "run_1_best": 8.0,
+    "run_2_best": 9.0,
+    "run_3_best": 9.2,
+    "run_4_best": 9.4,
+    "run_5_best": 10.0
+  },
+  "mutation_log": [
+    {"run": 2, "focus": "Proof_structure", "action": "Added specific placement stats, named graduate case studies, cohort-by-cohort data"},
+    {"run": 3, "focus": "Headline_power + CTA_urgency", "action": "Company-commissioned reframe, deadline mechanics, delay cost quantification"},
+    {"run": 4, "focus": "Polish all criteria", "action": "Competitive comparison table, ROI calculation, demographic breakdown, cost-of-delay math"},
+    {"run": 5, "focus": "Final synthesis", "action": "Combined best elements from all 9.4-scoring variations into definitive composite"}
+  ],
+  "council_agents_used": [
+    "schwartz.awareness — Solution Aware diagnosis",
+    "schwartz.sophistication — Level 3 mechanism diagnosis",
+    "bencivenga.headlines — headline craft",
+    "kennedy.sales_letters — body copy with no-BS closing",
+    "hormozi.offers — value equation offer stack"
+  ],
+  "completed_at": "2026-03-26T00:00:00Z"
+}

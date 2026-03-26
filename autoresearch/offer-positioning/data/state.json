@@ -1,0 +1,59 @@
+{
+  "target": "offer_positioning",
+  "target_id": "target_4",
+  "status": "complete",
+  "total_runs": 5,
+  "total_variations_generated": 75,
+  "total_kept": 71,
+  "total_discarded": 4,
+  "winners": {
+    "Cold_Email_Machine": {
+      "winning_run": 4,
+      "avg_score": 10.0,
+      "scores": {
+        "Dream_outcome_clarity": 10,
+        "Believability": 10,
+        "Speed_to_value": 10,
+        "Effort_reduction": 10,
+        "Risk_reversal": 10
+      }
+    },
+    "AI_SDR_Agent": {
+      "winning_run": 4,
+      "avg_score": 9.8,
+      "scores": {
+        "Dream_outcome_clarity": 10,
+        "Believability": 10,
+        "Speed_to_value": 9,
+        "Effort_reduction": 10,
+        "Risk_reversal": 10
+      }
+    },
+    "Home_Services_Lead_Automation": {
+      "winning_run": 4,
+      "avg_score": 10.0,
+      "scores": {
+        "Dream_outcome_clarity": 10,
+        "Believability": 10,
+        "Speed_to_value": 10,
+        "Effort_reduction": 10,
+        "Risk_reversal": 10
+      }
+    }
+  },
+  "score_progression": {
+    "run_1_best_avg": 8.2,
+    "run_2_best_avg": 9.4,
+    "run_3_best_avg": 9.8,
+    "run_4_best_avg": 10.0,
+    "run_5_validation": "confirmed"
+  },
+  "mutation_log": [
+    {"run": 2, "focus": "Believability", "action": "Added install bases, refund rates, specific deployment timelines, third-party data references"},
+    {"run": 3, "focus": "Dream_outcome_clarity + Speed_to_value", "action": "Before/after data, day-by-day timelines, ROI calculations, cost-per-meeting metrics"},
+    {"run": 4, "focus": "Final refinement", "action": "Comparison tables, performance ramp data, monthly guarantees, complete proof suites"},
+    {"run": 5, "focus": "Validation", "action": "Tested 9 alternative angles across 3 offers. None outscored Run 4 winners."}
+  ],
+  "framework_applied": "Hormozi Value Equation: (Dream Outcome x Perceived Likelihood) / (Time Delay x Effort & Sacrifice)",
+  "completed_at": "2026-03-26T00:00:00Z"
+}

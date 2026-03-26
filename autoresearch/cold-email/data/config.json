@@ -1,0 +1,28 @@
+{
+  "target": "cold-email-sequences",
+  "description": "Generate and optimize a 5-email cold outreach sequence for an AI automation agency targeting home services companies",
+  "agents_used": ["jon_buchan", "lead_gen_jay", "bill_mueller", "eugene_schwartz"],
+  "agent_roles": {
+    "jon_buchan": "opener personality and charm",
+    "lead_gen_jay": "system/follow-up structure",
+    "bill_mueller": "story nurture emails",
+    "eugene_schwartz": "awareness diagnosis and headline matching"
+  },
+  "total_runs": 5,
+  "variants_per_run": 5,
+  "sequence_length": 5,
+  "eval_criteria": {
+    "reply_likelihood": "Would a busy contractor actually respond?",
+    "personalization": "Does it feel custom, not templated?",
+    "value_first": "Does it lead with value before asking?",
+    "brevity": "Under 100 words per email?",
+    "sequence_flow": "Does each email build on the last naturally?"
+  },
+  "scoring_range": [1, 10],
+  "keep_threshold": "batch_average >= best_previous_average",
+  "mutation_strategy": "analyze weakest criteria, make targeted improvements",
+  "output_files": {
+    "results_log": "results.jsonl",
+    "best_sequence": "best_sequence.md"
+  }
+}

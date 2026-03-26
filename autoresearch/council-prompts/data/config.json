@@ -1,0 +1,21 @@
+{
+  "target": "council-agent-system-prompts",
+  "description": "Optimize system prompts for top 5 council agents to maximize voice authenticity, actionability, distinctiveness, knowledge depth, and versatility",
+  "agents": ["eugene_schwartz", "jay_abraham", "dan_kennedy", "alex_hormozi", "todd_brown"],
+  "total_runs": 5,
+  "variants_per_run": 5,
+  "eval_criteria": {
+    "voice_authenticity": "Does the prompt make the AI truly sound like this copywriter?",
+    "actionability": "Does the prompt produce usable copy, not just theory?",
+    "distinctiveness": "Would you know which copywriter wrote this without being told?",
+    "knowledge_depth": "Does the prompt leverage the copywriter's specific techniques/frameworks?",
+    "versatility": "Can the prompt handle different content types (emails, headlines, sales pages)?"
+  },
+  "scoring_range": [1, 10],
+  "keep_threshold": "batch_average >= best_previous_average",
+  "mutation_strategy": "analyze weakest criteria, make targeted improvements",
+  "output_files": {
+    "results_log": "results.jsonl",
+    "best_prompts": "best_prompts.json"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "target_id": "target_6_headline_generation",
+  "current_run": 5,
+  "total_runs": 5,
+  "status": "complete",
+  "total_headlines_generated": 250,
+  "top_kept_per_use_case": 2,
+  "run_summaries": {
+    "run_1": {
+      "focus": "baseline generation",
+      "headlines_generated": 50,
+      "batch_avg": 7.91,
+      "weakest_criterion": "specificity (6.9)",
+      "strongest_pattern": "bencivenga_comparison_proof (9.2)",
+      "mutation_for_next": "boost specificity and curiosity"
+    },
+    "run_2": {
+      "focus": "specificity + curiosity boost",
+      "headlines_generated": 50,
+      "batch_avg": 8.56,
+      "weakest_criterion": "curiosity (8.1)",
+      "strongest_patterns": ["bencivenga_scenario_specific (9.4)", "bencivenga_contrast_data (9.4)"],
+      "mutation_for_next": "lean into comparison patterns, boost stop_power"
+    },
+    "run_3": {
+      "focus": "comparison patterns + stop_power",
+      "headlines_generated": 50,
+      "batch_avg": 8.62,
+      "weakest_criterion": "curiosity (7.8 in some use cases)",
+      "strongest_pattern": "bencivenga_before_after_evolved (9.6)",
+      "mutation_for_next": "push curiosity higher while maintaining specificity"
+    },
+    "run_4": {
+      "focus": "curiosity maximization",
+      "headlines_generated": 50,
+      "batch_avg": 8.69,
+      "weakest_criterion": "curiosity (7.5 in product-aware headlines)",
+      "strongest_pattern": "bencivenga_before_after_ultimate (9.8)",
+      "mutation_for_next": "final cherry-pick and balance"
+    },
+    "run_5": {
+      "focus": "final balanced optimization",
+      "headlines_generated": 50,
+      "batch_avg": 8.91,
+      "strongest_patterns": [
+        "bencivenga_before_after_ultimate_v2 (9.8)",
+        "schwartz_waste_reveal_final (9.6)",
+        "bencivenga_immersive_scenario_final (9.4)",
+        "bencivenga_controlled_comparison_final (9.4)",
+        "bencivenga_triple_comparison_final (9.4)",
+        "bencivenga_timeline_story_final (9.4)"
+      ]
+    }
+  },
+  "top_patterns_overall": [
+    {"pattern": "bencivenga_before_after_comparison", "avg_score": 9.5, "description": "Side-by-side before/after with specific numbers. Dominant across Product Aware markets."},
+    {"pattern": "bencivenga_scenario_with_timestamps", "avg_score": 9.3, "description": "Micro-narrative with exact times/days. Dominant for Problem Aware markets."},
+    {"pattern": "schwartz_waste_reveal", "avg_score": 9.2, "description": "Exposing hidden cost/waste with exact percentages. Dominant for Problem Aware."},
+    {"pattern": "bencivenga_controlled_comparison", "avg_score": 9.2, "description": "Same inputs, different outputs, single variable. Works across all awareness levels."},
+    {"pattern": "schwartz_transformation_specific", "avg_score": 9.0, "description": "Identity A to Identity B with timeframe and price. Dominant for Solution Aware."}
+  ],
+  "key_findings": {
+    "problem_aware_best": "Scenarios with timestamps + hidden cost reveals",
+    "solution_aware_best": "Before/after transformations + comparison studies",
+    "product_aware_best": "Before/after with exact numbers + competitive benchmarks",
+    "universal_rule": "Bencivenga comparison with specific numbers outperforms every other pattern type"
+  },
+  "completed_at": "2026-03-26T00:00:00Z"
+}

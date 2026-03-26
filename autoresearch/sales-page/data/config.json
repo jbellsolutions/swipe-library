@@ -1,0 +1,36 @@
+{
+  "target": "sales_page_copy",
+  "target_id": "target_3",
+  "product": "AI Integrators",
+  "description": "12-week AI automation certification and placement program",
+  "price": "$4,997",
+  "includes": [
+    "Training curriculum",
+    "Certification",
+    "Job placement",
+    "Ongoing support community"
+  ],
+  "market_awareness": "Solution Aware",
+  "market_sophistication": "Level 3 — Mechanism needed",
+  "council_workflow": "full_sales_page",
+  "agent_pipeline": [
+    "schwartz.awareness → diagnose level",
+    "schwartz.sophistication → diagnose stage",
+    "bencivenga.headlines → headline generation",
+    "kennedy.sales_letters → body copy",
+    "hormozi.offers → offer section"
+  ],
+  "eval_criteria": {
+    "Headline_power": "Does the headline stop scrolling and command attention?",
+    "Mechanism_clarity": "Is the unique mechanism clear and believable?",
+    "Proof_structure": "Are there credible proof elements?",
+    "Offer_irresistibility": "Does the offer stack make the price feel like a steal?",
+    "CTA_urgency": "Is there a compelling reason to act now?"
+  },
+  "optimization": {
+    "total_runs": 5,
+    "variations_per_run": 5,
+    "keep_threshold": 7.0,
+    "mutation_strategy": "target_weakest_criterion"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "target": "cold-email-sequences",
+  "completed_runs": 5,
+  "total_runs": 5,
+  "status": "complete",
+  "best_score": 8.02,
+  "best_sequence_name": "The Seasonal Urgency",
+  "total_variants_evaluated": 25,
+  "timestamp": "2026-03-26T11:27:21.186290"
+}

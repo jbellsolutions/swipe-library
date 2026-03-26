@@ -1,0 +1,28 @@
+{
+  "target_id": "target_6_headline_generation",
+  "target_name": "Headline Generation",
+  "description": "Optimize headlines for 5 use cases using Schwartz awareness-matched patterns and Bencivenga precision craft",
+  "total_runs": 5,
+  "voice_references": {
+    "pattern_source": "eugene_schwartz — 127 headline patterns, awareness-level matching, picture words",
+    "craft_source": "gary_bencivenga — surgical precision, control-beating, test-driven"
+  },
+  "use_cases": [
+    {"id": "uc1", "name": "AI Integrators Certification Program", "awareness": "Solution Aware"},
+    {"id": "uc2", "name": "Cold Email Machine SaaS Tool", "awareness": "Product Aware"},
+    {"id": "uc3", "name": "Home Services AI Lead Gen", "awareness": "Problem Aware"},
+    {"id": "uc4", "name": "AI SDR Autonomous Agent", "awareness": "Solution Aware"},
+    {"id": "uc5", "name": "Staffing/Recruiting AI System", "awareness": "Problem Aware"}
+  ],
+  "headlines_per_use_case_per_run": 10,
+  "top_kept_per_use_case": 2,
+  "eval_criteria": {
+    "stop_power": "Would this stop someone mid-scroll? (1-10)",
+    "clarity": "Is the benefit/promise instantly clear? (1-10)",
+    "specificity": "Are there concrete numbers, timeframes, or outcomes? (1-10)",
+    "curiosity": "Does it create an information gap that demands resolution? (1-10)",
+    "awareness_match": "Does the headline match the market's awareness level correctly? (1-10)"
+  },
+  "mutation_strategy": "Identify which Schwartz patterns score highest across runs, lean into those patterns while mutating weak dimensions",
+  "created_at": "2026-03-26T00:00:00Z"
+}

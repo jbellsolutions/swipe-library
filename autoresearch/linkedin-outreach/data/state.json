@@ -1,0 +1,67 @@
+{
+  "target_id": "target_5_linkedin_outreach",
+  "current_run": 5,
+  "total_runs": 5,
+  "status": "complete",
+  "total_messages_generated": 75,
+  "messages_kept": 71,
+  "messages_discarded": 4,
+  "discard_reasons": ["weak value_signal", "weak curiosity", "generic flattery"],
+  "run_summaries": {
+    "run_1": {
+      "focus": "baseline generation",
+      "messages_generated": 45,
+      "messages_discarded": 2,
+      "avg_score": 7.6,
+      "weakest_criterion": "curiosity (7.0)",
+      "strongest_pattern": "buchan_radical_transparency (9.0)",
+      "mutation_for_next": "boost curiosity via open loops, withheld data, counterintuitive claims"
+    },
+    "run_2": {
+      "focus": "curiosity optimization",
+      "messages_generated": 15,
+      "messages_discarded": 0,
+      "avg_score": 8.6,
+      "weakest_criterion": "authenticity (7.5)",
+      "strongest_pattern": "buchan_counterintuitive + abraham_preeminence (8.8)",
+      "mutation_for_next": "recover authenticity while maintaining curiosity"
+    },
+    "run_3": {
+      "focus": "authenticity recovery + DM generation",
+      "messages_generated": 12,
+      "messages_discarded": 0,
+      "avg_score": 8.3,
+      "weakest_criterion": "brevity (7.8)",
+      "strongest_pattern": "artifact_proof + buchan_no_pressure (8.6)",
+      "mutation_for_next": "maximize value_signal in connection requests"
+    },
+    "run_4": {
+      "focus": "value_signal maximization",
+      "messages_generated": 10,
+      "messages_discarded": 0,
+      "avg_score": 8.5,
+      "weakest_criterion": "authenticity (7.2 in heavy-stat messages)",
+      "strongest_pattern": "present_tense_pain + personalized_demo (9.0)",
+      "mutation_for_next": "final balance of all criteria"
+    },
+    "run_5": {
+      "focus": "final balanced optimization",
+      "messages_generated": 15,
+      "messages_discarded": 0,
+      "avg_score": 8.8,
+      "strongest_patterns": [
+        "specific_proof + buchan_charm + demo_tease (9.2)",
+        "buchan_radical_transparency + abraham_clear_model (9.2)",
+        "counterintuitive_story + abraham_preeminence_reversal (9.2)"
+      ]
+    }
+  },
+  "top_patterns_overall": [
+    {"pattern": "buchan_radical_transparency", "avg_score": 9.1, "description": "Opening with complete honesty about intentions, reversing expectations"},
+    {"pattern": "counterintuitive_story", "avg_score": 9.0, "description": "Paradoxical behavior (e.g., turning down clients, needing agencies more than clients need you)"},
+    {"pattern": "specific_proof + charm", "avg_score": 8.9, "description": "Hard numbers wrapped in conversational, charming tone"},
+    {"pattern": "abraham_preeminence_reversal", "avg_score": 8.8, "description": "Positioning yourself as needing them more than they need you"},
+    {"pattern": "graceful_exit + content_lead", "avg_score": 8.5, "description": "Final messages offering value artifact with genuine exit option"}
+  ],
+  "completed_at": "2026-03-26T00:00:00Z"
+}
