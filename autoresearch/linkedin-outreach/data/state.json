@@ -1,10 +1,10 @@
 {
   "target_id": "target_5_linkedin_outreach",
-  "current_run": 5,
-  "total_runs": 5,
+  "current_run": 10,
+  "total_runs": 10,
   "status": "complete",
-  "total_messages_generated": 75,
-  "messages_kept": 71,
+  "total_messages_generated": 140,
+  "messages_kept": 136,
   "messages_discarded": 4,
   "discard_reasons": ["weak value_signal", "weak curiosity", "generic flattery"],
   "run_summaries": {
@@ -54,14 +54,75 @@
         "buchan_radical_transparency + abraham_clear_model (9.2)",
         "counterintuitive_story + abraham_preeminence_reversal (9.2)"
       ]
+    },
+    "run_6": {
+      "focus": "radical_transparency_x_preeminence_fusion + micro_case_studies",
+      "messages_generated": 13,
+      "messages_discarded": 0,
+      "avg_score": 9.0,
+      "weakest_criterion": "curiosity in follow-ups (7.3)",
+      "strongest_pattern": "micro_proof_story + ultra_brevity (9.4)",
+      "mutation_for_next": "stress test ultra-brevity — find the floor"
+    },
+    "run_7": {
+      "focus": "ultra_brevity_stress_test",
+      "messages_generated": 15,
+      "messages_discarded": 0,
+      "avg_score": 9.0,
+      "weakest_criterion": "authenticity in sub-100 char messages (6.0)",
+      "strongest_patterns": [
+        "rhythmic_proof + personalization (9.4)",
+        "story_continuation DM + artifact + bet (9.4)"
+      ],
+      "mutation_for_next": "test content-reference personalization"
+    },
+    "run_8": {
+      "focus": "content_reference_dm_optimization",
+      "messages_generated": 13,
+      "messages_discarded": 0,
+      "avg_score": 9.0,
+      "weakest_criterion": "brevity in deep-personalization DMs (7.0)",
+      "strongest_pattern": "content_reference_bridge + proof (9.6)",
+      "mutation_for_next": "hybrid best patterns stress test"
+    },
+    "run_9": {
+      "focus": "hybrid_best_patterns_stress_test",
+      "messages_generated": 13,
+      "messages_discarded": 0,
+      "avg_score": 9.1,
+      "weakest_criterion": "curiosity in follow-ups (7.0)",
+      "strongest_patterns": [
+        "content_ref + empathy + rhythmic_proof (9.6)",
+        "mutual_proof_exchange + scarcity (9.6)"
+      ],
+      "mutation_for_next": "championship round — combine all winners"
+    },
+    "run_10": {
+      "focus": "final_championship_round",
+      "messages_generated": 13,
+      "messages_discarded": 0,
+      "avg_score": 9.3,
+      "strongest_patterns": [
+        "comment_ref + proof + instant_artifact (9.8 — ALL-TIME HIGH)",
+        "content_ref + rhythmic_proof (9.6)",
+        "their_proof + your_proof + scarcity (9.6)",
+        "content_agreement + named_proof + exclusive_pick (9.4)"
+      ]
     }
   },
+  "round_2_evolution": {
+    "avg_score_progression": [9.0, 9.0, 9.0, 9.1, 9.3],
+    "ceiling_progression": [9.4, 9.4, 9.6, 9.6, 9.8],
+    "round_1_best": 9.2,
+    "round_2_best": 9.8,
+    "improvement": "+6.5%"
+  },
   "top_patterns_overall": [
-    {"pattern": "buchan_radical_transparency", "avg_score": 9.1, "description": "Opening with complete honesty about intentions, reversing expectations"},
-    {"pattern": "counterintuitive_story", "avg_score": 9.0, "description": "Paradoxical behavior (e.g., turning down clients, needing agencies more than clients need you)"},
-    {"pattern": "specific_proof + charm", "avg_score": 8.9, "description": "Hard numbers wrapped in conversational, charming tone"},
-    {"pattern": "abraham_preeminence_reversal", "avg_score": 8.8, "description": "Positioning yourself as needing them more than they need you"},
-    {"pattern": "graceful_exit + content_lead", "avg_score": 8.5, "description": "Final messages offering value artifact with genuine exit option"}
+    {"pattern": "comment_ref + proof + instant_artifact", "avg_score": 9.8, "description": "Reference their specific comment, add rhythmic proof, link immediate demo"},
+    {"pattern": "content_ref + empathy + rhythmic_proof", "avg_score": 9.6, "description": "Reference their post, show empathy, deliver proof in rhythmic fragments"},
+    {"pattern": "mutual_proof_exchange + scarcity", "avg_score": 9.6, "description": "Open with THEIR proof, match with yours, add numbered scarcity"},
+    {"pattern": "micro_proof_story + ultra_brevity", "avg_score": 9.4, "description": "Dense proof in rhythmic fragments under 150 chars"},
+    {"pattern": "content_agreement + named_proof + exclusive_pick", "avg_score": 9.4, "description": "Agree with their content, add named case study, position them as top pick"}
   ],
   "completed_at": "2026-03-26T00:00:00Z"
 }

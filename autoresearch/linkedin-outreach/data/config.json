@@ -2,7 +2,27 @@
   "target_id": "target_5_linkedin_outreach",
   "target_name": "LinkedIn Outreach Messages",
   "description": "Optimize LinkedIn connection requests and follow-up DMs for AI automation agency owner",
-  "total_runs": 5,
+  "total_runs": 10,
+  "rounds": {
+    "round_1": {
+      "runs": "1-5",
+      "focus": "baseline → curiosity → authenticity → value_signal → balanced optimization",
+      "best_score": 9.2
+    },
+    "round_2": {
+      "runs": "6-10",
+      "focus": "transparency x preeminence fusion → ultra-brevity → content-reference → hybrid patterns → championship",
+      "best_score": 9.8,
+      "key_innovations": [
+        "micro-case-study openers (1-sentence proof stories)",
+        "rhythmic proof delivery (staccato sentence fragments)",
+        "content-reference personalization (comment-level, not just post-level)",
+        "immediate artifact access (demo link in connection request)",
+        "named case studies for authenticity",
+        "charitable bets for skin-in-the-game"
+      ]
+    }
+  },
   "voice_references": {
     "opener_style": "jon_buchan — charm offensive, playful, quirky pattern interrupts",
     "value_positioning": "jay_abraham — Strategy of Preeminence, trusted advisor, lead with value"
@@ -26,5 +46,6 @@
     "brevity": "Under 300 chars for connection, under 500 for DM? (1-10)"
   },
   "mutation_strategy": "Analyze weakest scoring criterion per batch, generate mutations that specifically address that weakness while preserving strengths",
-  "created_at": "2026-03-26T00:00:00Z"
+  "created_at": "2026-03-26T00:00:00Z",
+  "updated_at": "2026-03-26T00:00:00Z"
 }

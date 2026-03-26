@@ -1,0 +1,65 @@
+{
+  "target_id": "target_6_council_router",
+  "current_run": 5,
+  "total_runs": 5,
+  "status": "complete",
+  "total_variations_generated": 25,
+  "variations_kept": 25,
+  "variations_discarded": 0,
+  "run_summaries": {
+    "run_1": {
+      "focus": "baseline generation — 5 increasing-complexity variations",
+      "avg_score": 6.5,
+      "best_variation": "var_5 comprehensive (8.0)",
+      "weakest_criterion": "completeness (5.6 avg), combination_intelligence (6.2 avg)",
+      "mutation_for_next": "push combination intelligence with contrarian check, anti-patterns, and audience mirror"
+    },
+    "run_2": {
+      "focus": "combination intelligence, workflow templates, edge case handling",
+      "avg_score": 8.4,
+      "best_variation": "var_5 synthesis (9.0 — all criteria at 9)",
+      "weakest_criterion": "all balanced at 9",
+      "mutation_for_next": "push each criterion to 10 individually"
+    },
+    "run_3": {
+      "focus": "individual criterion push-to-10",
+      "avg_score": 9.2,
+      "best_variation": "var_5 synthesis_v2 (9.8 — four criteria at 10)",
+      "weakest_criterion": "combination_intelligence (9)",
+      "mutation_for_next": "push combination intelligence to 10"
+    },
+    "run_4": {
+      "focus": "combination intelligence ceiling + format optimization + meta-routing",
+      "avg_score": 9.8,
+      "best_variation": "var_5 final_champion (10.0 — all criteria at 10)",
+      "key_additions": [
+        "cross-era fusion patterns",
+        "third agent principle",
+        "unexpected combinations",
+        "synthesis move articulation",
+        "meta-routing intelligence (confidence, escalation, learning signals)",
+        "modular format with quick reference"
+      ]
+    },
+    "run_5": {
+      "focus": "stress testing with 5 diverse briefs",
+      "avg_score": 9.96,
+      "test_results": {
+        "cold_email_novel_market": 10.0,
+        "cynical_market_sales_page": 10.0,
+        "multi_audience_multi_channel_control_beater": 10.0,
+        "budget_constrained_jv_launch": 9.8,
+        "complex_multi_content_financial_services": 10.0
+      },
+      "validation": "Champion prompt handles all brief types correctly. Override rules fire. Edge cases handled. Budget constraints respected. Voice anchoring works."
+    }
+  },
+  "score_progression": {
+    "run_1": {"avg": 6.5, "best": 8.0},
+    "run_2": {"avg": 8.4, "best": 9.0},
+    "run_3": {"avg": 9.2, "best": 9.8},
+    "run_4": {"avg": 9.8, "best": 10.0},
+    "run_5": {"avg": 9.96, "best": 10.0}
+  },
+  "completed_at": "2026-03-26T00:00:00Z"
+}

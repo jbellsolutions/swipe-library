@@ -1,0 +1,31 @@
+{
+  "target": "email_nurture_sequences",
+  "created": "2026-03-26",
+  "total_runs": 5,
+  "batch_size": 3,
+  "sequence_length": 7,
+  "topic": "AI Automation for Business",
+  "starting_awareness": "Problem Aware -> Solution Aware",
+  "goal_awareness": "Product Aware -> Ready for sales call",
+  "voice_blend": [
+    "brian_kurtz: relationship building, insider stories, generosity",
+    "bill_mueller: story-driven emails, curiosity hooks",
+    "jay_abraham: preeminence positioning, strategic value",
+    "eugene_schwartz: awareness escalation, picture words"
+  ],
+  "eval_criteria": [
+    "open_rate_potential",
+    "story_engagement",
+    "trust_building",
+    "awareness_escalation",
+    "sequence_arc"
+  ],
+  "email_constraints": {
+    "word_count_min": 150,
+    "word_count_max": 300,
+    "subject_line_required": true,
+    "soft_cta_emails_1_through_6": true,
+    "hard_cta_email_7": true,
+    "narrative_continuity": true
+  }
+}

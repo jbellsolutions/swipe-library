@@ -1,0 +1,90 @@
+{
+  "progression": [
+    {
+      "run": 1,
+      "best_variation": "B",
+      "scores": {
+        "open_rate_potential": 8,
+        "story_engagement": 7,
+        "trust_building": 7,
+        "awareness_escalation": 7,
+        "sequence_arc": 7
+      },
+      "avg": 7.2,
+      "status": "KEPT",
+      "mutation_applied": "baseline",
+      "weakest_criteria": ["story_engagement", "awareness_escalation"],
+      "discarded": ["A (6.6)", "C (6.2)"]
+    },
+    {
+      "run": 2,
+      "best_variation": "A",
+      "scores": {
+        "open_rate_potential": 8,
+        "story_engagement": 8,
+        "trust_building": 7,
+        "awareness_escalation": 7,
+        "sequence_arc": 7
+      },
+      "avg": 7.4,
+      "status": "KEPT",
+      "mutation_applied": "targeted story_engagement (+1) and awareness_escalation (held) via concrete case study and Schwartz picture words",
+      "weakest_criteria": ["trust_building", "awareness_escalation"],
+      "discarded": ["B (7.2)", "C (6.8)"]
+    },
+    {
+      "run": 3,
+      "best_variation": "A",
+      "scores": {
+        "open_rate_potential": 8,
+        "story_engagement": 8,
+        "trust_building": 8,
+        "awareness_escalation": 8,
+        "sequence_arc": 8
+      },
+      "avg": 8.0,
+      "status": "KEPT",
+      "mutation_applied": "targeted trust_building (+1) and awareness_escalation (+1) via Kurtz insider story and Schwartz awareness bridge in email 5",
+      "weakest_criteria": ["open_rate_potential"],
+      "discarded": ["B (7.6)", "C (7.2)"]
+    },
+    {
+      "run": 4,
+      "best_variation": "A",
+      "scores": {
+        "open_rate_potential": 9,
+        "story_engagement": 8,
+        "trust_building": 8,
+        "awareness_escalation": 8,
+        "sequence_arc": 8
+      },
+      "avg": 8.2,
+      "status": "KEPT",
+      "mutation_applied": "targeted open_rate_potential (+1) via Mueller curiosity gaps + Schwartz specificity in subject lines",
+      "weakest_criteria": ["story_engagement", "trust_building", "awareness_escalation", "sequence_arc"],
+      "discarded": ["C (7.6)"],
+      "notes": "Variation B also scored 8.2 with different strengths (story_engagement:9). Kept as alternate for final comparison."
+    },
+    {
+      "run": 5,
+      "best_variation": "A",
+      "scores": {
+        "open_rate_potential": 9,
+        "story_engagement": 9,
+        "trust_building": 9,
+        "awareness_escalation": 9,
+        "sequence_arc": 9
+      },
+      "avg": 9.0,
+      "status": "BEST",
+      "mutation_applied": "combined Run 4A subject lines with Run 4B story threading, added Kurtz generosity reveal in email 5, Schwartz awareness ladder smoothed across all 7",
+      "weakest_criteria": [],
+      "discarded": ["B (8.6)", "C (8.2)"]
+    }
+  ],
+  "total_variations_generated": 15,
+  "total_kept": 5,
+  "total_discarded": 10,
+  "final_winner": "Run 5, Variation A",
+  "final_score": 9.0
+}

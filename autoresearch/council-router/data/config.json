@@ -1,0 +1,40 @@
+{
+  "target_id": "target_6_council_router",
+  "target_name": "Council Router System Prompt",
+  "description": "Optimize the system prompt for the Copywriter Council Router that orchestrates 18 agents and 57 sub-agents",
+  "total_runs": 5,
+  "variations_per_run": 5,
+  "eval_criteria": {
+    "routing_accuracy": "Does it select the right agents for different brief types? (1-10)",
+    "combination_intelligence": "Does it create smart agent combinations, not just obvious ones? (1-10)",
+    "diagnosis_depth": "Does it correctly identify awareness and sophistication levels? (1-10)",
+    "workflow_design": "Does it design efficient multi-step workflows? (1-10)",
+    "completeness": "Does it handle edge cases (multi-product, multi-audience, etc.)? (1-10)"
+  },
+  "agent_registry": {
+    "total_agents": 18,
+    "total_sub_agents": 57,
+    "agents": [
+      "alex_hormozi (Offer Architect): hormozi.offers, hormozi.value, hormozi.scaling",
+      "bill_mueller (Story Sales Machine): mueller.story_emails, mueller.curiosity, mueller.critiques",
+      "brian_kurtz (Relationship Builder): kurtz.nurture, kurtz.insider, kurtz.partnerships, kurtz.direct_mail",
+      "dan_kennedy (No-BS Closer): kennedy.sales_letters, kennedy.direct_mail, kennedy.info_products, kennedy.contrarian",
+      "eugene_schwartz (Market Awareness Master): schwartz.awareness, schwartz.sophistication, schwartz.headlines, schwartz.research, schwartz.brilliance",
+      "fred_catona (Broadcast Specialist): catona.radio, catona.media",
+      "gary_bencivenga (Headline Craftsman): bencivenga.headlines, bencivenga.controls, bencivenga.proof",
+      "gordon_grossman (List Master): grossman.subscription, grossman.lists",
+      "greg_renker (Infomercial King): renker.tv, renker.celebrity",
+      "jay_abraham (Strategy of Preeminence): abraham.preeminence, abraham.leverage, abraham.partnerships, abraham.reframe, abraham.authority",
+      "joe_sugarman (Story Seller): sugarman.storytelling, sugarman.curiosity, sugarman.print",
+      "jon_buchan (Charm Offensive): buchan.cold_email, buchan.humor, buchan.charm",
+      "ken_mccarthy (Internet Pioneer): mccarthy.fundamentals, mccarthy.history",
+      "lead_gen_jay (Outbound Operator): leadgenjay.systems, leadgenjay.prospecting, leadgenjay.b2b",
+      "liam_ottley (AI Agency Builder): ottley.ai_offers, ottley.automation, ottley.agency",
+      "perry_marshall (80/20 Strategist): marshall.8020, marshall.traffic, marshall.simplification",
+      "todd_brown (Mechanism Master): brown.mechanisms, brown.funnels, brown.e5, brown.launch",
+      "tom_bilyeu (Belief Shifter): bilyeu.mindset, bilyeu.inspiration, bilyeu.impact"
+    ]
+  },
+  "mutation_strategy": "Analyze weakest scoring criterion per batch, generate mutations that specifically address that weakness while preserving strengths",
+  "created_at": "2026-03-26T00:00:00Z"
+}

@@ -1,10 +1,10 @@
 {
   "target": "cold-email-sequences",
-  "completed_runs": 5,
-  "total_runs": 5,
+  "completed_runs": 10,
+  "total_runs": 10,
   "status": "complete",
-  "best_score": 8.02,
-  "best_sequence_name": "The Seasonal Urgency",
-  "total_variants_evaluated": 25,
-  "timestamp": "2026-03-26T11:27:21.186290"
+  "best_score": 8.76,
+  "best_sequence_name": "Radical Transparency v4",
+  "total_variants_evaluated": 50,
+  "timestamp": "2026-03-26T11:51:34.349838"
 }
